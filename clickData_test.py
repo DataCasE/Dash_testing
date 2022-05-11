@@ -8,7 +8,7 @@ import plotly.express as px
 import dash_bootstrap_components as dbc
 
 # import data
-df = pd.read_csv('dummy_data.csv')
+df = pd.read_csv('dummy_data_test.csv')
 
 with open('geo_gemeenten.json') as json_data:
      geo_muni = json.load(json_data)
