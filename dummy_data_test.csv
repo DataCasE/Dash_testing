@@ -1,0 +1,3340 @@
+code,geo,prevalentie,GM_NAAM,WK_NAAM
+GM0003,GEM,65.84766585,Appingedam,
+WK000300,WC,65.84766585,Appingedam,Wijk 00
+GM0005,GEM,98.59531773,Bedum,
+WK000500,WC,98.59531773,Bedum,Wijk 00
+GM0007,GEM,53.93188854,Bellingwedde,
+WK000700,WC,40.0,Bellingwedde,Wijk 00 Bellingwolde
+WK000701,WC,0.0,Bellingwedde,Wijk 01 Oost
+WK000702,WC,74.9068323,Bellingwedde,Wijk 02 Blijham
+GM0009,GEM,175.959596,Ten Boer,
+WK000900,WC,200.2298851,Ten Boer,Wijk 00 West
+WK000901,WC,0.0,Ten Boer,Wijk 01 Oost
+GM0010,GEM,66.24719101,Delfzijl,
+WK001000,WC,79.0560472,Delfzijl,Wijk 00 Stad
+WK001001,WC,0.0,Delfzijl,Wijk 01 Land
+WK001002,WC,26.2745098,Delfzijl,Wijk 02
+WK001003,WC,28.8172043,Delfzijl,Wijk 03
+GM0014,GEM,80.36863663,Groningen,
+WK001400,WC,70.52631579,Groningen,Centrum
+WK001401,WC,47.2246696,Groningen,Oud-Zuid
+WK001402,WC,26.2745098,Groningen,Oud-West
+WK001403,WC,37.22222222,Groningen,Oud-Noord
+WK001404,WC,42.20472441,Groningen,Oosterparkwijk
+WK001405,WC,0.0,Groningen,Zuidoost
+WK001406,WC,97.92307692,Groningen,Helpman e.o.
+WK001407,WC,125.2987013,Groningen,Zuidwest
+WK001408,WC,56.25954198,Groningen,Hoogkerk e.o.
+WK001409,WC,89.79381443,Groningen,Nieuw-West
+WK001410,WC,123.0612245,Groningen,Noordwest
+WK001411,WC,27.53424658,Groningen,Noordoost
+WK001412,WC,58.99371069,Groningen,Noorddijk e.o.
+WK001413,WC,0.0,Groningen,Meerdorpen
+WK001414,WC,0.0,Groningen,Meerstad e.o.
+GM0015,GEM,83.75,Grootegast,
+WK001500,WC,102.4203822,Grootegast,Wijk 00 Grootegast
+WK001501,WC,0.0,Grootegast,Wijk 01 Lutjegast
+WK001502,WC,61.84615385,Grootegast,Wijk 02 Opende
+WK001503,WC,61.84615385,Grootegast,Wijk 03 Oldekerk
+GM0017,GEM,99.76893453,Haren,
+WK001700,WC,104.0776699,Haren,Wijk 00 Centrum
+WK001701,WC,46.20689655,Haren,Wijk 01 Land
+GM0018,GEM,64.57831325,Hoogezand-Sappemeer,
+WK001801,WC,70.81300813,Hoogezand-Sappemeer,Wijk 01 Foxham en Hoogezand-Noord
+WK001802,WC,76.4764268,Hoogezand-Sappemeer,Wijk 02 Hoogezand-Zuid
+WK001803,WC,32.41935484,Hoogezand-Sappemeer,Wijk 03 Kalkwijk
+WK001805,WC,0.0,Hoogezand-Sappemeer,Wijk 05 Kiel-Windeweer
+WK001806,WC,0.0,Hoogezand-Sappemeer,Wijk 06 Kropswolde
+WK001807,WC,0.0,Hoogezand-Sappemeer,Wijk 07 Foxhol
+WK001808,WC,0.0,Hoogezand-Sappemeer,Wijk 08 Westerbroek
+WK001811,WC,64.11483254,Hoogezand-Sappemeer,Wijk 11 Sappemeer
+GM0022,GEM,73.33333333,Leek,
+WK002200,WC,96.45244216,Leek,Wijk 00 Leek
+WK002201,WC,37.74647887,Leek,Wijk 01 Zevenhuizen
+WK002202,WC,36.88073394,Leek,Wijk 02 Tolbert
+WK002204,WC,0.0,Leek,Wijk 04 Midwolde
+WK002205,WC,0.0,Leek,Wijk 05 Lettelbert
+WK002206,WC,0.0,Leek,Wijk 06 Oostwold
+WK002207,WC,0.0,Leek,Wijk 07 Enumatil
+GM0024,GEM,53.4057971,Loppersum,
+WK002400,WC,56.77966102,Loppersum,Wijk 00
+WK002401,WC,0.0,Loppersum,Wijk 01 Stedum
+WK002402,WC,68.71794872,Loppersum,Wijk 02 Middelstum
+WK002403,WC,58.26086957,Loppersum,Wijk 03 't Zandt
+GM0025,GEM,80.90566038,Marum,
+WK002500,WC,88.07511737,Marum,Wijk 00 Marum
+WK002501,WC,51.53846154,Marum,Wijk 01 De Wilp
+GM0034,GEM,57.97836628,Almere,
+WK003401,WC,53.39658444,Almere,Wijk 01 Almere Haven
+WK003402,WC,53.67403315,Almere,Wijk 02 Almere Stad
+WK003403,WC,72.61083744,Almere,Wijk 03 Almere Buiten
+WK003404,WC,94.03508772,Almere,Wijk 04 Almere Poort
+WK003405,WC,0.0,Almere,Wijk 05 Almere Hout
+GM0037,GEM,52.25303293,Stadskanaal,
+WK003701,WC,49.49384405,Stadskanaal,Stadskanaal
+WK003702,WC,63.30708661,Stadskanaal,Musselkanaal
+WK003703,WC,37.9245283,Stadskanaal,Onstwedde
+WK003704,WC,0.0,Stadskanaal,Mussel
+WK003705,WC,0.0,Stadskanaal,Alteveer
+GM0040,GEM,37.89203085,Slochteren,
+WK004000,WC,32.68292683,Slochteren,Wijk 00 Slochteren-Kolham
+WK004001,WC,0.0,Slochteren,Wijk 01 Schildwolde-Hellum
+WK004002,WC,54.47154472,Slochteren,Wijk 02 Siddeburen
+WK004003,WC,31.1627907,Slochteren,Wijk 03 Harkstede
+WK004004,WC,0.0,Slochteren,Wijk 04 Overschild
+GM0047,GEM,49.511323,Veendam,
+WK004700,WC,57.40029542,Veendam,Wijk 00 Veendam-kern
+WK004701,WC,0.0,Veendam,Wijk 01 Veendam-buitengebied
+WK004702,WC,22.33333333,Veendam,Wijk 02 Wildervank
+GM0048,GEM,40.24734982,Vlagtwedde,
+WK004800,WC,35.73333333,Vlagtwedde,Wijk 00 Sellingen
+WK004801,WC,23.50877193,Vlagtwedde,Wijk 01 Vlagtwedde
+WK004802,WC,0.0,Vlagtwedde,Wijk 02 Bourtange
+WK004803,WC,0.0,Vlagtwedde,Wijk 03 Sellingerbeetse
+WK004804,WC,58.06666667,Vlagtwedde,Wijk 04 Ter Apel
+WK004805,WC,0.0,Vlagtwedde,Wijk 05 Ter Wisch
+WK004806,WC,0.0,Vlagtwedde,Wijk 06 de Maten
+GM0050,GEM,90.05376344,Zeewolde,
+WK005000,WC,90.05376344,Zeewolde,Wijk 00
+GM0053,GEM,101.0050251,Winsum,
+WK005300,WC,136.9777778,Winsum,Wijk 00
+WK005301,WC,0.0,Winsum,Wijk 01
+WK005302,WC,54.32432432,Winsum,Wijk 02
+WK005303,WC,47.85714286,Winsum,Wijk 03
+GM0056,GEM,87.95366795,Zuidhorn,
+WK005600,WC,98.26666667,Zuidhorn,Wijk 00
+WK005601,WC,108.6486486,Zuidhorn,Wijk 01
+WK005602,WC,62.3255814,Zuidhorn,Wijk 02
+WK005603,WC,0.0,Zuidhorn,Wijk 03
+GM0058,GEM,55.52486188,Dongeradeel,
+WK005800,WC,58.66359447,Dongeradeel,Dokkum
+WK005801,WC,143.5714286,Dongeradeel,Metslawier
+WK005802,WC,0.0,Dongeradeel,Ee - Zuidoost
+WK005803,WC,0.0,Dongeradeel,Anjum - Noordoost
+WK005804,WC,0.0,Dongeradeel,Oosternijkerk - Noordwest
+WK005805,WC,44.66666667,Dongeradeel,Ternaard
+WK005806,WC,0.0,Dongeradeel,Holwerd
+WK005807,WC,0.0,Dongeradeel,Hantum
+GM0059,GEM,69.94505495,Achtkarspelen,
+WK005900,WC,57.49174917,Achtkarspelen,Wijk 00 Noord
+WK005901,WC,42.53968254,Achtkarspelen,Wijk 01 Centrum
+WK005902,WC,85.37396122,Achtkarspelen,Wijk 02 Zuid
+GM0060,GEM,68.71794872,Ameland,
+WK006000,WC,68.71794872,Ameland,Wijk 00
+GM0063,GEM,80.66889632,het Bildt,
+WK006300,WC,90.54054054,het Bildt,Wijk 00 West
+WK006301,WC,0.0,het Bildt,Wijk 01 Oost
+WK006302,WC,63.80952381,het Bildt,Wijk 02 Zuid
+GM0070,GEM,80.66889632,Franekeradeel,
+WK007000,WC,95.19125683,Franekeradeel,Wijk 00 Franeker
+WK007001,WC,67.0,Franekeradeel,Wijk 01 Noord
+WK007002,WC,0.0,Franekeradeel,Wijk 02 Noordoost
+WK007003,WC,82.04081633,Franekeradeel,Wijk 03 Zuid
+WK007004,WC,0.0,Franekeradeel,Wijk 04 West
+WK007005,WC,49.62962963,Franekeradeel,Wijk 05 Franeker Zuidoost
+GM0072,GEM,83.90891841,Harlingen,
+WK007200,WC,86.10441767,Harlingen,Wijk 00 Harlingen
+WK007201,WC,0.0,Harlingen,Wijk 01 Midlum
+WK007202,WC,0.0,Harlingen,Wijk 02 Wijnaldum
+GM0074,GEM,68.37640822,Heerenveen,
+WK007401,WC,62.9726776,Heerenveen,Wijk 01 Heerenveen
+WK007402,WC,0.0,Heerenveen,Wijk 02 Noord-Heerenveen
+WK007403,WC,0.0,Heerenveen,Wijk 03 Hoornsterzwaag
+WK007404,WC,90.0,Heerenveen,Wijk 04 Jubbega
+WK007406,WC,45.42372881,Heerenveen,Wijk 06 Oranjewoud
+WK007407,WC,0.0,Heerenveen,Skarsterlân
+WK007409,WC,84.71264368,Heerenveen,Boarnsterhim
+GM0079,GEM,50.93567251,Kollumerland en Nieuwkruisland,
+WK007900,WC,77.17277487,Kollumerland en Nieuwkruisland,Wijk 00 Kollum
+WK007901,WC,0.0,Kollumerland en Nieuwkruisland,Wijk 01 Oost
+WK007902,WC,0.0,Kollumerland en Nieuwkruisland,Wijk 02 Noordwest
+WK007903,WC,0.0,Kollumerland en Nieuwkruisland,Wijk 03 Zuidwest
+GM0080,GEM,78.97242161,Leeuwarden,
+WK008010,WC,40.0,Leeuwarden,Wijk 10 Binnenstad
+WK008020,WC,93.48837209,Leeuwarden,Wijk 20 Transvaalwijk & Rengerspark
+WK008021,WC,96.11814346,Leeuwarden,Wijk 21 Bilgaard & Havankpark e.o.
+WK008022,WC,52.03883495,Leeuwarden,Wijk 22 Vrijheidswijk
+WK008023,WC,0.0,Leeuwarden,Wijk 23 Lekkum e.o.
+WK008024,WC,0.0,Leeuwarden,Wijk 24 Blitsaerd
+WK008030,WC,151.2903226,Leeuwarden,Wijk 30 Oldegalileën & Bloemenbuurt
+WK008031,WC,40.2,Leeuwarden,Wijk 31 Tjerk Hiddes & Cambuursterhoek
+WK008032,WC,0.0,Leeuwarden,Wijk 32 Vlietzone
+WK008033,WC,0.0,Leeuwarden,Wijk 33 Oranjewijk & Tulpenburg
+WK008034,WC,0.0,Leeuwarden,Wijk 34 Heechterp
+WK008035,WC,0.0,Leeuwarden,Wijk 35 Schieringen & De Centrale
+WK008036,WC,62.8125,Leeuwarden,Wijk 36 Camminghaburen
+WK008037,WC,0.0,Leeuwarden,Wijk 37 Grote Wielen & De Groene Ster
+WK008040,WC,68.71794872,Leeuwarden,Wijk 40 Achter de Hoven
+WK008041,WC,446.6666667,Leeuwarden,Wijk 41 Schepenbuurt
+WK008042,WC,0.0,Leeuwarden,Wijk 42 Wielenpôlle
+WK008043,WC,307.0833333,Leeuwarden,Wijk 43 Huizum-Oost
+WK008044,WC,42.88,Leeuwarden,Wijk 44 Huizum-West
+WK008045,WC,105.2857143,Leeuwarden,Wijk 45 Aldlân
+WK008046,WC,45.89041096,Leeuwarden,Wijk 46 Nijlân
+WK008050,WC,0.0,Leeuwarden,Wijk 50 Hempens/Teerns e.o. & Zuiderburen
+WK008051,WC,111.6666667,Leeuwarden,Wijk 51 Wirdum & Swichum e.o.
+WK008052,WC,0.0,Leeuwarden,Wijk 52 Wytgaard e.o.
+WK008053,WC,51.53846154,Leeuwarden,Wijk 53 Goutum e.o.
+WK008061,WC,39.41176471,Leeuwarden,Wijk 61 Vossepark & Helicon
+WK008062,WC,68.71794872,Leeuwarden,Wijk 62 Vogelwijk & Muziekwijk
+WK008063,WC,0.0,Leeuwarden,Wijk 63 Valeriuskwartier & Magere Weide
+WK008064,WC,66.5248227,Leeuwarden,Wijk 64 Westeinde
+WK008070,WC,41.23076923,Leeuwarden,Wijk 70 Wergea & Warten e.o.
+WK008071,WC,0.0,Leeuwarden,Wijk 71 Reduzum e.o.
+WK008072,WC,89.83240223,Leeuwarden,Wijk 72 Grou e.o.
+WK008073,WC,0.0,Leeuwarden,Wijk 73 Jirnsum e.o.
+GM0081,GEM,91.36363636,Leeuwarderadeel,
+WK008100,WC,96.80608365,Leeuwarderadeel,Wijk 00 Noord
+WK008101,WC,59.55555556,Leeuwarderadeel,Wijk 01 Zuid
+GM0085,GEM,74.1697417,Ooststellingwerf,
+WK008500,WC,61.46788991,Ooststellingwerf,Wijk 00 Oosterwolde
+WK008501,WC,0.0,Ooststellingwerf,Wijk 01 Donkerbroek
+WK008502,WC,0.0,Ooststellingwerf,Wijk 02 Makkinga
+WK008503,WC,104.6875,Ooststellingwerf,Wijk 03 Oldeberkoop
+WK008504,WC,118.8709677,Ooststellingwerf,Wijk 04 Haulerwijk
+WK008505,WC,85.07936508,Ooststellingwerf,Wijk 05 Appelscha
+GM0086,GEM,77.0657277,Opsterland,
+WK008600,WC,77.30769231,Opsterland,Wijk 00 Gorredijk
+WK008601,WC,40.60606061,Opsterland,Wijk 01 Langezwaag
+WK008602,WC,0.0,Opsterland,Wijk 02 Terwispel
+WK008603,WC,90.19230769,Opsterland,Wijk 03 Beetsterzwaag
+WK008604,WC,118.2352941,Opsterland,Wijk 04 Ureterp
+WK008605,WC,40.60606061,Opsterland,Wijk 05 Bakkeveen
+GM0088,GEM,0.0,Schiermonnikoog,
+WK008800,WC,0.0,Schiermonnikoog,Wijk 00
+GM0090,GEM,75.43583535,Smallingerland,
+WK009000,WC,81.32947977,Smallingerland,Wijk 00 Drachten
+WK009001,WC,45.0,Smallingerland,Wijk 01 Overig Smallingerland
+GM0093,GEM,61.30718954,Terschelling,
+WK009300,WC,76.13636364,Terschelling,Wijk 00 West-Terschelling
+WK009301,WC,0.0,Terschelling,Wijk 01 Midsland
+WK009302,WC,0.0,Terschelling,Wijk 02 Formerum
+WK009303,WC,0.0,Terschelling,Wijk 03 Lies
+WK009304,WC,0.0,Terschelling,Wijk 04 Hoorn
+WK009305,WC,0.0,Terschelling,Wijk 05 Oosterend
+GM0096,GEM,0.0,Vlieland,
+WK009600,WC,0.0,Vlieland,Wijk 00
+GM0098,GEM,77.0657277,Weststellingwerf,
+WK009800,WC,113.2783505,Weststellingwerf,Wijk 00 Wolvega
+WK009801,WC,0.0,Weststellingwerf,Wijk 01 Sonnega
+WK009802,WC,0.0,Weststellingwerf,Wijk 02 Helomavaart
+WK009803,WC,0.0,Weststellingwerf,Wijk 03 Munnekeburen
+WK009804,WC,0.0,Weststellingwerf,Wijk 04 Scherpenzeel
+WK009805,WC,0.0,Weststellingwerf,Wijk 05 Oldeholtpade
+WK009806,WC,0.0,Weststellingwerf,Wijk 06 Blesdijke
+WK009807,WC,0.0,Weststellingwerf,Wijk 07 Steggerda
+WK009808,WC,29.13043478,Weststellingwerf,Wijk 08 Noordwolde
+GM0106,GEM,75.38885825,Assen,
+WK010600,WC,77.5562701,Assen,Wijk 00 Assen centrum
+WK010601,WC,161.2962963,Assen,Wijk 01 Lariks
+WK010602,WC,58.09248555,Assen,Wijk 02 Noorderpark
+WK010603,WC,86.76258993,Assen,Wijk 03 Assen Oost
+WK010604,WC,43.22580645,Assen,Wijk 04 Pittelo
+WK010605,WC,21.96721311,Assen,Wijk 05 Assen West
+WK010606,WC,28.5106383,Assen,Wijk 06 Peelo
+WK010607,WC,28.35978836,Assen,Wijk 07 Marsdijk
+WK010608,WC,134.0,Assen,Wijk 08 Kloosterveen
+WK010699,WC,0.0,Assen,Wijk 99 Buitengebied
+GM0109,GEM,66.70742358,Coevorden,
+WK010910,WC,85.78366446,Coevorden,Wijk 10 Coevorden
+WK010911,WC,0.0,Coevorden,Wijk 11 Steenwijksmoer
+WK010912,WC,0.0,Coevorden,Wijk 12 Nieuwe Krim
+WK010913,WC,0.0,Coevorden,Wijk 13 Weijerswold
+WK010914,WC,0.0,Coevorden,Wijk 14 Vlieghuis en Padhuis
+WK010920,WC,42.40506329,Coevorden,Wijk 20 Dalen
+WK010930,WC,63.80952381,Coevorden,Wijk 30 Oosterhesselen
+WK010940,WC,54.91803279,Coevorden,Wijk 40 Sleen
+WK010950,WC,59.2920354,Coevorden,Wijk 50 Zweeloo
+GM0114,GEM,59.82874618,Emmen,
+WK011401,WC,52.20779221,Emmen,Wijk 01 Nieuw-Weerdinge
+WK011402,WC,0.0,Emmen,Wijk 02 Roswinkel
+WK011403,WC,45.75609756,Emmen,Wijk 03 Emmer-Compascuum
+WK011404,WC,54.69387755,Emmen,Wijk 04 Barger-Compascuum
+WK011405,WC,0.0,Emmen,Wijk 05 Nieuw-Dordrecht
+WK011406,WC,29.13043478,Emmen,Wijk 06 Nieuw-Amsterdam
+WK011407,WC,44.66666667,Emmen,Wijk 07 Erica
+WK011408,WC,68.25737265,Emmen,Wijk 08 Klazienaveen
+WK011409,WC,0.0,Emmen,Wijk 09 Zwartemeer
+WK011410,WC,38.84057971,Emmen,Wijk 10 Schoonebeek
+WK011413,WC,39.41176471,Emmen,Wijk 13 Veenoord
+WK011421,WC,0.0,Emmen,Wijk 21 Nieuw-Schoonebeek
+WK011432,WC,0.0,Emmen,Wijk 32 Weiteveen
+WK011440,WC,89.83240223,Emmen,Wijk 40 Emmen-Centrum
+WK011441,WC,161.5602837,Emmen,Wijk 41 Emmen-Centrum Oost
+WK011442,WC,39.41176471,Emmen,Wijk 42 Emmermeer
+WK011443,WC,48.02867384,Emmen,Wijk 43 Angelslo
+WK011444,WC,41.07279693,Emmen,Wijk 44 Emmerhout
+WK011445,WC,0.0,Emmen,Wijk 45 Emmerschans
+WK011446,WC,79.49152542,Emmen,Wijk 46 Bargeres
+WK011447,WC,80.10869565,Emmen,Wijk 47 Rietlanden
+WK011448,WC,59.55555556,Emmen,Wijk 48 Parc Sandur
+WK011449,WC,0.0,Emmen,Wijk 49 Delftlanden
+WK011450,WC,52.89473684,Emmen,Wijk 50 Barger-Oosterveld
+WK011451,WC,0.0,Emmen,Wijk 51 Kern Emmen Noord
+WK011452,WC,59.55555556,Emmen,Wijk 52 Kern Emmen Zuid
+WK011453,WC,0.0,Emmen,Wijk 53 Kern Emmen Industrieterreinen
+GM0118,GEM,59.84308992,Hoogeveen,
+WK011850,WC,69.23573735,Hoogeveen,Wijk 50 Hoogeveen
+WK011851,WC,66.17283951,Hoogeveen,Wijk 51 De Weide
+WK011852,WC,0.0,Hoogeveen,Wijke 52 Fluitenberg
+WK011853,WC,0.0,Hoogeveen,Wijk 53 Elim
+WK011854,WC,56.30252101,Hoogeveen,Wijk 54 Hollandscheveld
+WK011855,WC,0.0,Hoogeveen,Wijk 55 Noordscheschut
+WK011856,WC,0.0,Hoogeveen,Wijk 56 Nieuwlande
+WK011857,WC,0.0,Hoogeveen,Wijk 57 Nieuweroord
+WK011858,WC,0.0,Hoogeveen,Wijk 58 Tiendeveen
+WK011859,WC,0.0,Hoogeveen,Wijk 59 Stuifzand
+WK011860,WC,40.60606061,Hoogeveen,Wijk 60 Pesse
+WK011861,WC,0.0,Hoogeveen,Wijk 61 Zuideropgaande Nieuw Moscou
+WK011862,WC,0.0,Hoogeveen,Wijk 62 Industrie- en verspreide gebieden
+GM0119,GEM,79.61883408,Meppel,
+WK011900,WC,74.12765957,Meppel,Centrum
+WK011901,WC,0.0,Meppel,Watertoren
+WK011902,WC,57.0212766,Meppel,Haveltermade
+WK011903,WC,62.8125,Meppel,Koedijkslanden
+WK011904,WC,0.0,Meppel,Berggierslanden
+WK011905,WC,0.0,Meppel,Ezinge
+WK011906,WC,151.8666667,Meppel,Oosterboer
+WK011907,WC,0.0,Meppel,Nieuwveenselanden
+WK011910,WC,0.0,Meppel,Industrie Oevers
+WK011911,WC,0.0,Meppel,Verspreid gebied Meppel
+WK011912,WC,65.04854369,Meppel,Nijeveen
+WK011913,WC,0.0,Meppel,Rogat
+GM0140,GEM,53.99267399,Littenseradiel,
+WK014000,WC,59.2920354,Littenseradiel,Wijk 00 Zuid
+WK014001,WC,0.0,Littenseradiel,Wijk 01 Noord
+WK014002,WC,0.0,Littenseradiel,Wijk 02 Mantgum
+WK014003,WC,0.0,Littenseradiel,Wijk 03
+WK014004,WC,93.48837209,Littenseradiel,Wijk 04
+GM0141,GEM,87.75467775,Almelo,
+WK014110,WC,46.20689655,Almelo,Wijk 10 Binnenstad
+WK014111,WC,70.94117647,Almelo,Wijk 11 De Riet
+WK014112,WC,161.978022,Almelo,Wijk 12 Noorderkwartier
+WK014113,WC,87.58169935,Almelo,Wijk 13 Sluitersveld
+WK014114,WC,97.76824034,Almelo,Wijk 14 Wierdense Hoek
+WK014115,WC,95.71428571,Almelo,Wijk 15 Nieuwstraat-Kwartier
+WK014116,WC,78.82352941,Almelo,Wijk 16 Ossenkoppelerhoek
+WK014117,WC,100.1869159,Almelo,Wijk 17 Hofkamp
+WK014118,WC,92.14899713,Almelo,Wijk 18 Schelfhorst
+WK014119,WC,80.64814815,Almelo,Wijk 19 Windmolenbroek
+WK014120,WC,0.0,Almelo,Wijk 20 Aadorp
+WK014121,WC,59.55555556,Almelo,Wijk 21 Bornerbroek
+GM0147,GEM,61.9076006,Borne,
+WK014700,WC,65.36585366,Borne,Wijk 00 Borne
+WK014701,WC,0.0,Borne,Wijk 01 Buitengebied Borne
+GM0148,GEM,57.75862069,Dalfsen,
+WK014801,WC,60.2247191,Dalfsen,Dalfsen
+WK014802,WC,51.9379845,Dalfsen,Nieuwleusen
+WK014803,WC,60.90909091,Dalfsen,Lemelerveld
+GM0150,GEM,86.23762376,Deventer,
+WK015001,WC,92.62672811,Deventer,Wijk 1 Binnenstad
+WK015002,WC,0.0,Deventer,Wijk 2 De Hoven
+WK015003,WC,49.26470588,Deventer,Wijk 3 Zandweerd
+WK015004,WC,44.96644295,Deventer,Wijk 4 Voorstad
+WK015005,WC,83.75,Deventer,Wijk 5 Borgele en Platvoet
+WK015006,WC,128.8461538,Deventer,Wijk 6 Keizerslanden
+WK015007,WC,191.4285714,Deventer,Wijk 7 Rivierenwijk en Bergweide
+WK015008,WC,137.0454545,Deventer,Wijk 8 Colmschate-Noord
+WK015009,WC,80.0,Deventer,Wijk 9 Colmschate-Vijfhoek
+WK015010,WC,71.06060606,Deventer,Wijk 10 Colmschate-Zuid
+WK015011,WC,67.0,Deventer,Wijk 11 Diepenveen
+WK015012,WC,76.57142857,Deventer,Wijk 12 Schalkhaar
+WK015013,WC,0.0,Deventer,Wijk 13 Okkenbroek
+WK015014,WC,72.43243243,Deventer,Wijk 14 Lettele
+WK015015,WC,93.8,Deventer,Wijk 15 Bathmen
+GM0153,GEM,89.65767635,Enschede,
+WK015300,WC,96.81444992,Enschede,Wijk 00 Binnensingelgebied
+WK015301,WC,44.51827243,Enschede,Wijk 01 Hogeland - Velve
+WK015302,WC,105.4893617,Enschede,Wijk 02 Boswinkel - Stadsveld
+WK015303,WC,65.36585366,Enschede,Wijk 03 Twekkelerveld - T.H.T.
+WK015304,WC,89.33333333,Enschede,Wijk 04 Enschede-Noord
+WK015305,WC,51.34099617,Enschede,Wijk 05 Ribbelt - Stokhorst
+WK015306,WC,98.3759733,Enschede,Wijk 06 Enschede-Zuid
+WK015307,WC,0.0,Enschede,Wijk 07 Bedrijfsterreinen Enschede-West
+WK015308,WC,160.9497207,Enschede,Wijk 08 Glanerbrug en omgeving
+WK015309,WC,40.60606061,Enschede,Wijk 09 Landelijk gebied en kernen
+GM0158,GEM,75.75376884,Haaksbergen,
+WK015800,WC,76.31490787,Haaksbergen,Wijk 00 Haaksbergen (dorp)
+WK015801,WC,172.9032258,Haaksbergen,Wijk 01 Haaksbergen (buitengebied)
+WK015802,WC,0.0,Haaksbergen,Wijk 02 Sint Isidorushoeve
+WK015803,WC,0.0,Haaksbergen,Wijk 03 Buurse
+WK015804,WC,0.0,Haaksbergen,Wijk 04 Rietmolen
+WK015805,WC,0.0,Haaksbergen,Wijk 05 Hengevelde
+WK015806,WC,0.0,Haaksbergen,Wijk 06 Beckum
+WK015809,WC,0.0,Haaksbergen,Wijk 09 Haaksbergen-kern
+GM0160,GEM,61.51696607,Hardenberg,
+WK016001,WC,0.0,Hardenberg,Ane
+WK016002,WC,0.0,Hardenberg,Anerveen
+WK016003,WC,0.0,Hardenberg,Anevelde
+WK016004,WC,27.91666667,Hardenberg,Balkbrug
+WK016005,WC,62.8125,Hardenberg,Bergentheim
+WK016006,WC,0.0,Hardenberg,Brucht
+WK016007,WC,0.0,Hardenberg,Collendoorn
+WK016008,WC,0.0,Hardenberg,De Krim
+WK016009,WC,66.79127726,Hardenberg,Dedemsvaart
+WK016010,WC,0.0,Hardenberg,Den Velde
+WK016011,WC,0.0,Hardenberg,Diffelen
+WK016012,WC,98.73684211,Hardenberg,Gramsbergen
+WK016013,WC,0.0,Hardenberg,Heemserveen
+WK016014,WC,0.0,Hardenberg,Holtheme
+WK016016,WC,0.0,Hardenberg,Hoogenweg
+WK016017,WC,0.0,Hardenberg,Kloosterhaar
+WK016018,WC,0.0,Hardenberg,Loozen
+WK016019,WC,57.0212766,Hardenberg,Lutten
+WK016020,WC,0.0,Hardenberg,Marienberg
+WK016021,WC,0.0,Hardenberg,Radewijk
+WK016022,WC,0.0,Hardenberg,Rheeze
+WK016023,WC,0.0,Hardenberg,Rheezerveen
+WK016024,WC,0.0,Hardenberg,Schuinesloot
+WK016025,WC,0.0,Hardenberg,Sibculo
+WK016026,WC,84.81012658,Hardenberg,Slagharen
+WK016027,WC,0.0,Hardenberg,Venebrugge
+WK016028,WC,68.78326996,Hardenberg,Hardenberg
+WK016029,WC,0.0,Hardenberg,Bruchterveld
+GM0163,GEM,71.12796209,Hellendoorn,
+WK016301,WC,78.82352941,Hellendoorn,Wijk 01 Hellendoorn
+WK016302,WC,52.54901961,Hellendoorn,Wijk 02 Nijverdal Noord
+WK016303,WC,59.55555556,Hellendoorn,Wijk 03 Nijverdal West
+WK016304,WC,65.63265306,Hellendoorn,Wijk 04 Nijverdal Oost
+WK016305,WC,128.8461538,Hellendoorn,Wijk 05 Buitengebied
+WK016306,WC,34.80519481,Hellendoorn,Wijk 06 Kruidenwijk
+WK016307,WC,0.0,Hellendoorn,Wijk 07 Haarle
+WK016308,WC,0.0,Hellendoorn,Wijk 08 Daarle
+WK016309,WC,0.0,Hellendoorn,Wijk 09 Daarlerveen
+GM0164,GEM,81.78119349,Hengelo,
+WK016400,WC,48.43373494,Hengelo,Wijk 00 Binnenstad
+WK016401,WC,63.59322034,Hengelo,Wijk 01 Hengelose Es
+WK016402,WC,131.2653061,Hengelo,Wijk 02 Noord
+WK016403,WC,56.22377622,Hengelo,Wijk 03 Hasseler Es
+WK016404,WC,78.82352941,Hengelo,Wijk 04 Groot Driene
+WK016405,WC,60.90909091,Hengelo,Wijk 05 Berflo Es
+WK016406,WC,61.99288256,Hengelo,Wijk 06 Wilderinkshoek
+WK016407,WC,135.4006969,Hengelo,Wijk 07 Woolde
+WK016408,WC,65.36585366,Hengelo,Wijk 08 Slangenbeek
+WK016409,WC,54.69387755,Hengelo,Wijk 09 Buitengebied
+GM0166,GEM,67.70986145,Kampen,
+WK016600,WC,73.67697595,Kampen,Wijk 00 Kampen
+WK016603,WC,63.34545455,Kampen,Wijk 03 IJsselmuiden
+WK016604,WC,0.0,Kampen,Wijk 04 Zalk
+WK016605,WC,0.0,Kampen,Wijk 05 Wilsum
+WK016606,WC,0.0,Kampen,Wijk 06 Grafhorst
+WK016607,WC,0.0,Kampen,Wijk 07 Kamperveen
+WK016608,WC,0.0,Kampen,Wijk 08 's-Heerenhoek
+GM0168,GEM,81.80232558,Losser,
+WK016800,WC,81.85520362,Losser,Wijk 00 Losser
+WK016801,WC,0.0,Losser,Wijk 01 Glane
+WK016802,WC,111.6666667,Losser,Wijk 02 Overdinkel
+WK016803,WC,52.54901961,Losser,Wijk 03 De Lutte
+WK016804,WC,0.0,Losser,Wijk 04 Beuningen
+GM0171,GEM,64.289746,Noordoostpolder,
+WK017101,WC,76.40350877,Noordoostpolder,Wijk 01 Emmeloord
+WK017102,WC,0.0,Noordoostpolder,Wijk 02 Bant
+WK017103,WC,0.0,Noordoostpolder,Wijk 03 Luttelgeest
+WK017104,WC,65.68627451,Noordoostpolder,Wijk 04 Marknesse
+WK017105,WC,83.75,Noordoostpolder,Wijk 05 Kraggenburg
+WK017106,WC,0.0,Noordoostpolder,Wijk 06 Ens
+WK017107,WC,0.0,Noordoostpolder,Wijk 07 Nagele
+WK017108,WC,81.21212121,Noordoostpolder,Wijk 08 Tollebeek
+WK017109,WC,0.0,Noordoostpolder,Wijk 09 Espel
+WK017110,WC,0.0,Noordoostpolder,Wijk 10 Creil
+WK017111,WC,0.0,Noordoostpolder,Wijk 11 Rutten
+GM0173,GEM,82.64914055,Oldenzaal,
+WK017301,WC,108.875,Oldenzaal,Wijk 01 Binnenstad
+WK017302,WC,202.2641509,Oldenzaal,Wijk 02 Het Inslag-De Kleies
+WK017303,WC,39.8019802,Oldenzaal,Wijk 03 Glinde-Hooiland
+WK017304,WC,0.0,Oldenzaal,Wijk 04 De Meijbree
+WK017305,WC,165.7731959,Oldenzaal,Wijk 05 Haerbroek-Scholtenhoek
+WK017306,WC,45.81196581,Oldenzaal,Wijk 06 Zuid-Berghuizen
+WK017307,WC,0.0,Oldenzaal,Wijk 07 Hanzepoort
+WK017308,WC,0.0,Oldenzaal,Wijk 08 Eekte-Hazewinkel
+WK017309,WC,0.0,Oldenzaal,Wijk 09 Jufferbeek
+WK017310,WC,0.0,Oldenzaal,Wijk 10 Het Hulsbeek
+WK017311,WC,58.54368932,Oldenzaal,Wijk 11 De Thij
+WK017312,WC,31.9047619,Oldenzaal,Wijk 12 De Graven Es
+WK017313,WC,0.0,Oldenzaal,Wijk 13 De Essen
+WK017314,WC,0.0,Oldenzaal,Wijk 14 Bekspring
+GM0175,GEM,53.6,Ommen,
+WK017501,WC,60.45112782,Ommen,Ommen
+WK017502,WC,0.0,Ommen,Arrien
+WK017503,WC,0.0,Ommen,Beerze
+WK017504,WC,0.0,Ommen,Beerzerveld
+WK017505,WC,0.0,Ommen,Dalmsholte
+WK017506,WC,0.0,Ommen,Giethmen
+WK017507,WC,0.0,Ommen,Lemele
+WK017508,WC,0.0,Ommen,Stegeren
+WK017509,WC,0.0,Ommen,Vilsteren
+WK017510,WC,0.0,Ommen,Vinkenbuurt
+WK017511,WC,0.0,Ommen,Witharen
+GM0177,GEM,68.11460259,Raalte,
+WK017700,WC,86.66666667,Raalte,Wijk 00 Raalte-Kern
+WK017701,WC,52.11111111,Raalte,Wijk 01 Raalte-overig en buitengebied
+WK017702,WC,79.6039604,Raalte,Wijk 02 Heeten
+WK017703,WC,47.01754386,Raalte,Wijk 03 Luttenberg
+WK017704,WC,0.0,Raalte,Wijk 04 Broekland
+WK017705,WC,0.0,Raalte,Wijk 05 Mariënheem
+WK017706,WC,0.0,Raalte,Wijk 06 Nieuw Heeten
+WK017708,WC,73.19327731,Raalte,Wijk 08 Heino
+WK017709,WC,0.0,Raalte,Wijk 09 Laag Zuthem
+WK017710,WC,0.0,Raalte,Wijk 10 Lierderholthuis
+GM0180,GEM,57.26495726,Staphorst,
+WK018000,WC,79.67567568,Staphorst,Wijk 00 Staphorst (kern)
+WK018001,WC,0.0,Staphorst,Wijk 01 Rouveen (kern)
+WK018002,WC,0.0,Staphorst,Wijk 02 Rouveen (buitengebied)
+WK018003,WC,0.0,Staphorst,Wijk 03 Staphorst (buitengebied)
+WK018004,WC,0.0,Staphorst,Wijk 04 IJhorst
+WK018005,WC,0.0,Staphorst,Wijk 05 Punthorst
+WK018006,WC,0.0,Staphorst,Wijk 06 Lankhorst
+GM0183,GEM,73.45935728,Tubbergen,
+WK018300,WC,94.27135678,Tubbergen,Wijk 00 Tubbergen
+WK018301,WC,32.68292683,Tubbergen,Wijk 01 Albergen
+WK018302,WC,76.57142857,Tubbergen,Wijk 02 Harbrinkhoek
+WK018303,WC,75.8490566,Tubbergen,Wijk 03 Geesteren
+WK018304,WC,92.4137931,Tubbergen,Wijk 04 Langeveen
+WK018305,WC,0.0,Tubbergen,Wijk 05 Vasse
+WK018306,WC,0.0,Tubbergen,Wijk 06 Reutum
+WK018307,WC,0.0,Tubbergen,Wijk 07 Fleringen
+GM0184,GEM,94.96062992,Urk,
+WK018400,WC,94.96062992,Urk,Wijk 00 Urk
+GM0189,GEM,73.79710145,Wierden,
+WK018900,WC,73.7,Wierden,Wijk 00 Wierden (kern)
+WK018901,WC,0.0,Wierden,Wijk 01 Landelijk gebied Wierden
+WK018902,WC,0.0,Wierden,Wijk 02 Hooge-Hexel
+WK018903,WC,98.26666667,Wierden,Wijk 03 Enter (kern)
+WK018904,WC,0.0,Wierden,Wijk 04 Landelijk gebied Enter
+WK018905,WC,81.21212121,Wierden,Wijk 05 Rectum - Notter - Zuna
+GM0193,GEM,74.97202536,Zwolle,
+WK019310,WC,0.0,Zwolle,Wijk 10 Binnenstad
+WK019311,WC,110.1369863,Zwolle,Wijk 11 Diezerpoort
+WK019312,WC,25.28301887,Zwolle,Wijk 12 Wipstrik
+WK019313,WC,62.48704663,Zwolle,Wijk 13 Assendorp
+WK019314,WC,268.0,Zwolle,Wijk 14 Kamperpoort-Veerallee
+WK019320,WC,0.0,Zwolle,Wijk 20 Poort van Zwolle
+WK019321,WC,23.30434783,Zwolle,Wijk 21 Westenholte
+WK019322,WC,116.5217391,Zwolle,Wijk 22 Stadshagen
+WK019330,WC,79.543379,Zwolle,Wijk 30 Holtenbroek
+WK019331,WC,50.11811024,Zwolle,Wijk 31 Aalanden
+WK019332,WC,0.0,Zwolle,Wijk 32 Vechtlanden
+WK019340,WC,85.53191489,Zwolle,Wijk 40 Berkum
+WK019341,WC,0.0,Zwolle,Wijk 41 Marsweteringlanden
+WK019350,WC,48.55072464,Zwolle,Wijk 50 Schelle
+WK019351,WC,52.64285714,Zwolle,Wijk 51 Ittersum
+WK019352,WC,389.0322581,Zwolle,Wijk 52 Soestweteringlanden
+GM0196,GEM,91.78082192,Rijnwaarden,
+WK019600,WC,94.03508772,Rijnwaarden,Wijk 00 Herwen en Aerdt
+WK019601,WC,83.75,Rijnwaarden,Wijk 01 Pannerden
+GM0197,GEM,74.71515152,Aalten,
+WK019701,WC,39.41176471,Aalten,Wijk 01 Buitengebied Aalten
+WK019702,WC,82.04081633,Aalten,Wijk 02 Bredevoort
+WK019703,WC,86.4516129,Aalten,Wijk 03 Aalten Kern
+WK019704,WC,69.22509225,Aalten,Wijk 04 Dinxperlo
+GM0200,GEM,84.5388828,Apeldoorn,
+WK020001,WC,47.85714286,Apeldoorn,Centrum
+WK020002,WC,71.53645833,Apeldoorn,West
+WK020003,WC,107.2,Apeldoorn,Zuidwest
+WK020004,WC,80.86206897,Apeldoorn,Zuid
+WK020005,WC,79.86754967,Apeldoorn,Zuidoost
+WK020006,WC,63.97877984,Apeldoorn,Oost
+WK020007,WC,91.8729097,Apeldoorn,Noordoost
+WK020008,WC,107.7254902,Apeldoorn,Noord
+WK020010,WC,46.20689655,Apeldoorn,Uddel en omgeving
+WK020011,WC,0.0,Apeldoorn,Hoog Soeren en Radio Kootwijk
+WK020012,WC,74.44444444,Apeldoorn,Hoenderloo en omgeving
+WK020013,WC,39.8019802,Apeldoorn,Loenen en omgeving
+WK020014,WC,194.6368715,Apeldoorn,Beekbergen en omgeving
+WK020015,WC,0.0,Apeldoorn,Lieren en omgeving
+WK020016,WC,0.0,Apeldoorn,Klarenbeek en omgeving
+WK020017,WC,46.74418605,Apeldoorn,Wenum Wiesel Beemte
+GM0202,GEM,110.107868,Arnhem,
+WK020201,WC,90.54054054,Arnhem,Centrum
+WK020202,WC,128.8461538,Arnhem,Spijkerkwartier
+WK020203,WC,65.90163934,Arnhem,Arnhemse broek
+WK020204,WC,161.0928962,Arnhem,Presikhaaf West
+WK020205,WC,66.09865471,Arnhem,Presikhaaf Oost
+WK020206,WC,0.0,Arnhem,St. Marten/Sonsbeek
+WK020207,WC,64.57831325,Arnhem,Klarendal
+WK020208,WC,237.6603774,Arnhem,Velperweg e.o.
+WK020209,WC,59.22651934,Arnhem,Alteveer/Cranevelt
+WK020210,WC,53.6,Arnhem,Geitenkamp
+WK020211,WC,134.9640288,Arnhem,Monnikenhuizen
+WK020212,WC,64.14893617,Arnhem,Burgemeesterswijk/Hoogkamp
+WK020213,WC,69.31034483,Arnhem,Schaarsbergen
+WK020214,WC,306.2857143,Arnhem,Heijenoord/Lombok
+WK020215,WC,188.4375,Arnhem,Klingelbeek e.o.
+WK020216,WC,85.53191489,Arnhem,Malburgen West
+WK020217,WC,94.58823529,Arnhem,Malburgen Oost (noord)
+WK020218,WC,100.5,Arnhem,Malburgen Oost (zuid)
+WK020219,WC,93.70629371,Arnhem,Vredenburg/Kronenburg
+WK020220,WC,428.2474227,Arnhem,Elden
+WK020221,WC,38.98181818,Arnhem,Elderveld
+WK020222,WC,38.50574713,Arnhem,De Laar
+WK020223,WC,70.15706806,Arnhem,Rijkerswoerd
+WK020224,WC,0.0,Arnhem,Schuytgraaf
+GM0203,GEM,83.49544073,Barneveld,
+WK020354,WC,100.9959623,Barneveld,Wijk 54 Barneveld
+WK020355,WC,64.01273885,Barneveld,Wijk 55 Voorthuizen
+WK020356,WC,83.75,Barneveld,Wijk 56 Kootwijkerbroek
+WK020357,WC,91.78082192,Barneveld,Wijk 57 Garderen
+WK020358,WC,0.0,Barneveld,Wijk 58 Terschuur
+WK020359,WC,0.0,Barneveld,Wijk 59 Stroe
+WK020360,WC,0.0,Barneveld,Wijk 60 Zwartebroek
+WK020361,WC,0.0,Barneveld,Wijk 61 De Glind
+WK020362,WC,0.0,Barneveld,Wijk 62 Kootwijk
+GM0209,GEM,66.57051282,Beuningen,
+WK020901,WC,78.02531646,Beuningen,Beuningen
+WK020902,WC,64.57831325,Beuningen,Ewijk
+WK020903,WC,34.35897436,Beuningen,Weurt
+WK020904,WC,39.41176471,Beuningen,Winssen
+GM0213,GEM,66.53793103,Brummen,
+WK021301,WC,0.0,Brummen,Wijk 01 Empe
+WK021302,WC,0.0,Brummen,Wijk 02 Tonden
+WK021303,WC,75.93333333,Brummen,Wijk 03 Brummen
+WK021304,WC,0.0,Brummen,Wijk 04 Leuvenheim
+WK021305,WC,0.0,Brummen,Wijk 05 Hall
+WK021306,WC,60.73654391,Brummen,Wijk 06 Eerbeek
+GM0214,GEM,60.0896861,Buren,
+WK021400,WC,78.82352941,Buren,Wijk 00 Buren
+WK021401,WC,43.22580645,Buren,Wijk 01 Beusichem
+WK021402,WC,30.45454545,Buren,Wijk 02 Zoelen
+WK021403,WC,79.86754967,Buren,Wijk 03 Lienden
+WK021404,WC,51.53846154,Buren,Wijk 04 Ingen
+WK021405,WC,63.05882353,Buren,Wijk 05 Maurik
+WK021406,WC,0.0,Buren,Wijk 06 Ravenswaaij
+GM0216,GEM,91.67394469,Culemborg,
+WK021600,WC,91.67394469,Culemborg,Wijk 00
+GM0221,GEM,73.8292011,Doesburg,
+WK022101,WC,73.8292011,Doesburg,Wijk 01
+GM0222,GEM,100.124533,Doetinchem,
+WK022201,WC,90.84745763,Doetinchem,Wijk 01 Doetinchem Centrum
+WK022202,WC,43.75510204,Doetinchem,Wijk 02
+WK022203,WC,270.2521008,Doetinchem,Wijk 03
+WK022204,WC,123.0612245,Doetinchem,Wijk 04
+WK022205,WC,0.0,Doetinchem,Wijk 05
+WK022206,WC,83.75,Doetinchem,Wijk 06
+WK022207,WC,72.92517007,Doetinchem,Wijk 07
+WK022208,WC,103.0769231,Doetinchem,Wijk 08
+WK022209,WC,153.1428571,Doetinchem,Wijk 09
+WK022211,WC,76.32911392,Doetinchem,Wijk 11 Buitengebied Doetinchem
+WK022231,WC,81.40186916,Doetinchem,Wijk 31 Wehl
+GM0225,GEM,60.64655172,Druten,
+WK022500,WC,69.83713355,Druten,Druten
+WK022501,WC,0.0,Druten,Puiflijk
+WK022502,WC,0.0,Druten,Afferden
+WK022503,WC,0.0,Druten,Deest
+WK022504,WC,0.0,Druten,Horssen
+GM0226,GEM,70.75907591,Duiven,
+WK022602,WC,0.0,Duiven,Wijk 02 Buitengebied
+WK022603,WC,84.71264368,Duiven,Wijk 03 Duiven-Noord
+WK022604,WC,59.55555556,Duiven,Wijk 04 Duiven-Zuid
+WK022605,WC,53.6,Duiven,Wijk 05 Groessen
+WK022606,WC,0.0,Duiven,Wijk 06 Loo
+GM0228,GEM,84.48336252,Ede,
+WK022801,WC,118.2352941,Ede,Ede-Oost
+WK022802,WC,92.4137931,Ede,Ede-West
+WK022803,WC,61.46788991,Ede,Ede-Veldhuizen
+WK022804,WC,0.0,Ede,Kernhem
+WK022805,WC,725.8333333,Ede,Veluwse Poort
+WK022810,WC,42.40506329,Ede,Ede-Zuid
+WK022811,WC,54.32432432,Ede,Maandereng
+WK022812,WC,48.20143885,Ede,Rietkampen
+WK022813,WC,0.0,Ede,Bedrijventerrein
+WK022820,WC,68.13559322,Ede,Buitengebied Ede-Stad
+WK022830,WC,69.64157706,Ede,Bennekom
+WK022840,WC,84.18848168,Ede,Lunteren
+WK022850,WC,43.22580645,Ede,Ederveen
+WK022860,WC,0.0,Ede,De Klomp
+WK022870,WC,103.0769231,Ede,Harskamp
+WK022880,WC,81.21212121,Ede,Wekerom
+WK022890,WC,64.83870968,Ede,Otterlo
+GM0230,GEM,77.68115942,Elburg,
+WK023001,WC,109.8360656,Elburg,Wijk 01 Elburg
+WK023002,WC,57.70334928,Elburg,Wijk 02
+WK023003,WC,37.57009346,Elburg,Wijk 03 Doornspijk
+GM0232,GEM,59.22010399,Epe,
+WK023200,WC,59.65753425,Epe,Wijk 00 Epe
+WK023201,WC,30.22556391,Epe,Wijk 01 Emst
+WK023202,WC,66.5248227,Epe,Wijk 02 Vaassen
+WK023203,WC,0.0,Epe,Wijk 03 Bosgebied
+GM0233,GEM,88.30057803,Ermelo,
+WK023300,WC,88.80473373,Ermelo,Wijk 00 Ermelo
+WK023301,WC,0.0,Ermelo,Wijk 01 Speuld
+GM0236,GEM,74.99263623,Geldermalsen,
+WK023600,WC,105.2567976,Geldermalsen,Geldermalsen
+WK023601,WC,40.2,Geldermalsen,Deil
+WK023602,WC,45.81196581,Geldermalsen,Beesd
+WK023603,WC,54.32432432,Geldermalsen,Buurmalsen
+WK023604,WC,46.20689655,Geldermalsen,Meteren
+GM0243,GEM,86.10915493,Harderwijk,
+WK024301,WC,65.36585366,Harderwijk,Wijk 01 Binnenstad
+WK024302,WC,0.0,Harderwijk,Wijk 02 Waterstad
+WK024303,WC,57.42857143,Harderwijk,Wijk 03 Zeebuurt
+WK024304,WC,62.3255814,Harderwijk,Wijk 04 Friesegracht
+WK024305,WC,73.33333333,Harderwijk,Wijk 05 Stadsdennen
+WK024306,WC,0.0,Harderwijk,Wijk 06 De Sypel
+WK024307,WC,0.0,Harderwijk,Wijk 07 Stationsomgeving
+WK024308,WC,126.1883408,Harderwijk,Wijk 08 Stadsweiden
+WK024309,WC,58.26086957,Harderwijk,Wijk 09 Slingerbos
+WK024310,WC,72.15384615,Harderwijk,Wijk 10 Tweelingstad
+WK024311,WC,50.88607595,Harderwijk,Wijk 11 Frankrijk
+WK024312,WC,65.59440559,Harderwijk,Wijk 12 Drielanden
+WK024314,WC,251.25,Harderwijk,Wijk 14 Buitengebied Harderwijk
+WK024315,WC,79.76190476,Harderwijk,Wijk 15 Hierden
+GM0244,GEM,53.17460317,Hattem,
+WK024400,WC,55.83333333,Hattem,Wijk 00 Hattem
+WK024401,WC,0.0,Hattem,Wijk 01 Polder Hattem en Molecaten
+GM0246,GEM,66.33663366,Heerde,
+WK024600,WC,66.05633803,Heerde,Wijk 00 Heerde
+WK024601,WC,67.0,Heerde,Wijk 01 Wapenveld
+GM0252,GEM,82.04081633,Heumen,
+WK025200,WC,78.63849765,Heumen,Wijk 00 Heumen
+WK025201,WC,94.03508772,Heumen,Wijk 01 Overasselt
+GM0262,GEM,76.02118003,Lochem,
+WK026200,WC,87.68916155,Lochem,Wijk 00 Lochem kern
+WK026201,WC,0.0,Lochem,Wijk 01 Lochem buitengebied
+WK026202,WC,44.96644295,Lochem,Wijk 02 Laren
+WK026203,WC,42.53968254,Lochem,Wijk 03 Barchem
+WK026204,WC,83.03418803,Lochem,Wijk 04 Gorssel
+WK026205,WC,71.15044248,Lochem,Wijk 01 Almen-Harfsen
+GM0263,GEM,87.39130435,Maasdriel,
+WK026300,WC,88.23045267,Maasdriel,Wijk 00 Kerkdriel
+WK026301,WC,117.92,Maasdriel,Wijk 01 Ammerzoden
+WK026302,WC,50.56603774,Maasdriel,Wijk 02 Hedel
+WK026303,WC,83.75,Maasdriel,Wijk 03 Heerewaarden
+WK026304,WC,101.9565217,Maasdriel,Wijk 04 Rossum
+GM0267,GEM,65.4562212,Nijkerk,
+WK026701,WC,78.0,Nijkerk,Nijkerk-stad
+WK026702,WC,0.0,Nijkerk,"""Appel"
+WK026703,WC,49.02439024,Nijkerk,Nijkerkerveen en Holkerveen
+WK026704,WC,0.0,Nijkerk,"""Arkemheen"
+WK026705,WC,48.20143885,Nijkerk,Hoevelaken
+GM0268,GEM,85.65706447,Nijmegen,
+WK026801,WC,46.52777778,Nijmegen,Wijk 01 Nijmegen-Centrum
+WK026802,WC,127.7071823,Nijmegen,Wijk 02 Nijmegen-Oost
+WK026803,WC,69.31034483,Nijmegen,Wijk 03 Nijmegen-Oud-West
+WK026804,WC,108.7350835,Nijmegen,Wijk 04 Nijmegen-Nieuw-West
+WK026805,WC,54.47154472,Nijmegen,Wijk 05 Nijmegen-Midden
+WK026806,WC,82.00278164,Nijmegen,Wijk 06 Nijmegen-Zuid
+WK026807,WC,68.86930984,Nijmegen,Wijk 07 Dukenburg
+WK026808,WC,53.33333333,Nijmegen,Wijk 08 Lindenholt
+WK026809,WC,85.8974359,Nijmegen,Wijk 09 Nijmegen-Noord
+GM0269,GEM,68.71794872,Oldebroek,
+WK026900,WC,76.77083333,Oldebroek,Wijk 00 Oldebroek
+WK026901,WC,70.32069971,Oldebroek,Wijk 01 Wezep
+WK026902,WC,0.0,Oldebroek,Wijk 02 Oosterwolde
+GM0273,GEM,93.9341917,Putten,
+WK027300,WC,82.42902208,Putten,Wijk 00 Putten
+WK027301,WC,206.1538462,Putten,Wijk 01 Bosgebied en Krachtighuizen
+GM0274,GEM,74.86639676,Renkum,
+WK027401,WC,49.62962963,Renkum,Renkum Zuid
+WK027402,WC,0.0,Renkum,Renkum Noord
+WK027403,WC,84.92957746,Renkum,Heelsum ten westen van de rijksweg
+WK027404,WC,0.0,Renkum,Heelsum ten oosten van de rijksweg
+WK027405,WC,0.0,Renkum,Wolfheze ten zuiden van het spoor
+WK027406,WC,119.1111111,Renkum,Wolfheze ten noorden van het spoor
+WK027407,WC,0.0,Renkum,Buitengebied Doorwerth
+WK027408,WC,49.40092166,Renkum,Bebouwde kom Doorwerth
+WK027409,WC,0.0,Renkum,Heveadorp
+WK027410,WC,154.6153846,Renkum,Oosterbeek West
+WK027411,WC,98.21989529,Renkum,Oosterbeek Zuidoost
+WK027412,WC,95.28888889,Renkum,Oosterbeek Noordoost
+GM0275,GEM,92.8,Rheden,
+WK027500,WC,77.5562701,Rheden,Wijk 00 Dieren
+WK027501,WC,76.81528662,Rheden,Wijk 01 Rheden
+WK027502,WC,112.4221922,Rheden,Wijk 02 Velp
+GM0277,GEM,0.0,Rozendaal,
+WK027700,WC,0.0,Rozendaal,Wijk 00
+GM0279,GEM,41.875,Scherpenzeel,
+WK027900,WC,41.875,Scherpenzeel,Wijk 00
+GM0281,GEM,92.55670103,Tiel,
+WK028100,WC,94.03508772,Tiel,Tiel kern
+WK028101,WC,115.9615385,Tiel,Tiel-Noord
+WK028102,WC,57.0212766,Tiel,Wadenoijen en Kapel Avezaath
+WK028103,WC,41.02040816,Tiel,Tiel-Zuid
+GM0285,GEM,82.77992278,Voorst,
+WK028500,WC,77.01149425,Voorst,Wijk 00 Voorst
+WK028501,WC,92.33215548,Voorst,Wijk 01 Twello-Nijbroek
+WK028502,WC,34.35897436,Voorst,Wijk 02 Klarenbeek-Teuge
+WK028503,WC,0.0,Voorst,Wijk 03 Wilp
+GM0289,GEM,140.2502844,Wageningen,
+WK028900,WC,127.4504624,Wageningen,Wijk 00 Stedelijk gebied
+WK028901,WC,219.6721311,Wageningen,Wijk 01 Landelijk gebied
+GM0293,GEM,87.47774481,Westervoort,
+WK029300,WC,87.47774481,Westervoort,Wijk 00
+GM0294,GEM,81.16740088,Winterswijk,
+WK029400,WC,88.71724138,Winterswijk,Wijk 00 Stad
+WK029401,WC,51.2568306,Winterswijk,Wijk 01 Land
+GM0296,GEM,70.84229391,Wijchen,
+WK029600,WC,574.2857143,Wijchen,Wijk 00 Wijchen buitengebied
+WK029601,WC,60.36036036,Wijchen,Wijk 01 Wijchen kern
+WK029602,WC,0.0,Wijchen,Wijk 02 Balgoij
+WK029603,WC,0.0,Wijchen,Wijk 03 Batenburg
+WK029604,WC,0.0,Wijchen,Wijk 04 Bergharen
+WK029605,WC,0.0,Wijchen,Wijk 05 Hernen
+WK029606,WC,0.0,Wijchen,Wijk 06 Leur
+WK029607,WC,0.0,Wijchen,Wijk 07 Niftrik
+WK029608,WC,143.1067961,Wijchen,Wijk 08 Alverna
+GM0297,GEM,65.31757755,Zaltbommel,
+WK029700,WC,73.31306991,Zaltbommel,Wijk 00 Zaltbommel
+WK029701,WC,37.64044944,Zaltbommel,Wijk 01 Brakel
+WK029702,WC,85.53191489,Zaltbommel,Wijk 02 Kerkwijk
+WK029703,WC,0.0,Zaltbommel,Wijk 03 Nederhemert
+GM0299,GEM,66.87615527,Zevenaar,
+WK029900,WC,70.77464789,Zevenaar,Wijk 00 Zevenaar
+WK029901,WC,59.11764706,Zevenaar,Wijk 01 Babberich
+WK029902,WC,0.0,Zevenaar,Wijk 02 Angerlo
+WK029903,WC,64.42307692,Zevenaar,Wijk 03 Giesbeek
+WK029904,WC,0.0,Zevenaar,Wijk 04 Lathum
+GM0301,GEM,84.77134146,Zutphen,
+WK030100,WC,111.6666667,Zutphen,Wijk 00 Centrum - De Hoven
+WK030101,WC,63.57664234,Zutphen,Wijk 01 Waterkwartier
+WK030102,WC,97.81021898,Zutphen,Wijk 02 Noordveen
+WK030103,WC,60.36036036,Zutphen,Wijk 03 Zuidwijken
+WK030104,WC,46.60869565,Zutphen,Wijk 04 Leesten
+WK030105,WC,106.4259928,Zutphen,Wijk 05 Warnsveld
+GM0302,GEM,108.6013072,Nunspeet,
+WK030200,WC,111.3166144,Nunspeet,Wijk 00 Nunspeet
+WK030201,WC,94.96062992,Nunspeet,Wijk 01 Elspeet-Vierhouten
+GM0303,GEM,58.55691057,Dronten,
+WK030301,WC,37.74647887,Dronten,Wijk 01 Dronten west
+WK030302,WC,0.0,Dronten,Wijk 02 Dronten Noord
+WK030303,WC,99.74110032,Dronten,Wijk 03 Dronten Midden
+WK030304,WC,35.73333333,Dronten,Wijk 04 Dronten Zuid
+WK030305,WC,0.0,Dronten,Wijk 05 Buitengebied Dronten
+WK030306,WC,67.42138365,Dronten,Wijk 06 Biddinghuizen
+WK030307,WC,27.34693878,Dronten,Wijk 07 Swifterbant
+GM0304,GEM,77.74744027,Neerijnen,
+WK030400,WC,127.0689655,Neerijnen,Wijk 00 Haaften
+WK030401,WC,42.31578947,Neerijnen,Wijk 01 Waardenburg en Opijnen
+WK030402,WC,49.02439024,Neerijnen,Wijk 02 Varik en Ophemert
+GM0307,GEM,87.69633508,Amersfoort,
+WK030701,WC,175.7377049,Amersfoort,Wijk 01 Stadskern
+WK030702,WC,0.0,Amersfoort,Wijk 02 Zonnehof
+WK030703,WC,55.83333333,Amersfoort,Wijk 03 Soesterkwartier
+WK030704,WC,0.0,Amersfoort,Wijk 04 Isselt
+WK030705,WC,498.2051282,Amersfoort,Wijk 05 Bosgebied
+WK030706,WC,38.84057971,Amersfoort,Wijk 06 De Koppel
+WK030707,WC,173.2758621,Amersfoort,Wijk 07 De Kruiskamp
+WK030708,WC,151.8226601,Amersfoort,Wijk 08 Schothorst Zuid
+WK030709,WC,46.20689655,Amersfoort,Wijk 09 Schothorst Noord
+WK030710,WC,49.36842105,Amersfoort,Wijk 10 Liendert
+WK030711,WC,36.54545455,Amersfoort,Wijk 11 Rustenburg
+WK030712,WC,0.0,Amersfoort,Wijk 12 Stoutenburg-Noord
+WK030713,WC,56.22377622,Amersfoort,Wijk 13 Schuilenburg
+WK030714,WC,162.8729282,Amersfoort,Wijk 14 Randenbroek
+WK030715,WC,39.12408759,Amersfoort,Wijk 15 Vermeerkwartier
+WK030716,WC,56.22377622,Amersfoort,Wijk 16 Leusderkwartier
+WK030717,WC,43.22580645,Amersfoort,Wijk 17 De Berg Zuid
+WK030718,WC,57.75862069,Amersfoort,Wijk 18 De Berg Noord
+WK030719,WC,33.98550725,Amersfoort,Wijk 19 Hoogland
+WK030720,WC,38.28571429,Amersfoort,Wijk 20 Zielhorst
+WK030721,WC,83.75,Amersfoort,Wijk 21 Kattenbroek
+WK030722,WC,0.0,Amersfoort,Wijk 22 Calveen
+WK030723,WC,0.0,Amersfoort,Wijk 23 Park Schothorst
+WK030724,WC,45.89041096,Amersfoort,Wijk 24 Nieuwland
+WK030725,WC,0.0,Amersfoort,Wijk 25 valleipoort
+WK030726,WC,107.2,Amersfoort,Wijk 26 Hooglanderveen
+WK030727,WC,0.0,Amersfoort,Wijk 27 Buitengebied West
+WK030728,WC,92.4137931,Amersfoort,Wijk 28 Vathorst-De Velden
+WK030729,WC,255.2380952,Amersfoort,Wijk 29 Vathorst-centrum
+WK030730,WC,0.0,Amersfoort,Wijk 30 Vathorst-De Bron
+WK030731,WC,160.8,Amersfoort,Wijk 31 Vathorst-De Laak
+GM0308,GEM,86.82151589,Baarn,
+WK030800,WC,80.26041667,Baarn,Wijk 00 Baarn
+WK030801,WC,86.73139159,Baarn,"""Wijk 01 Baarn-Noord"
+WK030802,WC,72.04301075,Baarn,Wijk 02 P.H.W.park
+WK030804,WC,0.0,Baarn,Wijk 04 Buitengebied
+WK030805,WC,412.3076923,Baarn,Wijk 05 Lage Vuursche
+GM0310,GEM,97.52021563,De Bilt,
+WK031000,WC,82.50530786,De Bilt,Wijk 00 De Bilt
+WK031001,WC,100.0,De Bilt,Wijk 01 Bilthoven-Zuid
+WK031002,WC,154.1,De Bilt,Wijk 02 Bilthoven-Noord
+WK031003,WC,0.0,De Bilt,Wijk 03 Hollandsche Rading
+WK031004,WC,46.47398844,De Bilt,Wijk 04 Maartensdijk
+WK031005,WC,0.0,De Bilt,Wijk 05 Groenekan
+WK031006,WC,0.0,De Bilt,Wijk 06 Achttienhoven-Westbroek
+GM0312,GEM,69.93736952,Bunnik,
+WK031200,WC,71.06060606,Bunnik,Wijk 00 Bunnik
+WK031201,WC,73.09090909,Bunnik,Wijk 01 Odijk
+WK031202,WC,53.6,Bunnik,Wijk 02 Werkhoven
+GM0313,GEM,72.19827586,Bunschoten,
+WK031300,WC,72.19827586,Bunschoten,Wijk 00
+GM0317,GEM,43.40080972,Eemnes,
+WK031702,WC,43.40080972,Eemnes,Eemnes
+GM0321,GEM,70.77464789,Houten,
+WK032110,WC,75.43046358,Houten,Wijk 10 Houten Noord-West
+WK032111,WC,78.43902439,Houten,Wijk 11 Houten Noord-Oost
+WK032112,WC,46.60869565,Houten,Wijk 12 Houten Zuid-West
+WK032113,WC,102.2900763,Houten,Wijk 13 Houten Zuid-Oost
+WK032120,WC,0.0,Houten,Wijk 20 Houten Buitengebied
+WK032130,WC,0.0,Houten,Wijk 30 't Goy
+WK032131,WC,0.0,Houten,Wijk 31 't Goy Buitengebied
+WK032140,WC,0.0,Houten,Wijk 40 Tull en 't waal
+WK032141,WC,0.0,Houten,Wijk 41 Tull en 't Waal Buitengebied
+WK032150,WC,0.0,Houten,Wijk 50 Schalkwijk
+WK032151,WC,0.0,Houten,Wijk 51 Schalkwijk Buitengebied
+GM0327,GEM,62.61682243,Leusden,
+WK032700,WC,40.81218274,Leusden,Wijk 00 Leusden-Centrum Oost
+WK032701,WC,71.08753316,Leusden,Wijk 01 Leusden-Centrum West
+WK032702,WC,47.01754386,Leusden,Wijk 02 Leusden-Zuid
+WK032703,WC,103.0769231,Leusden,Wijk 03 Achterveld
+WK032704,WC,0.0,Leusden,Wijk 04 Stoutenburg
+WK032705,WC,38.84057971,Leusden,Wijk 05 't Ruige Veld
+GM0331,GEM,56.19354839,Lopik,
+WK033100,WC,56.19354839,Lopik,"""Wijk 00 Lopik"
+GM0335,GEM,56.1452514,Montfoort,
+WK033500,WC,53.36283186,Montfoort,Wijk 00
+WK033501,WC,55.83333333,Montfoort,Wijk 01 Linschoten
+WK033502,WC,0.0,Montfoort,Wijk 02 Willeskop
+GM0339,GEM,65.68627451,Renswoude,
+WK033900,WC,65.68627451,Renswoude,Wijk 00
+GM0340,GEM,60.80672269,Rhenen,
+WK034000,WC,76.57142857,Rhenen,Wijk 00 Rhenen
+WK034001,WC,33.78151261,Rhenen,Wijk 01 Rhenen Oost
+WK034002,WC,161.978022,Rhenen,Wijk 02 Rhenen West
+WK034003,WC,37.22222222,Rhenen,Wijk 03 Rhenen Noord
+WK034005,WC,47.85714286,Rhenen,Wijk 05 Randzone
+WK034006,WC,0.0,Rhenen,Wijk 06 Binnenveld
+WK034007,WC,0.0,Rhenen,Wijk 07 Achterberg
+WK034008,WC,0.0,Rhenen,Wijk 08 Uiterwaarden Rhenen
+WK034010,WC,0.0,Rhenen,Wijk 10 Heuvelrug Rhenen
+WK034011,WC,0.0,Rhenen,Wijk 11 Heuvelrug Elst
+WK034013,WC,47.85714286,Rhenen,Wijk 13 Elst
+GM0342,GEM,76.12594114,Soest,
+WK034201,WC,71.71830986,Soest,Wijk 01 't Hart-Soestdijk
+WK034202,WC,40.60606061,Soest,Wijk 02 Klaarwater
+WK034203,WC,0.0,Soest,Wijk 03 Boerenstreek
+WK034204,WC,143.5714286,Soest,Wijk 04 de Eng-Soest-Midden
+WK034205,WC,80.0,Soest,Wijk 05 Smitsveen
+WK034206,WC,56.61971831,Soest,Wijk 06 Overhees
+WK034207,WC,74.10138249,Soest,Wijk 07 Soest-Zuid
+WK034208,WC,53.6,Soest,Wijk 08 Soesterberg
+GM0344,GEM,83.51042092,Utrecht,
+WK034401,WC,56.46067416,Utrecht,Wijk 01 West
+WK034402,WC,80.53422371,Utrecht,Wijk 02 Noordwest
+WK034403,WC,95.45205479,Utrecht,Wijk 03 Overvecht
+WK034404,WC,83.08,Utrecht,Wijk 04 Noordoost
+WK034405,WC,63.47368421,Utrecht,Wijk 05 Oost
+WK034406,WC,89.73214286,Utrecht,Wijk 06 Binnenstad
+WK034407,WC,47.6142132,Utrecht,Wijk 07 Zuid
+WK034408,WC,115.8305085,Utrecht,Wijk 08 Zuidwest
+WK034409,WC,147.4,Utrecht,Wijk 09 Leidsche Rijn
+WK034410,WC,66.9183922,Utrecht,Wijk 10 Vleuten-De Meern
+GM0345,GEM,79.33075933,Veenendaal,
+WK034500,WC,44.4813278,Veenendaal,Wijk 00 Centrum
+WK034501,WC,131.7288136,Veenendaal,Wijk 01 Noordoost
+WK034502,WC,86.68463612,Veenendaal,Wijk 02 Zuidoost
+WK034503,WC,49.02439024,Veenendaal,Wijk 03 Zuidwest
+WK034504,WC,104.6875,Veenendaal,Wijk 04 Noordwest
+WK034505,WC,46.04810997,Veenendaal,Wijk 05 West
+GM0351,GEM,84.22857143,Woudenberg,
+WK035100,WC,84.22857143,Woudenberg,Wijk 00 Woudenberg
+GM0352,GEM,65.54347826,Wijk bij Duurstede,
+WK035200,WC,65.11508951,Wijk bij Duurstede,Wijk 00 Wijk bij Duurstede
+WK035201,WC,0.0,Wijk bij Duurstede,Wijk 01 Landelijk gebied
+WK035202,WC,79.76190476,Wijk bij Duurstede,Wijk 02 Cothen
+WK035203,WC,43.22580645,Wijk bij Duurstede,Wijk 03 Langbroek
+GM0353,GEM,88.42639594,IJsselstein,
+WK035300,WC,88.42639594,IJsselstein,Wijk 00 IJsselstein
+GM0355,GEM,100.0322234,Zeist,
+WK035501,WC,81.36622391,Zeist,Wijk 01 Centrum Zeist
+WK035502,WC,44.66666667,Zeist,Wijk 02 Zeist-Noord
+WK035503,WC,38.28571429,Zeist,Wijk 03 Zeist-West
+WK035504,WC,203.030303,Zeist,"""Wijk 04 Zeist-Oost"
+WK035505,WC,132.755418,Zeist,"""Wijk 05 Huis Ter Heide"
+GM0356,GEM,53.56487549,Nieuwegein,
+WK035601,WC,64.83870968,Nieuwegein,Wijk 01 Jutphaas Wijkersloot
+WK035602,WC,36.54545455,Nieuwegein,Wijk 02 Zuilenstein
+WK035603,WC,37.9245283,Nieuwegein,Wijk 03 Batau Zuid
+WK035604,WC,40.85365854,Nieuwegein,Wijk 04 Batau Boord
+WK035605,WC,26.44736842,Nieuwegein,Wijk 05 Doorslag
+WK035606,WC,0.0,Nieuwegein,Wijk 06 Huis de Geer
+WK035607,WC,0.0,Nieuwegein,Wijk 07 Blokhoeve
+WK035608,WC,39.7037037,Nieuwegein,Wijk 08 Galecop
+WK035610,WC,119.4059406,Nieuwegein,Wijk10 Fokkesteeg
+WK035611,WC,30.8045977,Nieuwegein,Wijk 11 Hoogzandveld
+WK035612,WC,191.4285714,Nieuwegein,Wijk 12 Lekboulevard
+WK035613,WC,34.65517241,Nieuwegein,Wijk 13 Vreeswijk
+WK035614,WC,0.0,Nieuwegein,Wijk 14 Merwestein
+WK035616,WC,0.0,Nieuwegein,Wijk 16 Zandveld
+WK035620,WC,0.0,Nieuwegein,Wijk 20 Laagraven
+WK035621,WC,0.0,Nieuwegein,Wijk 21 Plettenburg
+WK035624,WC,0.0,Nieuwegein,Wijk 24 Stadscentrum
+GM0358,GEM,70.44205496,Aalsmeer,
+WK035800,WC,97.91231733,Aalsmeer,Wijk 00 Aalsmeer
+WK035801,WC,31.34502924,Aalsmeer,Wijk 01 Kudelstraat en Kalslagen
+WK035802,WC,35.82887701,Aalsmeer,Wijk 02 Oosteinde
+GM0361,GEM,62.46176256,Alkmaar,
+WK036101,WC,128.4931507,Alkmaar,Zuid
+WK036102,WC,59.79002625,Alkmaar,Oudorp
+WK036103,WC,25.28301887,Alkmaar,Overdie
+WK036104,WC,32.07446809,Alkmaar,West
+WK036105,WC,21.78861789,Alkmaar,Huiswaard
+WK036106,WC,83.47540984,Alkmaar,De Mare
+WK036107,WC,74.44444444,Alkmaar,Daalmeer/Koedijk
+WK036108,WC,35.26315789,Alkmaar,Centrum
+WK036109,WC,39.7037037,Alkmaar,Schermer
+WK036110,WC,37.05069124,Alkmaar,Graft-De Rijp
+WK036111,WC,0.0,Alkmaar,Vroonermeer
+GM0362,GEM,86.14285714,Amstelveen,
+WK036201,WC,46.52777778,Amstelveen,Randwijck
+WK036202,WC,27.91666667,Amstelveen,Patrimonium
+WK036203,WC,93.88535032,Amstelveen,Elsrijk
+WK036204,WC,48.43373494,Amstelveen,Stadshart
+WK036206,WC,83.50148368,Amstelveen,"""Bankras"
+WK036207,WC,0.0,Amstelveen,Buitengebied Noord
+WK036208,WC,95.01222494,Amstelveen,Keizer Karelpark
+WK036209,WC,129.1145833,Amstelveen,Groenelaan
+WK036210,WC,41.63841808,Amstelveen,"""Waardhuizen"
+WK036211,WC,85.22968198,Amstelveen,Bovenkerk - Westwijk Noord
+WK036212,WC,257.6923077,Amstelveen,Westwijk Zuid
+WK036213,WC,0.0,Amstelveen,Buitengebied Zuid
+WK036214,WC,0.0,Amstelveen,Amsterdamse Bos
+GM0363,GEM,73.26618705,Amsterdam,
+WK036300,WC,0.0,Amsterdam,Burgwallen-Oude Zijde
+WK036301,WC,0.0,Amsterdam,Burgwallen-Nieuwe Zijde
+WK036302,WC,40.60606061,Amsterdam,Grachtengordel-West
+WK036303,WC,25.76923077,Amsterdam,Grachtengordel-Zuid
+WK036304,WC,71.27659574,Amsterdam,Nieuwmarkt/Lastage
+WK036305,WC,51.82320442,Amsterdam,Haarlemmerbuurt
+WK036306,WC,55.25773196,Amsterdam,Jordaan
+WK036307,WC,23.50877193,Amsterdam,De Weteringschans
+WK036308,WC,155.3623188,Amsterdam,Weesperbuurt/Plantage
+WK036309,WC,92.4137931,Amsterdam,Oostelijke Eilanden/Kadijken
+WK036312,WC,0.0,Amsterdam,Houthavens
+WK036313,WC,73.98773006,Amsterdam,Spaarndammer- en Zeeheldenbuurt
+WK036314,WC,28.71428571,Amsterdam,Staatsliedenbuurt
+WK036315,WC,0.0,Amsterdam,Centrale Markt
+WK036316,WC,178.6666667,Amsterdam,Frederik Hendrikbuurt
+WK036317,WC,37.74647887,Amsterdam,Da Costabuurt
+WK036318,WC,0.0,Amsterdam,Kinkerbuurt
+WK036319,WC,68.71794872,Amsterdam,Van Lennepbuurt
+WK036320,WC,29.77777778,Amsterdam,Helmersbuurt
+WK036321,WC,35.26315789,Amsterdam,Overtoomse Sluis
+WK036322,WC,246.122449,Amsterdam,Vondelbuurt
+WK036323,WC,0.0,Amsterdam,Zuidas
+WK036324,WC,35.97315436,Amsterdam,Oude Pijp
+WK036325,WC,67.0,Amsterdam,Nieuwe Pijp
+WK036326,WC,35.03267974,Amsterdam,Zuid Pijp
+WK036327,WC,71.78571429,Amsterdam,Weesperzijde
+WK036328,WC,58.26086957,Amsterdam,Oosterparkbuurt
+WK036329,WC,92.70440252,Amsterdam,Dapperbuurt
+WK036330,WC,118.5840708,Amsterdam,Transvaalbuurt
+WK036331,WC,41.23076923,Amsterdam,Indische Buurt West
+WK036332,WC,158.136646,Amsterdam,Indische Buurt Oost
+WK036333,WC,37.64044944,Amsterdam,Oostelijk Havengebied
+WK036334,WC,0.0,Amsterdam,Zeeburgereiland/Nieuwe Diep
+WK036335,WC,33.08641975,Amsterdam,IJburg West
+WK036336,WC,0.0,Amsterdam,Sloterdijk
+WK036337,WC,27.48717949,Amsterdam,Landlust
+WK036338,WC,70.52631579,Amsterdam,Erasmuspark
+WK036339,WC,194.9090909,Amsterdam,De Kolenkit
+WK036340,WC,50.88607595,Amsterdam,Geuzenbuurt
+WK036341,WC,43.93442623,Amsterdam,Van Galenbuurt
+WK036342,WC,127.6190476,Amsterdam,Hoofdweg e.o.
+WK036343,WC,34.35897436,Amsterdam,Westindische Buurt
+WK036344,WC,36.21621622,Amsterdam,Hoofddorppleinbuurt
+WK036345,WC,0.0,Amsterdam,Schinkelbuurt
+WK036346,WC,30.8045977,Amsterdam,Willemspark
+WK036347,WC,49.02439024,Amsterdam,Museumkwartier
+WK036348,WC,33.5,Amsterdam,Stadionbuurt
+WK036349,WC,42.83105023,Amsterdam,Apollobuurt
+WK036351,WC,0.0,Amsterdam,IJburg Zuid
+WK036352,WC,99.93220339,Amsterdam,Scheldebuurt
+WK036353,WC,30.8045977,Amsterdam,IJselbuurt
+WK036354,WC,46.74418605,Amsterdam,Rijnbuurt
+WK036355,WC,144.2152466,Amsterdam,Frankendael
+WK036356,WC,30.18018018,Amsterdam,Middenmeer
+WK036357,WC,34.65517241,Amsterdam,Betondorp
+WK036358,WC,0.0,Amsterdam,Omval/Overamstel
+WK036359,WC,55.83333333,Amsterdam,Prinses Irenebuurt e.o.
+WK036360,WC,58.99371069,Amsterdam,Volewijck
+WK036361,WC,55.83333333,Amsterdam,IJplein/Vogelbuurt
+WK036362,WC,55.37190083,Amsterdam,Tuindorp Nieuwendam
+WK036363,WC,57.0212766,Amsterdam,Tuindorp Buiksloot
+WK036364,WC,0.0,Amsterdam,Nieuwendammerdijk/Buiksloterdijk
+WK036365,WC,71.78571429,Amsterdam,Tuindorp Oostzaan
+WK036366,WC,52.69662921,Amsterdam,Oostzanerwerf
+WK036367,WC,77.68115942,Amsterdam,Kadoelen
+WK036368,WC,70.21834061,Amsterdam,Waterlandpleinbuurt
+WK036369,WC,147.7435897,Amsterdam,Buikslotermeer
+WK036370,WC,121.0843373,Amsterdam,Banne Buiksloot
+WK036371,WC,0.0,Amsterdam,Noordelijke IJ-oevers West
+WK036372,WC,0.0,Amsterdam,Noordelijke IJ-oevers Oost
+WK036373,WC,0.0,Amsterdam,Waterland
+WK036374,WC,86.4516129,Amsterdam,Elzenhagen
+WK036375,WC,42.53968254,Amsterdam,Chassébuurt
+WK036376,WC,43.93442623,Amsterdam,Slotermeer-Noordoost
+WK036377,WC,49.08424908,Amsterdam,Slotermeer-Zuidwest
+WK036378,WC,114.1704036,Amsterdam,Geuzenveld
+WK036379,WC,0.0,Amsterdam,Eendracht
+WK036380,WC,0.0,Amsterdam,Lutkemeer/Ookmeer
+WK036381,WC,42.05020921,Amsterdam,Osdorp-Oost
+WK036382,WC,145.5430712,Amsterdam,Osdorp-Midden
+WK036383,WC,47.43362832,Amsterdam,De Punt
+WK036384,WC,36.54545455,Amsterdam,Middelveldsche Akerpolder
+WK036385,WC,116.5217391,Amsterdam,Slotervaart Noord
+WK036386,WC,70.99337748,Amsterdam,Overtoomse Veld
+WK036387,WC,81.21212121,Amsterdam,Westlandgracht
+WK036388,WC,29.66789668,Amsterdam,Sloter-/Riekerpolder
+WK036389,WC,131.7094017,Amsterdam,Slotervaart Zuid
+WK036390,WC,64.83870968,Amsterdam,Buitenveldert-West
+WK036391,WC,163.3240997,Amsterdam,Buitenveldert-Oost
+WK036392,WC,0.0,Amsterdam,Amstel III/Bullewijk
+WK036393,WC,140.7,Amsterdam,"""Bijlmer Centrum (D"
+WK036394,WC,62.40196078,Amsterdam,"""Bijlmer Oost (E"
+WK036395,WC,157.6470588,Amsterdam,Nellestein
+WK036396,WC,42.23495702,Amsterdam,Holendrecht/Reigersbos
+WK036397,WC,36.71232877,Amsterdam,Gein
+WK036398,WC,0.0,Amsterdam,Driemond
+GM0370,GEM,61.3740458,Beemster,
+WK037000,WC,85.20231214,Beemster,Wijk 00 Beemster
+WK037001,WC,0.0,Beemster,Wijk 01 Zuidoostbeemster
+GM0373,GEM,70.47407407,Bergen (NH.),
+WK037301,WC,77.90697674,Bergen (NH.),Wijk 01 Bergen Binnen
+WK037302,WC,0.0,Bergen (NH.),Wijk 02 Bergen aan Zee
+WK037303,WC,0.0,Bergen (NH.),Wijk 03 Buitengebied Bergen
+WK037304,WC,122.8333333,Bergen (NH.),Wijk 04 Egmond aan Zee
+WK037305,WC,0.0,Bergen (NH.),Wijk 05 Egmond-Binnen
+WK037306,WC,0.0,Bergen (NH.),Wijk 06 Egmond aan den Hoef
+WK037307,WC,50.30716724,Bergen (NH.),Wijk 07 Schoorl
+GM0375,GEM,74.01162791,Beverwijk,
+WK037500,WC,100.1149425,Beverwijk,Centrum
+WK037501,WC,47.43362832,Beverwijk,Vondelkwartier
+WK037502,WC,0.0,Beverwijk,Oranjebuurt
+WK037503,WC,38.0141844,Beverwijk,Kuenenkwartier
+WK037504,WC,0.0,Beverwijk,Warande
+WK037505,WC,54.32432432,Beverwijk,Noordwestelijk tuinbouwgebied
+WK037506,WC,37.9245283,Beverwijk,Oosterwijk en Zwaansmeer
+WK037507,WC,117.1863118,Beverwijk,Meerestein
+WK037508,WC,71.78571429,Beverwijk,Wijk aan Zee
+WK037509,WC,0.0,Beverwijk,de Pijp en Wijkerbroek
+WK037510,WC,134.0,Beverwijk,Broekpolder
+GM0376,GEM,61.73441734,Blaricum,
+WK037601,WC,61.73441734,Blaricum,Blaricum
+GM0377,GEM,96.88542825,Bloemendaal,
+WK037700,WC,153.7704918,Bloemendaal,Wijk 00 Bloemendaal
+WK037701,WC,61.46788991,Bloemendaal,Wijk 01 Overveen
+WK037702,WC,57.0212766,Bloemendaal,Wijk 02 Aerdenhout
+WK037703,WC,54.32432432,Bloemendaal,Wijk 03 Vogelenzang
+WK037704,WC,84.12556054,Bloemendaal,Wijk 04 Bennebroek
+GM0383,GEM,53.77207063,Castricum,
+WK038300,WC,54.85380117,Castricum,Wijk 00 Centrum
+WK038301,WC,69.61038961,Castricum,Wijk 01 Castricum-Noord
+WK038302,WC,48.14371257,Castricum,Wijk 02 Castricum-Oost
+WK038303,WC,0.0,Castricum,Wijk 03 Castricum-Zuid
+WK038304,WC,26.8,Castricum,Wijk 04 Bakkum
+WK038305,WC,57.19512195,Castricum,Wijk 05 Akersloot
+WK038306,WC,0.0,Castricum,Wijk 06 De Woude
+WK038307,WC,59.030837,Castricum,Wijk 07 Limmen
+GM0384,GEM,70.75907591,Diemen,
+WK038400,WC,104.2222222,Diemen,Wijk 00 Diemen-Zuid
+WK038401,WC,60.40983607,Diemen,Wijk 01 Diemen-Centrum
+WK038402,WC,51.53846154,Diemen,Wijk 02 Diemen-Noord
+GM0385,GEM,65.39979232,Edam-Volendam,
+WK038500,WC,57.578125,Edam-Volendam,Wijk 00 Edam
+WK038501,WC,0.0,Edam-Volendam,Wijk 01 Purmer
+WK038502,WC,75.60311284,Edam-Volendam,Wijk 02 Volendam
+WK038503,WC,0.0,Edam-Volendam,Wijk 03 Beets
+WK038504,WC,53.6,Edam-Volendam,Wijk 04 Oosthuizen
+WK038505,WC,0.0,Edam-Volendam,Wijk 05 Warder
+WK038506,WC,0.0,Edam-Volendam,Wijk 06 Middelie
+WK038507,WC,0.0,Edam-Volendam,Wijk 07 Kwadijk
+WK038508,WC,0.0,Edam-Volendam,Wijk 08 Schardam
+WK038509,WC,0.0,Edam-Volendam,Wijk 09 Hobrede
+GM0388,GEM,71.60305344,Enkhuizen,
+WK038800,WC,67.0,Enkhuizen,Wijk 00
+WK038801,WC,78.82352941,Enkhuizen,Wijk 01
+GM0392,GEM,94.26599416,Haarlem,
+WK039201,WC,76.40350877,Haarlem,Oude Stad
+WK039202,WC,152.1081081,Haarlem,Haarlemmerhoutkwartier
+WK039203,WC,57.84172662,Haarlem,Zijlwegkwartier
+WK039204,WC,33.71069182,Haarlem,Houtvaartkwartier
+WK039205,WC,168.6092715,Haarlem,Duinwijk
+WK039206,WC,0.0,Haarlem,Waarder- en Veerpolder
+WK039207,WC,33.5,Haarlem,Amsterdamsewijk
+WK039208,WC,42.88,Haarlem,Slachthuiswijk
+WK039209,WC,114.8571429,Haarlem,Parkwijk
+WK039210,WC,45.42372881,Haarlem,Transvaalwijk
+WK039211,WC,58.625,Haarlem,Indischewijk
+WK039212,WC,121.3768116,Haarlem,Ter Kleefkwartier
+WK039213,WC,124.2741935,Haarlem,Te Zaanenkwartier
+WK039214,WC,50.25,Haarlem,Vogelenwijk
+WK039215,WC,47.85714286,Haarlem,Delftwijk
+WK039216,WC,40.91603053,Haarlem,Vondelkwartier
+WK039217,WC,0.0,Haarlem,Spaarndam
+WK039218,WC,92.26229508,Haarlem,Europawijk
+WK039219,WC,150.8609272,Haarlem,Boerhaavewijk
+WK039220,WC,90.92857143,Haarlem,Molenwijk
+WK039221,WC,135.5642023,Haarlem,Meerwijk
+GM0393,GEM,55.83333333,Haarlemmerliede en Spaarnwoude,
+WK039300,WC,55.83333333,Haarlemmerliede en Spaarnwoude,Wijk 00
+GM0394,GEM,59.24034869,Haarlemmermeer,
+WK039401,WC,67.32728542,Haarlemmermeer,Hoofddorp
+WK039402,WC,67.0,Haarlemmermeer,Nieuw-Vennep
+WK039403,WC,53.83928571,Haarlemmermeer,Zwanenburg
+WK039404,WC,0.0,Haarlemmermeer,Lijnden / Boesingheliede
+WK039405,WC,61.7961165,Haarlemmermeer,Badhoevedorp
+WK039406,WC,0.0,Haarlemmermeer,Aalsmeerderbrug/ Oude Meer/ Rozenburg / Schiphol Rijk
+WK039407,WC,30.6870229,Haarlemmermeer,Rijsenhout
+WK039408,WC,0.0,Haarlemmermeer,Burgerveen / Leimuiderbrug / Weteringbrug
+WK039409,WC,0.0,Haarlemmermeer,Abbenes / Buitenkaag
+WK039410,WC,0.0,Haarlemmermeer,Lisserbroek
+WK039411,WC,0.0,Haarlemmermeer,Beinsdorp
+WK039412,WC,0.0,Haarlemmermeer,Zwaanshoek
+WK039413,WC,0.0,Haarlemmermeer,Cruquius
+WK039415,WC,36.54545455,Haarlemmermeer,Vijfhuizen
+GM0396,GEM,75.10966694,Heemskerk,
+WK039601,WC,98.85245902,Heemskerk,Wijk 01 Heemskerk-Dorp
+WK039602,WC,216.1290323,Heemskerk,Wijk 02 Commandeurs en Marquette
+WK039603,WC,59.11764706,Heemskerk,"""Wijk 03 Hofland"
+WK039604,WC,117.5438596,Heemskerk,Wijk 04 Heemskerkerduin en Noorddorp
+WK039605,WC,63.43195266,Heemskerk,Wijk 05 Poelenburg en Oosterzij
+WK039606,WC,34.71502591,Heemskerk,Wijk 06 Noordbroek en De Trompet
+WK039607,WC,36.88073394,Heemskerk,Wijk 07 Kerkbeek
+WK039608,WC,104.8044693,Heemskerk,Wijk 08 Assumburg
+WK039609,WC,53.6,Heemskerk,Wijk 09 Hoogdorp en Waterakkers
+WK039610,WC,0.0,Heemskerk,Wijk 10 Broekpolder
+GM0397,GEM,78.97100094,Heemstede,
+WK039700,WC,83.57293869,Heemstede,Wijk 00 Heemstede-Centrum
+WK039701,WC,55.25773196,Heemstede,Wijk 01 Heemstede-Zuid
+WK039702,WC,0.0,Heemstede,Wijk 02 Heemstede west van de spoorbaan
+GM0398,GEM,62.15969582,Heerhugowaard,
+WK039801,WC,37.22222222,Heerhugowaard,Wijk 01 Schrijverswijk
+WK039802,WC,50.88607595,Heerhugowaard,Wijk 02 Schilderswijk
+WK039804,WC,51.53846154,Heerhugowaard,Wijk 04 Planetenwijk
+WK039806,WC,38.65384615,Heerhugowaard,Wijk 06 Bomen- Recreatiewijk
+WK039807,WC,32.41935484,Heerhugowaard,Wijk 07 Heemradenwijk
+WK039808,WC,38.28571429,Heerhugowaard,Wijk 08 Edelstenenwijk
+WK039809,WC,100.9589041,Heerhugowaard,Wijk 09 Stadshart
+WK039810,WC,41.23076923,Heerhugowaard,Wijk 10 Molenwijk
+WK039811,WC,0.0,Heerhugowaard,Wijk 11 Rivierenwijk
+WK039812,WC,911.2,Heerhugowaard,Wijk 12 Bedrijventerrein
+WK039813,WC,82.46153846,Heerhugowaard,Wijk 13 Butterhuizen
+WK039814,WC,31.1627907,Heerhugowaard,Wijk 14 Oostertocht
+WK039815,WC,0.0,Heerhugowaard,Wijk 15 Zuidwijk
+WK039816,WC,0.0,Heerhugowaard,Wijk16 Huygenhoek
+WK039817,WC,0.0,Heerhugowaard,Wijk 17 Stad van de Zon
+WK039818,WC,0.0,Heerhugowaard,Wijk 18 De Draai
+WK039819,WC,0.0,Heerhugowaard,Wijk 19 Broekhorn
+WK039820,WC,0.0,Heerhugowaard,Wijk 20 De Noord
+WK039830,WC,0.0,Heerhugowaard,Wijk 30 Buitengebied Noord
+WK039840,WC,0.0,Heerhugowaard,Wijk 40 't Kruis
+GM0399,GEM,53.89944134,Heiloo,
+WK039901,WC,0.0,Heiloo,Wijk 01 Blockhovepark
+WK039902,WC,57.0212766,Heiloo,Wijk 02 Heiloo Noord-West
+WK039903,WC,85.53191489,Heiloo,Wijk 03 Heiloo-Midden
+WK039904,WC,23.78698225,Heiloo,Wijk 04 Heiloo-West
+WK039905,WC,58.26086957,Heiloo,Wijk 05 Stationsomgeving
+WK039906,WC,26.53465347,Heiloo,Wijk 06 Ypestein
+WK039908,WC,0.0,Heiloo,Wijk 08 Heiloo Zuid-West
+GM0400,GEM,88.85731202,Den Helder,
+WK040001,WC,95.71428571,Den Helder,Wijk 01 Stad binnen de Linie-Oost
+WK040002,WC,86.61596958,Den Helder,Wijk 02 Stad binnen de Linie-West
+WK040003,WC,47.43362832,Den Helder,Wijk 03 Nieuw Den Helder-West
+WK040004,WC,168.6713287,Den Helder,Wijk 04 Nieuw Den Helder-Oost
+WK040005,WC,65.76687117,Den Helder,Wijk 05 De Schooten
+WK040006,WC,185.5384615,Den Helder,Wijk 06 Het Koegras
+WK040007,WC,0.0,Den Helder,Wijk 07 Duinzoom
+WK040008,WC,37.82258065,Den Helder,Wijk 08 Julianadorp
+GM0402,GEM,94.7034931,Hilversum,
+WK040201,WC,84.27672956,Hilversum,Centrum
+WK040202,WC,120.6430868,Hilversum,Noordwest
+WK040203,WC,71.38014528,Hilversum,Zuidwest
+WK040204,WC,95.28888889,Hilversum,Zuid
+WK040205,WC,108.2828283,Hilversum,Zuidoost
+WK040206,WC,59.72144847,Hilversum,Oost
+WK040207,WC,60.65843621,Hilversum,Noordoost
+WK040208,WC,36.61202186,Hilversum,Hilversumse Meent
+WK040209,WC,741.2765957,Hilversum,Landelijk Gebied
+GM0405,GEM,75.07002801,Hoorn,
+WK040510,WC,107.7386935,Hoorn,Wijk 10 Binnenstad
+WK040511,WC,50.88607595,Hoorn,Wijk 11 Venenlaan-kwartier
+WK040512,WC,161.0928962,Hoorn,Wijk 12 Hoorn-Noord
+WK040513,WC,30.45454545,Hoorn,Wijk 13 Grote Waal
+WK040520,WC,83.2972973,Hoorn,Wijk 20 Risdam-Zuid
+WK040521,WC,59.11764706,Hoorn,Wijk 21 Risdam-Noord
+WK040522,WC,0.0,Hoorn,Wijk 22 Nieuwe Steen
+WK040530,WC,49.17431193,Hoorn,Wijk 30 Zwaag
+WK040531,WC,33.08641975,Hoorn,Wijk 31 Blokker
+WK040532,WC,194.516129,Hoorn,Wijk 32 Kersenboogerd-Noord
+WK040533,WC,42.3715415,Hoorn,Wijk 33 Kersenboogerd-Zuid
+WK040535,WC,0.0,Hoorn,Wijk 35 Bangert en Oosterpolder
+GM0406,GEM,103.65834,Huizen,
+WK040600,WC,90.84745763,Huizen,Wijk 00 Oude Dorp
+WK040601,WC,69.61038961,Huizen,Wijk 01 Westereng
+WK040602,WC,125.625,Huizen,Wijk 02 Buitenwijken
+WK040603,WC,0.0,Huizen,Wijk 03 Erica en Tafelberg
+WK040604,WC,159.3006993,Huizen,Wijk 04 Staatslieden en Componistenbuurt
+WK040605,WC,0.0,Huizen,Wijk 05 Havengebied
+WK040606,WC,255.879397,Huizen,Wijk 06 Zenderwijk en Bovenweg
+WK040607,WC,41.5503876,Huizen,Wijk 07 Stad en Lande
+WK040608,WC,45.98039216,Huizen,Wijk 08 Huizermaat West en Zuid
+WK040609,WC,43.93442623,Huizen,Wijk 09 Huizermaat Noord
+WK040610,WC,0.0,Huizen,Wijk 10 Bijvanck
+WK040611,WC,59.11764706,Huizen,Wijk 11 Bovenmaten
+WK040612,WC,45.42372881,Huizen,Wijk 12 Hogemaat
+GM0415,GEM,53.93188854,Landsmeer,
+WK041500,WC,55.83333333,Landsmeer,Wijk 00 Landsmeer
+WK041501,WC,0.0,Landsmeer,Wijk 01 Ilpendam
+GM0416,GEM,47.11673699,Langedijk,
+WK041600,WC,47.11673699,Langedijk,Wijk 00
+GM0417,GEM,140.648855,Laren,
+WK041703,WC,140.648855,Laren,Laren
+GM0420,GEM,73.36184773,Medemblik,
+WK042000,WC,62.19409283,Medemblik,Wijk 00
+WK042001,WC,117.9874214,Medemblik,Wijk 01 Wognum
+WK042002,WC,0.0,Medemblik,Wijk 02 Nibbixwoud en Wijzend
+WK042003,WC,0.0,Medemblik,Wijk 03 Zwaagdijk-West
+WK042004,WC,89.33333333,Medemblik,Wijk 04 Noorder Koggenland
+WK042005,WC,0.0,Medemblik,Wijk 05 Sijbekarspel
+WK042006,WC,0.0,Medemblik,Wijk 06 Hauwert
+WK042007,WC,0.0,Medemblik,Wijk 07 Twisk
+WK042008,WC,80.4,Medemblik,Wijk 08 Opperdoes
+WK042009,WC,94.36619718,Medemblik,Wijk 09 Abbebroek
+WK042010,WC,61.25714286,Medemblik,Wijk 00 Andijk
+WK042011,WC,86.66666667,Medemblik,Wijk 11 Wervershoof
+WK042012,WC,0.0,Medemblik,Wijk 12 Zwaagdijk
+GM0431,GEM,48.90510949,Oostzaan,
+WK043100,WC,48.90510949,Oostzaan,Wijk 00
+GM0432,GEM,57.19512195,Opmeer,
+WK043200,WC,67.37430168,Opmeer,Wijk 00
+WK043201,WC,40.91603053,Opmeer,Wijk 01
+WK043202,WC,0.0,Opmeer,Wijk 02
+GM0437,GEM,60.42440318,Ouder-Amstel,
+WK043700,WC,60.42440318,Ouder-Amstel,Wijk 00
+GM0439,GEM,80.58314351,Purmerend,
+WK043901,WC,133.3649289,Purmerend,Wijk 01 Centrum
+WK043902,WC,102.8970332,Purmerend,Wijk 02 Overwhere
+WK043903,WC,57.6344086,Purmerend,Wijk 03 Wheermolen
+WK043904,WC,33.36099585,Purmerend,Wijk 04 Gors
+WK043905,WC,34.35897436,Purmerend,Wijk 05 Purmer-Noord
+WK043906,WC,90.23569024,Purmerend,Wijk 06 Purmer-Zuid
+WK043907,WC,91.55279503,Purmerend,Wijk 07 Weidevenne
+GM0441,GEM,52.09115282,Schagen,
+WK044100,WC,58.17927171,Schagen,Wijk 00
+WK044101,WC,31.1627907,Schagen,Wijk 01 Harenkarspel
+WK044102,WC,0.0,Schagen,Wijk 02 Sint Maarten
+WK044103,WC,58.99371069,Schagen,Wijk 03 Warmenhuizen
+WK044104,WC,49.62962963,Schagen,Wijk 04 Zijpe
+GM0448,GEM,54.32432432,Texel,
+WK044800,WC,55.15738499,Texel,Wijk 00 Het Oude Land en duingebied
+WK044801,WC,0.0,Texel,Wijk 01 Het Nieuwe Land
+GM0450,GEM,54.77987421,Uitgeest,
+WK045000,WC,54.77987421,Uitgeest,Wijk 00 Uitgeest
+GM0451,GEM,62.83903676,Uithoorn,
+WK045115,WC,0.0,Uithoorn,Wijk 15 Dorpscentrum
+WK045125,WC,39.41176471,Uithoorn,Wijk 25 Thamerdal
+WK045135,WC,104.829932,Uithoorn,Wijk 35 Zijdelwaard
+WK045145,WC,25.76923077,Uithoorn,Wijk 45 Legmeer
+WK045150,WC,0.0,Uithoorn,Wijk 50 Langs de Vuurlinie
+WK045155,WC,0.0,Uithoorn,Wijk 55 Veilinggebied
+WK045165,WC,45.04201681,Uithoorn,Wijk 65 Meerwijk
+WK045175,WC,0.0,Uithoorn,Wijk 75 Bedrijventerrein
+WK045185,WC,51.53846154,Uithoorn,Wijk 85 Meerwijk
+WK045190,WC,0.0,Uithoorn,Wijk 90 Glastuinbouwgebied
+WK045195,WC,0.0,Uithoorn,Wijk 95 Veenweidegebied
+GM0453,GEM,79.52108277,Velsen,
+WK045300,WC,79.15611814,Velsen,Wijk 00 Velsen-Zuid en Driehuis
+WK045301,WC,95.71428571,Velsen,Wijk 01 IJmuiden-Noord
+WK045302,WC,111.1520737,Velsen,Wijk 02 IJmuiden-Zuid
+WK045303,WC,206.1538462,Velsen,Wijk 03 IJmuiden-West
+WK045304,WC,68.81081081,Velsen,Wijk 04 Zee- en Duinwijk
+WK045305,WC,70.52631579,Velsen,Wijk 05 Velsen-Noord
+WK045306,WC,42.06278027,Velsen,Wijk 06 Santpoort-Noord
+WK045307,WC,35.26315789,Velsen,Wijk 07 Santpoort-Zuid
+WK045308,WC,58.80877743,Velsen,Wijk 08 Velserbroek
+WK045309,WC,0.0,Velsen,Wijk 09 Spaarndammerpolder
+GM0457,GEM,120.2564103,Weesp,
+WK045700,WC,45.16853933,Weesp,Binnenstad
+WK045701,WC,115.9615385,Weesp,Zuid
+WK045702,WC,0.0,Weesp,Noord
+WK045703,WC,225.6842105,Weesp,Hogewey
+WK045704,WC,38.28571429,Weesp,Aetsveld
+WK045707,WC,0.0,Weesp,Aetsveldsepolder
+WK045708,WC,0.0,Weesp,Oostelijke Vechtoever
+WK045709,WC,0.0,Weesp,Bloemendalerpolder
+GM0473,GEM,63.18699187,Zandvoort,
+WK047301,WC,29.91071429,Zandvoort,Zandvoort Noord
+WK047302,WC,74.6749226,Zandvoort,Zandvoort Zuid
+WK047303,WC,120.0,Zandvoort,Bentveld
+GM0479,GEM,56.20921802,Zaanstad,
+WK047911,WC,71.87739464,Zaanstad,Wijk 11 Zaandam Zuid
+WK047912,WC,77.90697674,Zaanstad,Wijk 12 Poelenburg
+WK047913,WC,82.34636872,Zaanstad,Wijk 13 Pelders- en Hoornseveld
+WK047914,WC,75.951417,Zaanstad,Wijk 14 Rosmolenwijk
+WK047915,WC,0.0,Zaanstad,Wijk 15 Kogerveldwijk
+WK047916,WC,57.13178295,Zaanstad,Wijk 16 Zaandam Noord
+WK047921,WC,24.14414414,Zaanstad,Wijk 21 Oude Haven
+WK047922,WC,61.75115207,Zaanstad,Wijk 22 Zaandam West
+WK047923,WC,15.22727273,Zaanstad,Wijk 23 Nieuw West
+WK047931,WC,0.0,Zaanstad,Wijk 31 Oud Koog a/d Zaan
+WK047932,WC,18.10810811,Zaanstad,Wijk 32 Westerkoog
+WK047941,WC,0.0,Zaanstad,Wijk 41 Oud Zaandijk
+WK047942,WC,101.7721519,Zaanstad,Wijk 42 Rooswijk
+WK047951,WC,93.57541899,Zaanstad,Wijk 51 Wormerveer
+WK047961,WC,43.22580645,Zaanstad,Wijk 61 Krommenie Oost
+WK047962,WC,21.75324675,Zaanstad,Wijk 62 Krommenie West
+WK047971,WC,93.33333333,Zaanstad,Wijk 71 Assendelft-Zuid
+WK047972,WC,28.30985915,Zaanstad,Wijk 72 Assendelft-Noord
+WK047981,WC,20.45801527,Zaanstad,Wijk 81 Westzaan
+GM0482,GEM,67.34835355,Alblasserdam,
+WK048201,WC,42.40506329,Alblasserdam,Wijk 01 Centrum
+WK048202,WC,47.29411765,Alblasserdam,Wijk 02 Kinderdijk
+WK048203,WC,66.17283951,Alblasserdam,Wijk 03 Blokweer
+WK048204,WC,103.6904762,Alblasserdam,Wijk 04 Souburgh
+WK048206,WC,0.0,Alblasserdam,Wijk 06 Landelijk gebied
+GM0484,GEM,72.4588966,Alphen aan den Rijn,
+WK048401,WC,38.28571429,Alphen aan den Rijn,Oudshoorn
+WK048402,WC,97.63819095,Alphen aan den Rijn,Ridderveld
+WK048403,WC,48.43373494,Alphen aan den Rijn,Zegersloot
+WK048404,WC,55.83333333,Alphen aan den Rijn,Hoorn
+WK048405,WC,33.83838384,Alphen aan den Rijn,Hoge Zijde
+WK048406,WC,75.58974359,Alphen aan den Rijn,Lage Zijde
+WK048407,WC,0.0,Alphen aan den Rijn,Steekterpolder
+WK048408,WC,137.8014184,Alphen aan den Rijn,Kerk en Zanen
+WK048409,WC,0.0,Alphen aan den Rijn,Rietveld
+WK048431,WC,50.25,Alphen aan den Rijn,Benthuizen
+WK048445,WC,0.0,Alphen aan den Rijn,Aarlanderveen
+WK048470,WC,71.6744186,Alphen aan den Rijn,Boskoop
+WK048471,WC,0.0,Alphen aan den Rijn,Zwammerdam
+WK048491,WC,61.96531792,Alphen aan den Rijn,Hazerswoude-Dorp
+WK048494,WC,51.14503817,Alphen aan den Rijn,Hazerswoude-Rijndijk
+WK048496,WC,101.1320755,Alphen aan den Rijn,Koudekerk aan den Rijn
+GM0489,GEM,57.15063521,Barendrecht,
+WK048901,WC,62.8125,Barendrecht,Wijk 01 Centrum
+WK048902,WC,134.0,Barendrecht,Wijk 02 Noord
+WK048903,WC,0.0,Barendrecht,Wijk 03 Binnenland
+WK048904,WC,0.0,Barendrecht,Wijk 04 Oranjewijk
+WK048905,WC,24.14414414,Barendrecht,Wijk 05 Buitenoord
+WK048906,WC,0.0,Barendrecht,Wijk 06 Ter Leede
+WK048907,WC,0.0,Barendrecht,Wijk 07 Paddewei
+WK048908,WC,0.0,Barendrecht,Wijk 08 Molenvliet
+WK048909,WC,28.21052632,Barendrecht,Wijk 09 Nieuweland
+WK048910,WC,0.0,Barendrecht,Wijk 10 Dorpzicht
+WK048911,WC,0.0,Barendrecht,Wijk 11 Bijdorp
+WK048912,WC,0.0,Barendrecht,Wijk 12 Smitshoek
+WK048913,WC,0.0,Barendrecht,Wijk 13 Voordijk
+WK048914,WC,125.0666667,Barendrecht,Wijk 14 Meerwede
+WK048915,WC,67.0,Barendrecht,Wijk 15 Waterkant
+WK048916,WC,0.0,Barendrecht,Wijk 16 Havenkwartier
+WK048917,WC,0.0,Barendrecht,Wijk 17 Gaatkensoog
+WK048918,WC,0.0,Barendrecht,Wijk 18 Riederhoek
+WK048919,WC,0.0,Barendrecht,Wijk 19 Vrijheidsakker
+WK048920,WC,48.72727273,Barendrecht,Wijk 20 Vrijenburg
+WK048930,WC,0.0,Barendrecht,Wijk 30 Buitengebied Noord
+WK048931,WC,0.0,Barendrecht,Wijk 31 Buitengebied Zuid
+GM0498,GEM,58.7047619,Drechterland,
+WK049800,WC,57.75862069,Drechterland,Wijk 00 Hoogkarspel
+WK049801,WC,95.71428571,Drechterland,Wijk 01 Westwoud
+WK049802,WC,0.0,Drechterland,Wijk 02 Oosterblokker
+WK049803,WC,60.12820513,Drechterland,Wijk 03 Venhuizen
+WK049804,WC,0.0,Drechterland,Wijk 04 Wijdenes
+WK049805,WC,0.0,Drechterland,Wijk 05 Schellinkhout
+GM0501,GEM,67.38878143,Brielle,
+WK050100,WC,72.68867925,Brielle,Wijk 00 Brielle
+WK050101,WC,0.0,Brielle,Wijk 01 Vierpolders
+WK050102,WC,52.54901961,Brielle,Wijk 02 Zwartewaal
+GM0502,GEM,79.67981704,Capelle aan den IJssel,
+WK050201,WC,80.54644809,Capelle aan den IJssel,Wijk 01 Capelle-West en 's-Gravenland
+WK050202,WC,74.72118959,Capelle aan den IJssel,Wijk 02 Middelwatering-West
+WK050203,WC,135.6441718,Capelle aan den IJssel,Wijk 03 Middelwatering-Oost
+WK050204,WC,109.0697674,Capelle aan den IJssel,Wijk 04 Oostgaarde-Zuid
+WK050205,WC,51.82320442,Capelle aan den IJssel,Wijk 05 Oostgaarde-Noord
+WK050206,WC,29.13043478,Capelle aan den IJssel,Wijk 06 Schenkel
+WK050207,WC,48.82591093,Capelle aan den IJssel,Wijk 07 Schollevaar-Zuid
+WK050208,WC,34.80519481,Capelle aan den IJssel,Wijk 08 Schollevaar-Noord en Hoofdweg
+WK050209,WC,116.5217391,Capelle aan den IJssel,Wijk 09 Rivium en Fascinatio
+GM0503,GEM,69.12943344,Delft,
+WK050311,WC,48.1025641,Delft,Wijk 11 Binnenstad
+WK050312,WC,132.2746781,Delft,Wijk 12 Vrijenban
+WK050313,WC,65.36585366,Delft,Wijk 13 Hof van Delft
+WK050314,WC,41.65803109,Delft,Wijk 14 Voordijkshoorn
+WK050316,WC,0.0,Delft,Wijk 16 Delftse Hout
+WK050322,WC,29.34306569,Delft,Wijk 22 Tanthof-West
+WK050323,WC,39.88095238,Delft,Wijk 23 Tanthof-Oost
+WK050324,WC,114.9704142,Delft,Wijk 24 Voorhof
+WK050325,WC,59.48598131,Delft,Wijk 25 Buitenhof
+WK050327,WC,0.0,Delft,Wijk 27 Schieweg
+WK050328,WC,56.42105263,Delft,Wijk 28 Wippolder
+WK050329,WC,0.0,Delft,Wijk 29 Ruiven
+GM0505,GEM,95.09114583,Dordrecht,
+WK050501,WC,66.09865471,Dordrecht,Wijk 01 Binnenstad
+WK050502,WC,61.6091954,Dordrecht,Wijk 02 Noordflank
+WK050503,WC,64.57831325,Dordrecht,Wijk 03 Oud Krispijn
+WK050504,WC,55.44827586,Dordrecht,Wijk 04 Nieuw-krispijn
+WK050505,WC,75.58974359,Dordrecht,Wijk 05 Het Reeland
+WK050506,WC,182.7272727,Dordrecht,Wijk 06 Staart
+WK050507,WC,64.68965517,Dordrecht,Wijk 07 Wielwijk
+WK050508,WC,153.2841328,Dordrecht,Wijk 08 Crabbehof/Zuidhoven
+WK050509,WC,87.10926694,Dordrecht,Wijk 09 Sterrenburg
+WK050510,WC,136.1788618,Dordrecht,Wijk 10 Dubbeldam
+WK050511,WC,56.16766467,Dordrecht,Wijk 11 Stadspolders
+WK050519,WC,0.0,Dordrecht,Wijk 19 Industriegebied West
+WK050598,WC,0.0,Dordrecht,Wijk 98 Verspreide bebouwing
+GM0512,GEM,60.10940919,Gorinchem,
+WK051201,WC,95.03546099,Gorinchem,Wijk 01 Gorinchem binnenstad
+WK051202,WC,0.0,Gorinchem,Wijk 02 Wijdschild
+WK051203,WC,59.11764706,Gorinchem,Wijk 03 Lingewijk
+WK051204,WC,36.46258503,Gorinchem,Wijk 04 haarwijk
+WK051205,WC,71.27659574,Gorinchem,Wijk 05 Stalkaarsen
+WK051206,WC,78.21011673,Gorinchem,Wijk 06 Gildenwijk
+WK051207,WC,0.0,Gorinchem,Wijk 07 Schelluinsestraat
+WK051208,WC,0.0,Gorinchem,Wijk 08 Avelingen Oost
+WK051211,WC,33.5,Gorinchem,Wijk 11 laag Dalem
+WK051212,WC,0.0,Gorinchem,Wijk 12 Dalem
+WK051213,WC,0.0,Gorinchem,Wijk 13 Hoog Dalem
+WK051215,WC,0.0,Gorinchem,Wijk 15 Papland
+WK051218,WC,0.0,Gorinchem,Wijk 18 Landelijk gebied West
+GM0513,GEM,100.5180788,Gouda,
+WK051301,WC,127.3,Gouda,Wijk 01 Binnenstad
+WK051302,WC,69.31034483,Gouda,Wijk 02 De Korte Akkeren
+WK051303,WC,80.9178744,Gouda,Wijk 03 Bloemendaal
+WK051304,WC,81.11380145,Gouda,Wijk 04 Plaswijck
+WK051305,WC,160.8,Gouda,Wijk 05 Noord
+WK051306,WC,110.6422018,Gouda,Wijk 06 Kort Haarlem
+WK051307,WC,108.8324873,Gouda,Wijk 07 Goverwelle
+WK051308,WC,0.0,Gouda,Wijk 08 Stolwijkersluis
+WK051309,WC,0.0,Gouda,Wijk 09 Oostpolder in Schieland
+GM0518,GEM,108.2594512,s-Gravenhage,
+WK051802,WC,139.826087,s-Gravenhage,Wijk 02 Belgisch Park
+WK051803,WC,234.5,s-Gravenhage,Wijk 03 Westbroekpark en Duttendel
+WK051804,WC,178.1914894,s-Gravenhage,Wijk 04 Benoordenhout
+WK051805,WC,66.62983425,s-Gravenhage,Wijk 05 Archipelbuurt
+WK051806,WC,234.5,s-Gravenhage,Wijk 06 Van Stolkpark en Scheveningse Bosjes
+WK051807,WC,102.8630705,s-Gravenhage,Wijk 07 Scheveningen
+WK051808,WC,49.17431193,s-Gravenhage,Wijk 08 Duindorp
+WK051809,WC,103.0769231,s-Gravenhage,Wijk 09 Geuzen- en Statenkwartier
+WK051810,WC,0.0,s-Gravenhage,Wijk 10 Zorgvliet
+WK051811,WC,49.26470588,s-Gravenhage,Wijk 11 Duinoord
+WK051812,WC,79.00943396,s-Gravenhage,Wijk 12 Bomen- en Bloemenbuurt
+WK051813,WC,39.12408759,s-Gravenhage,Wijk 13 Vogelwijk
+WK051814,WC,129.037037,s-Gravenhage,Wijk 14 Bohemen en Meer en Bos
+WK051815,WC,37.22222222,s-Gravenhage,Wijk 15 Kijkduin en Ockenburgh
+WK051816,WC,40.30075188,s-Gravenhage,Wijk 16 Kraayenstein en de Uithof
+WK051817,WC,128.7544484,s-Gravenhage,Wijk 17 Loosduinen
+WK051818,WC,95.8283671,s-Gravenhage,Wijk 18 Waldeck
+WK051819,WC,110.0483092,s-Gravenhage,Wijk 19 Vruchtenbuurt
+WK051820,WC,85.8974359,s-Gravenhage,Wijk 20 Valkenboskwartier
+WK051821,WC,95.14792899,s-Gravenhage,Wijk 21 Regentessekwartier
+WK051822,WC,89.93288591,s-Gravenhage,Wijk 22 Zeeheldenkwartier
+WK051823,WC,72.43243243,s-Gravenhage,Wijk 23 Willemspark
+WK051824,WC,478.5714286,s-Gravenhage,Wijk 24 Haagse Bos
+WK051825,WC,152.5203252,s-Gravenhage,Wijk 25 Mariahoeve en Marlot
+WK051826,WC,73.89705882,s-Gravenhage,Wijk 26 Bezuidenhout
+WK051827,WC,122.8333333,s-Gravenhage,Wijk 27 Stationsbuurt
+WK051828,WC,68.13559322,s-Gravenhage,Wijk 28 Centrum
+WK051829,WC,98.04878049,s-Gravenhage,Wijk 29 Schildersbuurt
+WK051830,WC,145.0515464,s-Gravenhage,Wijk 30 Transvaalkwartier
+WK051831,WC,62.16494845,s-Gravenhage,Wijk 31 Rustenburg en Oostbroek
+WK051832,WC,71.4213198,s-Gravenhage,Wijk 32 Leyenburg
+WK051833,WC,109.9696049,s-Gravenhage,Wijk 33 Bouwlust en Vrederust
+WK051834,WC,42.60115607,s-Gravenhage,Wijk 34 Morgenstond
+WK051835,WC,0.0,s-Gravenhage,Wijk 35 Zuiderpark
+WK051836,WC,122.2012579,s-Gravenhage,Wijk 36 Moerwijk
+WK051837,WC,68.71794872,s-Gravenhage,Wijk 37 Groente- en Fruitmarkt
+WK051838,WC,58.12048193,s-Gravenhage,Wijk 38 Laakkwartier en Spoorwijk
+WK051839,WC,0.0,s-Gravenhage,Wijk 39 Binckhorst
+WK051840,WC,251.8120805,s-Gravenhage,Wijk 40 Wateringse Veld
+WK051841,WC,0.0,s-Gravenhage,Wijk 41 Hoornwijk
+WK051842,WC,36.05381166,s-Gravenhage,Wijk 42 Ypenburg
+WK051843,WC,0.0,s-Gravenhage,Wijk 43 Forepark
+WK051844,WC,203.9130435,s-Gravenhage,Wijk 44 Leidschenveen
+GM0523,GEM,77.14285714,Hardinxveld-Giessendam,
+WK052300,WC,77.14285714,Hardinxveld-Giessendam,Wijk 00
+GM0530,GEM,61.68462292,Hellevoetsluis,
+WK053000,WC,42.09424084,Hellevoetsluis,Wijk 00 Hellevoet
+WK053001,WC,75.28089888,Hellevoetsluis,Wijk 01 Nieuw-Helvoet
+WK053002,WC,174.7826087,Hellevoetsluis,Wijk 02 Nieuwenhoorn
+WK053003,WC,26.8,Hellevoetsluis,Wijk 03 De Struyten
+WK053004,WC,100.1869159,Hellevoetsluis,Wijk 04 De Kooistee
+WK053005,WC,44.4198895,Hellevoetsluis,Wijk 05 Den Bonsen Hoek
+WK053006,WC,101.1320755,Hellevoetsluis,Wijk 06 Ravense Hoek
+WK053007,WC,43.69565217,Hellevoetsluis,Wijk 07 Centrumgebied
+WK053009,WC,0.0,Hellevoetsluis,Wijk 09 Buitengebied
+GM0531,GEM,90.97595474,Hendrik-Ido-Ambacht,
+WK053101,WC,98.14084507,Hendrik-Ido-Ambacht,Wijk 01 Centrum
+WK053102,WC,66.26373626,Hendrik-Ido-Ambacht,Wijk 02 Krommeweg
+WK053103,WC,106.8711656,Hendrik-Ido-Ambacht,Wijk 03 De Volgerlanden
+WK053104,WC,0.0,Hendrik-Ido-Ambacht,Wijk 04 Sandelingen-Ambacht
+WK053105,WC,0.0,Hendrik-Ido-Ambacht,Wijk 05 De Oevers
+GM0532,GEM,80.35656402,Stede Broec,
+WK053200,WC,105.5479452,Stede Broec,Wijk 00
+WK053201,WC,61.84615385,Stede Broec,Wijk 01
+GM0534,GEM,89.05063291,Hillegom,
+WK053401,WC,37.09342561,Hillegom,Centrum
+WK053402,WC,128.2978723,Hillegom,Noord
+WK053403,WC,94.27135678,Hillegom,Elsbroek
+WK053404,WC,289.0196078,Hillegom,Buitengebied
+GM0537,GEM,74.10540013,Katwijk,
+WK053701,WC,38.42293907,Katwijk,Wijk 01 Katwijk Noord
+WK053703,WC,116.1333333,Katwijk,Wijk 03 Katwijk aan den Rijn
+WK053704,WC,38.28571429,Katwijk,Wijk 04 Katwijk Midden
+WK053705,WC,105.3562654,Katwijk,Wijk 05 Katwijk aan Zee
+WK053706,WC,0.0,Katwijk,Wijk 06 Landelijk gebied Katwijk
+WK053707,WC,82.40641711,Katwijk,Wijk 07 Rijnsburg
+WK053708,WC,43.69565217,Katwijk,Wijk 08 Valkenburg
+GM0542,GEM,72.39685658,Krimpen aan den IJssel,
+WK054200,WC,72.39685658,Krimpen aan den IJssel,Wijk 00 Krimpen aan den IJssel
+GM0545,GEM,82.32081911,Leerdam,
+WK054500,WC,82.32081911,Leerdam,Wijk 00 Leerdam
+GM0546,GEM,70.78225806,Leiden,
+WK054600,WC,32.28915663,Leiden,Binnenstad-Zuid
+WK054601,WC,80.72289157,Leiden,Binnenstad-Noord
+WK054602,WC,0.0,Leiden,Stationsdistrict
+WK054603,WC,98.18965517,Leiden,Leiden-Noord
+WK054604,WC,78.48156182,Leiden,Roodenburgerdistrict
+WK054605,WC,116.0828625,Leiden,Bos- en Gasthuisdistrict
+WK054606,WC,54.88054608,Leiden,Morsdistrict
+WK054607,WC,55.83333333,Leiden,Boerhaavedistrict
+WK054608,WC,20.20100503,Leiden,Merenwijkdistrict
+WK054609,WC,42.25225225,Leiden,Stevenshofdistrict
+GM0547,GEM,56.88679245,Leiderdorp,
+WK054700,WC,49.44649446,Leiderdorp,Wijk 00
+WK054701,WC,62.3255814,Leiderdorp,Wijk 01
+WK054702,WC,73.42465753,Leiderdorp,Wijk 02
+GM0553,GEM,53.5235378,Lisse,
+WK055301,WC,0.0,Lisse,Wijk 01 De Loosters
+WK055302,WC,0.0,Lisse,Wijk 02 Halfweg
+WK055304,WC,0.0,Lisse,Wijk 04 De Blinkerd
+WK055305,WC,0.0,Lisse,Wijk 05 Meerenburgh
+WK055306,WC,47.01754386,Lisse,Wijk 06 Oranjewijk
+WK055307,WC,0.0,Lisse,Wijk 07 Zeeheldenwijk
+WK055308,WC,0.0,Lisse,Wijk 08 Bloemenwijk
+WK055309,WC,48.72727273,Lisse,Wijk 09 Centrum
+WK055310,WC,128.173913,Lisse,Wijk 10 Berkhout
+WK055311,WC,0.0,Lisse,Wijk 11 Van Rijckevorsel
+WK055312,WC,0.0,Lisse,Wijk 12 Componistenwijk
+WK055313,WC,52.54901961,Lisse,Wijk 13 Schilderswijk
+WK055314,WC,34.35897436,Lisse,Wijk 14 Vogelwijk
+WK055315,WC,0.0,Lisse,Wijk 15 Dever
+WK055317,WC,0.0,Lisse,Wijk 17 Vrouwenpolder
+WK055318,WC,0.0,Lisse,Wijk 18 Lisse Rond
+WK055319,WC,0.0,Lisse,Wijk 19 De Engel
+WK055320,WC,0.0,Lisse,Wijk 20 Ter Beek
+WK055321,WC,0.0,Lisse,Wijk 21 Roovers Broek
+GM0556,GEM,79.13385827,Maassluis,
+WK055601,WC,74.44444444,Maassluis,Wijk 01 Taanschuurpolder
+WK055602,WC,56.42105263,Maassluis,Wijk 02 Dijkpolder
+WK055603,WC,133.1677019,Maassluis,Sluispolder
+WK055604,WC,83.10077519,Maassluis,Wijk 04 Kapelpolder
+WK055605,WC,47.43362832,Maassluis,Wijk 05 Burgemeesterswijk
+WK055606,WC,101.3445378,Maassluis,Wijk 06 Steendijkpolder
+WK055607,WC,0.0,Maassluis,Wijk 07 Aalkeetpolder
+WK055608,WC,0.0,Maassluis,Wijk 08 Wilgenrijk
+GM0569,GEM,56.12565445,Nieuwkoop,
+WK056900,WC,59.2920354,Nieuwkoop,Wijk 00
+WK056901,WC,60.2247191,Nieuwkoop,Wijk 01 Nieuwveen
+WK056902,WC,0.0,Nieuwkoop,Wijk 02 Zevenhoven
+WK056903,WC,67.51937984,Nieuwkoop,Wijk 03 Ter Aar
+GM0575,GEM,60.28277635,Noordwijk,
+WK057500,WC,63.53448276,Noordwijk,Wijk 00 Noordwijk-Binnen
+WK057501,WC,51.21019108,Noordwijk,Wijk 01 Noordwijk Aan Zee
+GM0576,GEM,60.25695931,Noordwijkerhout,
+WK057600,WC,60.25695931,Noordwijkerhout,Wijk 00
+GM0579,GEM,78.37375178,Oegstgeest,
+WK057900,WC,78.37375178,Oegstgeest,Wijk 00 Oegstgeest
+GM0584,GEM,76.74008811,Oud-Beijerland,
+WK058400,WC,76.74008811,Oud-Beijerland,Wijk 00
+GM0585,GEM,52.26435536,Binnenmaas,
+WK058500,WC,44.66666667,Binnenmaas,Wijk 00 Heinenoord
+WK058501,WC,28.71428571,Binnenmaas,Wijk 01 Mijnsheerenland
+WK058502,WC,38.28571429,Binnenmaas,Wijk 02 Westmaas
+WK058503,WC,36.21621622,Binnenmaas,Wijk 03 Maasdam
+WK058504,WC,71.98347107,Binnenmaas,Wijk 04 Puttershoek
+WK058505,WC,59.77695167,Binnenmaas,Wijk 05 's-Gravendeel
+GM0588,GEM,63.60759494,Korendijk,
+WK058800,WC,25.52380952,Korendijk,Wijk 00 Nieuw-Beijerland
+WK058801,WC,191.4285714,Korendijk,Wijk 01 Piershil
+WK058802,WC,0.0,Korendijk,Wijk 02 Goudswaard
+WK058803,WC,47.43362832,Korendijk,Wijk 03 Zuid-Beijerland
+GM0589,GEM,95.03546099,Oudewater,
+WK058901,WC,0.0,Oudewater,Hekendorp
+WK058902,WC,106.5271967,Oudewater,Oudewater
+WK058903,WC,0.0,Oudewater,Papekop
+WK058904,WC,0.0,Oudewater,Snelrewaard
+GM0590,GEM,71.44869215,Papendrecht,
+WK059000,WC,71.44869215,Papendrecht,Wijk 00 Papendrecht
+GM0597,GEM,78.53177051,Ridderkerk,
+WK059701,WC,27.34693878,Ridderkerk,Centrum
+WK059702,WC,143.9669421,Ridderkerk,West
+WK059703,WC,42.25225225,Ridderkerk,Oost
+WK059704,WC,126.6909091,Ridderkerk,Drievliet
+WK059705,WC,212.8971963,Ridderkerk,Het Zand
+WK059706,WC,40.60606061,Ridderkerk,Slikkerveer
+WK059707,WC,27.91666667,Ridderkerk,Bolnes
+WK059708,WC,29.45054945,Ridderkerk,Rijsoord
+WK059709,WC,0.0,Ridderkerk,Oostendam
+WK059710,WC,0.0,Ridderkerk,Donkersloot
+GM0599,GEM,88.70908422,Rotterdam,
+WK059901,WC,75.49295775,Rotterdam,Rotterdam Centrum
+WK059903,WC,64.43715847,Rotterdam,Delfshaven
+WK059904,WC,143.9140811,Rotterdam,Overschie
+WK059905,WC,71.39344262,Rotterdam,Noord
+WK059906,WC,119.9832636,Rotterdam,Hillegersberg-Schiebroek
+WK059908,WC,78.8996139,Rotterdam,Kralingen-Crooswijk
+WK059910,WC,75.46259051,Rotterdam,Feijenoord
+WK059912,WC,92.91348601,Rotterdam,IJsselmonde
+WK059913,WC,52.75590551,Rotterdam,Pernis
+WK059914,WC,82.4973913,Rotterdam,Prins Alexander
+WK059915,WC,121.609589,Rotterdam,Charlois
+WK059916,WC,94.66666667,Rotterdam,Hoogvliet
+WK059917,WC,61.43266476,Rotterdam,Hoek van Holland
+WK059918,WC,0.0,Rotterdam,Spaanse Polder
+WK059927,WC,62.3255814,Rotterdam,Rozenburg
+GM0603,GEM,87.2,Rijswijk,
+WK060301,WC,47.29411765,Rijswijk,Wijk 01
+WK060302,WC,105.2857143,Rijswijk,Wijk 02
+WK060303,WC,0.0,Rijswijk,Wijk 03
+WK060304,WC,130.2777778,Rijswijk,Wijk 04
+WK060305,WC,0.0,Rijswijk,Wijk 05
+WK060306,WC,43.57723577,Rijswijk,Wijk 06
+WK060307,WC,45.89041096,Rijswijk,Wijk 07
+WK060308,WC,179.5015576,Rijswijk,Wijk 08
+WK060309,WC,45.84210526,Rijswijk,Wijk 09
+WK060310,WC,0.0,Rijswijk,Wijk 10
+WK060311,WC,0.0,Rijswijk,Wijk 11
+GM0606,GEM,101.1320755,Schiedam,
+WK060600,WC,0.0,Schiedam,Wijk 00 Centrum
+WK060601,WC,70.99337748,Schiedam,Wijk 01 Oost
+WK060602,WC,60.90909091,Schiedam,Wijk 02 Tussen Havens en Grachten
+WK060603,WC,177.0714286,Schiedam,Wijk 03 West
+WK060604,WC,60.12820513,Schiedam,Wijk 04 Zuid
+WK060606,WC,117.0481928,Schiedam,Wijk 06 Nieuwland
+WK060607,WC,78.66927593,Schiedam,Wijk 07 Groenoord en Kethel
+WK060608,WC,0.0,Schiedam,Wijk 08 Industriegebied ten noorden van Rijksweg 20
+WK060609,WC,102.7840909,Schiedam,Wijk 09 Woudhoek/Spaland /Sveaparken
+GM0610,GEM,81.04078762,Sliedrecht,
+WK061001,WC,42.31578947,Sliedrecht,Wijk 01 Sliedrecht-West
+WK061002,WC,108.1987578,Sliedrecht,Wijk 02 Sliedrecht-Centrum
+WK061003,WC,64.91349481,Sliedrecht,Wijk 03 Sliedrecht-Oost
+WK061004,WC,0.0,Sliedrecht,Wijk 04 Sliedrecht-Noord
+GM0611,GEM,72.25490196,Cromstrijen,
+WK061100,WC,78.82352941,Cromstrijen,Wijk 00 Numansdorp
+WK061101,WC,56.30252101,Cromstrijen,Wijk 01 Klaaswaal
+GM0613,GEM,73.00527241,Albrandswaard,
+WK061301,WC,86.4516129,Albrandswaard,Wijk 01 Poortugaal-Noord
+WK061302,WC,0.0,Albrandswaard,Wijk 02 Rhoon-Noord
+WK061303,WC,81.43646409,Albrandswaard,Wijk 03 Poortugaal-Zuid
+WK061304,WC,83.75,Albrandswaard,Wijk 04 Rhoon-Zuid
+WK061305,WC,0.0,Albrandswaard,Wijk 05 Buitengebied Albrandswaard
+WK061306,WC,29.13043478,Albrandswaard,Wijk 06 Portland
+GM0614,GEM,86.53136531,Westvoorne,
+WK061400,WC,80.17094017,Westvoorne,Wijk 00 Rockanje
+WK061401,WC,91.36363636,Westvoorne,Wijk 01 Oostvoorne
+GM0617,GEM,62.56809339,Strijen,
+WK061700,WC,62.56809339,Strijen,Wijk 00 Strijen en buitengebied
+GM0620,GEM,72.43243243,Vianen,
+WK062000,WC,84.84716157,Vianen,Wijk 00 Vianen
+WK062001,WC,0.0,Vianen,Wijk 01 Hagestein
+WK062002,WC,0.0,Vianen,Wijk 02 Everdingen
+GM0622,GEM,86.86896552,Vlaardingen,
+WK062201,WC,96.86746988,Vlaardingen,Centrum
+WK062202,WC,70.77464789,Vlaardingen,Westwijk
+WK062203,WC,57.6344086,Vlaardingen,Vettenoordse Polder
+WK062204,WC,68.13559322,Vlaardingen,Oostwijk
+WK062205,WC,56.81978799,Vlaardingen,Vlaardinger Ambacht
+WK062206,WC,136.7346939,Vlaardingen,Holy Zuid
+WK062207,WC,56.06694561,Vlaardingen,Holy Noord
+GM0626,GEM,84.83001172,Voorschoten,
+WK062600,WC,84.83001172,Voorschoten,Wijk 00
+GM0627,GEM,74.24324324,Waddinxveen,
+WK062701,WC,65.13888889,Waddinxveen,Wijk 01
+WK062702,WC,64.68965517,Waddinxveen,Wijk 02
+WK062703,WC,126.8639053,Waddinxveen,Wijk 03
+WK062704,WC,48.55072464,Waddinxveen,Wijk 04
+GM0629,GEM,116.8136273,Wassenaar,
+WK062900,WC,149.9300699,Wassenaar,Wijk 00 Zuidwestelijk deel der gemeente
+WK062901,WC,103.511236,Wassenaar,Wijk 01 Noordoostelijk deel der gemeente
+GM0632,GEM,86.08359133,Woerden,
+WK063201,WC,74.09162717,Woerden,Wijk 01 Woerden-Midden
+WK063202,WC,38.84057971,Woerden,Wijk 02 Woerden-West
+WK063203,WC,44.66666667,Woerden,Wijk 03 Woerden-Oost
+WK063204,WC,0.0,Woerden,Wijk 04 Buitengebied Woerden-West
+WK063205,WC,0.0,Woerden,Wijk 05 Buitengebied Woerden-Oost
+WK063206,WC,164.6610169,Woerden,Wijk 06 Harmelen
+WK063207,WC,109.3877551,Woerden,Wijk 07 Kamerik
+WK063208,WC,57.0212766,Woerden,Wijk 08 Zegveld
+GM0637,GEM,88.19434873,Zoetermeer,
+WK063700,WC,87.43262411,Zoetermeer,Centrum
+WK063701,WC,76.65254237,Zoetermeer,Meerzicht
+WK063702,WC,98.10714286,Zoetermeer,Buytenwegh de Leyens
+WK063703,WC,77.40072202,Zoetermeer,Seghwaert
+WK063704,WC,75.49295775,Zoetermeer,Noordhove
+WK063705,WC,70.52631579,Zoetermeer,Rokkeveen
+WK063706,WC,143.0039526,Zoetermeer,Oosterheem
+WK063708,WC,0.0,Zoetermeer,Industriegebied
+WK063709,WC,0.0,Zoetermeer,Buitengebied
+GM0638,GEM,50.88607595,Zoeterwoude,
+WK063800,WC,65.59440559,Zoeterwoude,Zoeterwoude-Dorp
+WK063801,WC,0.0,Zoeterwoude,Westeinde
+WK063802,WC,0.0,Zoeterwoude,Zuidbuurt
+WK063803,WC,0.0,Zoeterwoude,Weipoort
+WK063804,WC,0.0,Zoeterwoude,Gelderswoude
+WK063809,WC,0.0,Zoeterwoude,Verspreide huizen
+WK063810,WC,44.66666667,Zoeterwoude,Zoeterwoude-Rijndijk
+GM0642,GEM,77.8306508,Zwijndrecht,
+WK064201,WC,100.5,Zwijndrecht,Wijk 01 Walburg
+WK064202,WC,28.30985915,Zwijndrecht,Wijk 02 Centrum
+WK064203,WC,67.0,Zwijndrecht,Wijk 03 Noord
+WK064204,WC,36.88073394,Zwijndrecht,Wijk 04 Heer Oudelands Ambacht
+WK064205,WC,142.2346369,Zwijndrecht,Wijk 05 Kort Ambacht
+WK064206,WC,49.40092166,Zwijndrecht,Wijk 06 Nederhoven
+WK064207,WC,0.0,Zwijndrecht,Wijk 07 Verspreide bebouwing
+WK064208,WC,50.56603774,Zwijndrecht,Wijk 08 Bebouwde kom Heerjansdam
+WK064209,WC,0.0,Zwijndrecht,Wijk 09 Landelijk gebied Heerjansdam
+GM0654,GEM,71.78571429,Borsele,
+WK065401,WC,0.0,Borsele,Baarland
+WK065402,WC,0.0,Borsele,Borssele
+WK065403,WC,0.0,Borsele,Driewegen
+WK065404,WC,0.0,Borsele,Ellewoutsdijk
+WK065405,WC,72.65060241,Borsele,Heinkenszand
+WK065406,WC,0.0,Borsele,Hoedekenskerke
+WK065407,WC,0.0,Borsele,Kwadendamme
+WK065408,WC,121.8181818,Borsele,Lewedorp
+WK065409,WC,0.0,Borsele,Nieuwdorp
+WK065410,WC,0.0,Borsele,Nisse
+WK065411,WC,0.0,Borsele,Oudelande
+WK065412,WC,144.8648649,Borsele,Ovezande
+WK065413,WC,80.86206897,Borsele,s-Gravenpolder
+WK065414,WC,0.0,Borsele,s-Heer Abtskerke
+WK065415,WC,100.0,Borsele,s-Heerenhoek
+GM0664,GEM,86.832,Goes,
+WK066401,WC,96.20512821,Goes,Wijk 01 Goes
+WK066402,WC,0.0,Goes,Wijk 02 Wilhelminadorp
+WK066403,WC,30.45454545,Goes,Wijk 03 Kloetinge
+WK066404,WC,0.0,Goes,Wijk 04 Kattendijke
+WK066405,WC,130.7317073,Goes,Wijk 05 's-Heer-Arendskerke
+WK066406,WC,0.0,Goes,Wijk 06 Eindewege
+WK066407,WC,0.0,Goes,Wijk 07 's-Heer-Hendrikskinderen
+WK066408,WC,94.03508772,Goes,Wijk 08 Wolphaartsdijk
+WK066409,WC,0.0,Goes,Wijk 09 Oud-Sabbinge
+GM0668,GEM,80.97465887,West Maas en Waal,
+WK066801,WC,0.0,West Maas en Waal,Wijk 01 Alphen
+WK066802,WC,0.0,West Maas en Waal,Wijk 02 Altforst
+WK066803,WC,0.0,West Maas en Waal,Wijk 03 Appeltern
+WK066804,WC,101.1320755,West Maas en Waal,Wijk 04 Beneden-Leeuwen
+WK066805,WC,109.3877551,West Maas en Waal,Wijk 05 Boven-Leeuwen
+WK066806,WC,78.82352941,West Maas en Waal,Wijk 06 Dreumel
+WK066807,WC,0.0,West Maas en Waal,Wijk 07 Maasbommel
+WK066808,WC,54.69387755,West Maas en Waal,Wijk 08 Wamel
+GM0677,GEM,72.5477707,Hulst,
+WK067701,WC,76.30979499,Hulst,Wijk 01 Hulst
+WK067702,WC,86.4516129,Hulst,Wijk 02 St. Jansteen
+WK067703,WC,74.44444444,Hulst,Wijk 03 Clinge
+WK067704,WC,89.33333333,Hulst,Wijk 04 Grauw
+WK067705,WC,0.0,Hulst,Wijk 05 Heikant
+WK067706,WC,0.0,Hulst,Wijk 06 Nieuw Namen
+WK067707,WC,0.0,Hulst,Wijk 07 Kapellebrug
+WK067708,WC,114.2635659,Hulst,Wijk 08 Kloosterzande
+WK067709,WC,0.0,Hulst,Wijk 09 Lamswaarde
+WK067710,WC,0.0,Hulst,Wijk 10 Ter Hole
+WK067711,WC,64.83870968,Hulst,Wijk 11 Vogelwaarde
+WK067712,WC,0.0,Hulst,Wijk 12 Hengstdijk
+WK067713,WC,0.0,Hulst,Wijk 13 Ossenisse
+GM0678,GEM,67.94366197,Kapelle,
+WK067800,WC,74.44444444,Kapelle,Wijk 00 Kapelle
+WK067801,WC,55.83333333,Kapelle,Wijk 01 Wemeldinge
+WK067802,WC,0.0,Kapelle,Wijk 02 Schore
+GM0687,GEM,82.57200268,Middelburg,
+WK068700,WC,90.3968254,Middelburg,Middelburg-Centrum
+WK068701,WC,73.34736842,Middelburg,Middelburg-Noord
+WK068702,WC,109.1402715,Middelburg,Middelburg-Zuidwest
+WK068703,WC,83.96866841,Middelburg,Middelburg-Zuidoost
+WK068704,WC,68.71794872,Middelburg,Nieuw- en Sint Joosland
+WK068705,WC,65.36585366,Middelburg,Arnemuiden
+GM0689,GEM,51.9379845,Giessenlanden,
+WK068900,WC,31.52941176,Giessenlanden,Wijk 00 Kern Giessenburg
+WK068901,WC,0.0,Giessenlanden,Wijk 01 Giessenburg-West en -Zuid
+WK068902,WC,0.0,Giessenlanden,Wijk 02 Giessenburg-Oost
+WK068903,WC,0.0,Giessenlanden,Wijk 03 Verspreide huizen Giessenburg
+WK068904,WC,66.33663366,Giessenlanden,Wijk 04 Arkel
+WK068905,WC,81.21212121,Giessenlanden,Wijk 05 Hoogblokland
+WK068906,WC,95.71428571,Giessenlanden,Wijk 06 Hoornaar
+WK068907,WC,0.0,Giessenlanden,Wijk 07 Noordeloos
+WK068908,WC,0.0,Giessenlanden,Wijk 08 Schelluinen
+GM0703,GEM,72.5,Reimerswaal,
+WK070300,WC,77.90697674,Reimerswaal,Wijk 00 Yerseke
+WK070301,WC,54.69387755,Reimerswaal,Wijk 01 Kruiningen
+WK070302,WC,94.86725664,Reimerswaal,Wijk 02 Krabbendijke
+WK070303,WC,0.0,Reimerswaal,Wijk 03 Waarde
+WK070304,WC,107.2,Reimerswaal,Wijk 04 Rilland-Bath
+WK070305,WC,55.83333333,Reimerswaal,Wijk 05 Hansweert
+WK070306,WC,0.0,Reimerswaal,Wijk 06 Oostdijk
+GM0707,GEM,80.98901099,Zederik,
+WK070701,WC,99.25925926,Zederik,Wijk 01 Lexmond
+WK070702,WC,131.0869565,Zederik,Wijk 02 Ameide
+WK070703,WC,0.0,Zederik,Wijk 03 Tienhoven
+WK070704,WC,27.07070707,Zederik,Wijk 04 Meerkerk
+WK070705,WC,121.8181818,Zederik,Wijk 05 Hei- en Boeicop
+WK070706,WC,0.0,Zederik,Wijk 06 Leerbroek
+WK070707,WC,0.0,Zederik,Wijk 07 Nieuwland
+GM0715,GEM,79.23600209,Terneuzen,
+WK071501,WC,40.60606061,Terneuzen,Terneuzen Centrum
+WK071507,WC,97.03448276,Terneuzen,Terneuzen Zuid
+WK071510,WC,83.22981366,Terneuzen,Terneuzen Noord
+WK071513,WC,0.0,Terneuzen,Terneuzen Oost
+WK071516,WC,0.0,Terneuzen,Buitengebied Terneuzen
+WK071519,WC,107.816092,Terneuzen,Kern Axel
+WK071522,WC,0.0,Terneuzen,Buitengebied Axel
+WK071525,WC,62.3255814,Terneuzen,Kern Biervliet
+WK071528,WC,0.0,Terneuzen,Buitengebied Biervliet
+WK071531,WC,87.01298701,Terneuzen,Kern Hoek
+WK071534,WC,0.0,Terneuzen,Buitengebied Hoek
+WK071537,WC,75.49295775,Terneuzen,Kern Koewacht
+WK071540,WC,0.0,Terneuzen,Buitengebied Koewacht
+WK071543,WC,0.0,Terneuzen,Kern Overslag
+WK071546,WC,0.0,Terneuzen,Buitengebied Overslag
+WK071549,WC,46.20689655,Terneuzen,Kern Philippine
+WK071552,WC,0.0,Terneuzen,Buitengebied Philippine
+WK071555,WC,62.8125,Terneuzen,Kern Sas van Gent
+WK071558,WC,0.0,Terneuzen,Buitengebied Sas van Gent
+WK071561,WC,61.84615385,Terneuzen,Kern Sluiskil
+WK071564,WC,0.0,Terneuzen,Buitengebied Sluiskil
+WK071567,WC,0.0,Terneuzen,Kern Spui
+WK071573,WC,60.90909091,Terneuzen,Kern Westdorpe
+WK071579,WC,137.9411765,Terneuzen,Kern Zaamslag
+WK071582,WC,0.0,Terneuzen,Buitengebied Zaamslag
+WK071585,WC,0.0,Terneuzen,Kern Zuiddorpe
+WK071588,WC,0.0,Terneuzen,Buitengebied Zuiddorpe
+GM0716,GEM,53.52071006,Tholen,
+WK071600,WC,73.09090909,Tholen,Tholen
+WK071601,WC,0.0,Tholen,Poortvliet
+WK071602,WC,0.0,Tholen,Scherpenisse
+WK071603,WC,52.03883495,Tholen,Sint-Maartensdijk
+WK071604,WC,0.0,Tholen,Stavenisse
+WK071605,WC,88.49056604,Tholen,Sint-Annaland
+WK071606,WC,0.0,Tholen,Oud-Vossemeer
+WK071607,WC,43.93442623,Tholen,Sint Philipsland
+GM0717,GEM,79.12708601,Veere,
+WK071700,WC,174.025974,Veere,Wijk 00 Veere
+WK071701,WC,0.0,Veere,Wijk 01 Gapinge
+WK071702,WC,0.0,Veere,Wijk 02 Vrouwenpolder
+WK071703,WC,51.53846154,Veere,Wijk 03 Serooskerke
+WK071704,WC,117.8021978,Veere,Wijk 04 Domburg
+WK071705,WC,72.04301075,Veere,Wijk 05 Oostkapelle
+WK071706,WC,86.4516129,Veere,Wijk 06 Aagtekerke
+WK071707,WC,65.36585366,Veere,Wijk 07 Grijpskerke
+WK071708,WC,0.0,Veere,Wijk 08 Meliskerke
+WK071709,WC,85.07936508,Veere,Wijk 09 Koudekerke
+WK071710,WC,0.0,Veere,Wijk 10 Biggekerke
+WK071711,WC,60.90909091,Veere,Wijk 11 Zoutelande
+WK071712,WC,46.20689655,Veere,Wijk 12 Westkapelle
+GM0718,GEM,88.33099579,Vlissingen,
+WK071801,WC,89.33333333,Vlissingen,Binnenstad
+WK071802,WC,143.4549878,Vlissingen,Middengebied
+WK071803,WC,50.3286385,Vlissingen,Paauwenburg - Westduin
+WK071804,WC,33.5,Vlissingen,Lammerenburg
+WK071805,WC,80.56962025,Vlissingen,Oost-Souburg
+WK071806,WC,0.0,Vlissingen,Ritthem e.o.
+GM0733,GEM,42.02090592,Lingewaal,
+WK073300,WC,0.0,Lingewaal,Wijk 00 Asperen
+WK073301,WC,31.52941176,Lingewaal,Wijk 01 Heukelum
+WK073302,WC,0.0,Lingewaal,Wijk 02 Vuren
+WK073303,WC,85.8974359,Lingewaal,Wijk 03 Herwijnen
+GM0736,GEM,57.44435284,De Ronde Venen,
+WK073601,WC,59.34731935,De Ronde Venen,Mijdrecht
+WK073602,WC,0.0,De Ronde Venen,de Hoef
+WK073603,WC,0.0,De Ronde Venen,Amstelhoek
+WK073604,WC,79.86754967,De Ronde Venen,Vinkeveen
+WK073605,WC,0.0,De Ronde Venen,Waverveen
+WK073606,WC,41.61490683,De Ronde Venen,Wilnis
+WK073607,WC,43.8317757,De Ronde Venen,Abcoude
+WK073608,WC,0.0,De Ronde Venen,Baambrugge
+GM0737,GEM,89.85422741,Tytsjerksteradiel,
+WK073700,WC,95.19125683,Tytsjerksteradiel,Wijk 00 Burgum
+WK073701,WC,105.7894737,Tytsjerksteradiel,Wijk 01 Aldtsjerk
+WK073702,WC,42.31578947,Tytsjerksteradiel,Wijk 02 Mûnein
+WK073703,WC,0.0,Tytsjerksteradiel,Wijk 03 Ryptsjerk
+WK073704,WC,41.875,Tytsjerksteradiel,Wijk 04 Tytsjerk
+WK073705,WC,68.13559322,Tytsjerksteradiel,Wijk 05 Earnewâld
+WK073706,WC,89.33333333,Tytsjerksteradiel,Wijk 06 Sumar
+WK073707,WC,47.01754386,Tytsjerksteradiel,Wijk 07 Eastermar
+WK073708,WC,154.6153846,Tytsjerksteradiel,Wijk 08 Noordburgum
+WK073709,WC,129.4318182,Tytsjerksteradiel,Wijk 09 Hurdegaryp
+GM0738,GEM,75.93333333,Aalburg,
+WK073800,WC,114.6052632,Aalburg,Wijk 00 Wijk en Aalburg
+WK073801,WC,53.6,Aalburg,Wijk 01 Veen
+WK073802,WC,0.0,Aalburg,Wijk 02 Genderen
+WK073803,WC,0.0,Aalburg,Wijk 03 Eethen
+WK073804,WC,0.0,Aalburg,Wijk 04 Meeuwen
+WK073805,WC,0.0,Aalburg,Wijk 05 Drongelen
+WK073806,WC,0.0,Aalburg,Wijk 06 Babyloniënbroek
+GM0743,GEM,83.75,Asten,
+WK074300,WC,93.56608479,Asten,Wijk 00 Asten
+WK074301,WC,0.0,Asten,Wijk 01 Heusden
+WK074302,WC,0.0,Asten,Wijk 02 Ommel
+WK074308,WC,0.0,Asten,Wijk 08
+GM0744,GEM,58.26086957,Baarle-Nassau,
+WK074400,WC,54.08071749,Baarle-Nassau,Wijk 00 Baarle - Nassau
+WK074401,WC,103.0769231,Baarle-Nassau,Wijk 01 Ulicoten
+WK074402,WC,0.0,Baarle-Nassau,Wijk 02
+GM0748,GEM,68.57441253,Bergen op Zoom,
+WK074800,WC,102.6382979,Bergen op Zoom,Wijk 00 Bergen op Zoom-Oude stad en omgeving
+WK074801,WC,93.85214008,Bergen op Zoom,Wijk 01 Bergen op Zoom-Noord
+WK074802,WC,53.09433962,Bergen op Zoom,Wijk 02 Bergen op Zoom-Oost
+WK074803,WC,35.89285714,Bergen op Zoom,Wijk 03 Bergen op Zoom-West
+WK074804,WC,43.22580645,Bergen op Zoom,Wijk 04 Halsteren
+WK074805,WC,106.3492063,Bergen op Zoom,Wijk 05 Lepelstraat
+GM0753,GEM,69.31034483,Best,
+WK075300,WC,69.31034483,Best,Wijk 00 Best
+GM0755,GEM,84.743083,Boekel,
+WK075500,WC,97.01357466,Boekel,Wijk 00 Boekel
+WK075501,WC,0.0,Boekel,Wijk 01 Venhorst
+GM0756,GEM,83.45475911,Boxmeer,
+WK075600,WC,115.5710956,Boxmeer,Wijk 00 Boxmeer
+WK075601,WC,54.69387755,Boxmeer,Wijk 01 Sambeek
+WK075602,WC,0.0,Boxmeer,Wijk 02 Beugen
+WK075603,WC,0.0,Boxmeer,Wijk 03 Oeffelt
+WK075604,WC,0.0,Boxmeer,Wijk 04 Rijkevoort
+WK075605,WC,0.0,Boxmeer,Wijk 05 Vortum-Mullem
+WK075606,WC,0.0,Boxmeer,Wijk 06 Vierlingsbeek
+WK075607,WC,83.00884956,Boxmeer,Wijk 07 Overloon
+WK075608,WC,107.2,Boxmeer,Wijk 08 Maashees
+WK075609,WC,0.0,Boxmeer,Wijk 09 Holthees
+GM0757,GEM,99.86651835,Boxtel,
+WK075700,WC,97.25806452,Boxtel,Wijk 00 Boxtel
+WK075701,WC,148.8888889,Boxtel,Wijk 01 Lennisheuvel
+WK075702,WC,104.6875,Boxtel,Wijk 02 Liempde
+GM0758,GEM,89.50769898,Breda,
+WK075800,WC,122.245614,Breda,Breda Centrum
+WK075801,WC,88.71080139,Breda,Breda Noord
+WK075802,WC,102.7543036,Breda,Breda Oost
+WK075803,WC,65.41420118,Breda,Breda Zuid-Oost
+WK075804,WC,133.5825545,Breda,Breda Zuid
+WK075805,WC,114.0,Breda,Breda West
+WK075806,WC,78.82352941,Breda,Breda Noord-West
+WK075807,WC,48.72727273,Breda,Bavel
+WK075808,WC,51.04761905,Breda,Ulvenhout
+WK075809,WC,55.11568123,Breda,Prinsenbeek
+WK075810,WC,104.6096654,Breda,Teteringen
+GM0762,GEM,68.9059081,Deurne,
+WK076200,WC,72.58333333,Deurne,Wijk 00 Deurne
+WK076201,WC,0.0,Deurne,Wijk 01 Vlierden
+WK076202,WC,83.75,Deurne,Wijk 02 Liessel
+WK076203,WC,0.0,Deurne,Wijk 03 Neerkant
+WK076204,WC,0.0,Deurne,Wijk 04 Helenaveen
+GM0765,GEM,39.51742627,Pekela,
+WK076500,WC,38.92116183,Pekela,Wijk 00
+WK076501,WC,40.60606061,Pekela,Wijk 01
+GM0766,GEM,73.52537723,Dongen,
+WK076601,WC,77.15151515,Dongen,Dongen
+WK076602,WC,38.84057971,Dongen,s Gravenmoer
+GM0770,GEM,70.52631579,Eersel,
+WK077000,WC,69.66360856,Eersel,Wijk 00 Eersel
+WK077001,WC,0.0,Eersel,Wijk 01 Duizel
+WK077002,WC,0.0,Eersel,Wijk 02 Steensel
+WK077003,WC,134.0,Eersel,Wijk 03 Vessem
+WK077004,WC,0.0,Eersel,Wijk 04 Wintelre
+WK077005,WC,0.0,Eersel,Wijk 05 Knegsel
+GM0772,GEM,81.70135086,Eindhoven,
+WK077211,WC,52.03883495,Eindhoven,Wijk 11 Stadsdeel Centrum
+WK077212,WC,93.15508021,Eindhoven,Wijk 12 Stadsdeel Stratum
+WK077213,WC,61.64,Eindhoven,Wijk 13 Stadsdeel Tongelre
+WK077214,WC,103.3751205,Eindhoven,Wijk 14 Stadsdeel Woensel-Zuid
+WK077215,WC,66.13733906,Eindhoven,Wijk 15 Stadsdeel Woensel-Noord
+WK077216,WC,96.86746988,Eindhoven,Wijk 16 Stadsdeel Strijp
+WK077217,WC,86.62998624,Eindhoven,Wijk 17 Stadsdeel Gestel
+GM0777,GEM,67.0,Etten-Leur,
+WK077700,WC,93.58730159,Etten-Leur,Wijk 00 Etten-Leur Midden woongebied
+WK077702,WC,0.0,Etten-Leur,Wijk 02 Etten-Leur landelijk gebied
+WK077710,WC,53.06930693,Etten-Leur,Wijk 10 Etten-Leur Noord woongebied
+WK077712,WC,0.0,Etten-Leur,Wijk 12 Etten-Leur Noord verspreide huizen
+WK077720,WC,62.64935065,Etten-Leur,Wijk 20 Etten-Leur Zuid woongebied
+WK077721,WC,0.0,Etten-Leur,Wijk 21 Etten-Leur Zuid bedrijventerrein
+WK077723,WC,0.0,Etten-Leur,Wijk 23 Etten-Leur Zuid verspreide huizen
+GM0779,GEM,68.48381601,Geertruidenberg,
+WK077900,WC,74.65181058,Geertruidenberg,Wijk 00 Raamsdonksveer
+WK077901,WC,0.0,Geertruidenberg,Wijk 01 Raamsdonk
+WK077902,WC,64.83870968,Geertruidenberg,Wijk 02 Geertruidenberg
+GM0784,GEM,69.63483146,Gilze en Rijen,
+WK078400,WC,60.496614,Gilze en Rijen,Wijk 00 Rijen
+WK078401,WC,89.33333333,Gilze en Rijen,Wijk 01 Gilze
+WK078402,WC,0.0,Gilze en Rijen,Wijk 02 Molenschot
+WK078403,WC,0.0,Gilze en Rijen,Wijk 03 Hulten
+GM0785,GEM,63.9017341,Goirle,
+WK078501,WC,44.66666667,Goirle,Wijk 01 Goirle-Centrum
+WK078502,WC,40.0,Goirle,Wijk 02 Grobbendonck
+WK078503,WC,0.0,Goirle,Wijk 03 De Groote Akkers
+WK078504,WC,0.0,Goirle,Wijk 04 De Hoge Wal
+WK078505,WC,0.0,Goirle,Wijk 05 Abcoven
+WK078506,WC,132.5274725,Goirle,Wijk 06 Wildackers
+WK078507,WC,55.83333333,Goirle,Wijk 07 't Ven
+WK078508,WC,0.0,Goirle,Wijk 08 De Boschkens
+WK078509,WC,35.26315789,Goirle,Wijk 09 De Hellen
+WK078510,WC,0.0,Goirle,Wijk 10 De Nieuwe Erven
+WK078511,WC,102.2900763,Goirle,Wijk 11 Hoogeind
+WK078513,WC,0.0,Goirle,Wijk 13 Bedrijventerrein Tijvoort
+WK078514,WC,0.0,Goirle,Wijk 14 Verspreide huizen Goirle
+WK078520,WC,36.71232877,Goirle,Wijk 20 Riel
+WK078523,WC,0.0,Goirle,Wijk 23 Verspriede huizen Riel
+GM0786,GEM,97.04735376,Grave,
+WK078600,WC,113.3846154,Grave,Wijk 00 Grave
+WK078601,WC,0.0,Grave,Wijk 01 Escharen
+WK078602,WC,103.0769231,Grave,Wijk 02 Velp
+WK078603,WC,0.0,Grave,Wijk 03 Gassel
+GM0788,GEM,76.75417661,Haaren,
+WK078801,WC,52.69662921,Haaren,Wijk 01 Haaren
+WK078802,WC,91.78082192,Haaren,Wijk 02 Helvoirt
+WK078803,WC,144.3076923,Haaren,Wijk 03 Esch
+WK078804,WC,0.0,Haaren,Wijk 04 Biezenmortel
+GM0794,GEM,73.2205029,Helmond,
+WK079410,WC,85.18337408,Helmond,Wijk 10 Binnenstad
+WK079411,WC,50.3286385,Helmond,Wijk 11 Helmond-Oost
+WK079412,WC,84.43835616,Helmond,Wijk 12 Helmond-Noord
+WK079413,WC,82.46153846,Helmond,Wijk 13 't Hout
+WK079414,WC,95.09677419,Helmond,Wijk 14 Brouwhuis
+WK079415,WC,75.28089888,Helmond,Wijk 15 Helmond-West
+WK079416,WC,60.36036036,Helmond,Wijk 16 Warande
+WK079417,WC,51.78743961,Helmond,Wijk 17 Stiphout
+WK079418,WC,45.16853933,Helmond,Wijk 18 Rijpelberg
+WK079419,WC,47.01754386,Helmond,Wijk 19 Dierdonk
+WK079421,WC,78.82352941,Helmond,Wijk 21 Brandevoort
+WK079429,WC,0.0,Helmond,Wijk 29 Industriegebied Zuid
+GM0796,GEM,95.50194121,s-Hertogenbosch,
+WK079601,WC,144.5098039,s-Hertogenbosch,Binnenstad
+WK079602,WC,123.7387387,s-Hertogenbosch,Zuidoost
+WK079603,WC,75.54896142,s-Hertogenbosch,Graafsepoort
+WK079604,WC,71.15044248,s-Hertogenbosch,Muntel / Vliert
+WK079605,WC,101.0491803,s-Hertogenbosch,Rosmalen-Zuid
+WK079606,WC,65.04854369,s-Hertogenbosch,Rosmalen-Noord
+WK079607,WC,0.0,s-Hertogenbosch,De Groote Wielen
+WK079608,WC,63.05882353,s-Hertogenbosch,Empel
+WK079609,WC,112.122449,s-Hertogenbosch,Noord
+WK079610,WC,68.93890675,s-Hertogenbosch,Maaspoort
+WK079611,WC,76.63778163,s-Hertogenbosch,West
+WK079612,WC,36.54545455,s-Hertogenbosch,Engelen
+WK079613,WC,202.0634921,s-Hertogenbosch,Nuland
+WK079614,WC,47.01754386,s-Hertogenbosch,Vinkel
+GM0797,GEM,77.7628259,Heusden,
+WK079701,WC,66.74329502,Heusden,Wijk 01 Drunen
+WK079702,WC,87.39130435,Heusden,Wijk 02 Elshout
+WK079703,WC,80.4,Heusden,Wijk 03 Haarsteeg
+WK079704,WC,94.03508772,Heusden,Wijk 04 Nieuwkuijk
+WK079705,WC,91.92612137,Heusden,Wijk 05 Vlijmen
+WK079706,WC,0.0,Heusden,Wijk 06 Doeveren
+WK079707,WC,0.0,Heusden,Wijk 07 Hedikthuizen
+WK079708,WC,0.0,Heusden,Wijk 08 Heesbeen
+WK079709,WC,0.0,Heusden,Wijk 09 Herpt
+WK079710,WC,128.8461538,Heusden,Wijk 10 Heusden
+WK079711,WC,53.6,Heusden,Wijk 11 Oudheusden
+GM0798,GEM,54.4017094,Hilvarenbeek,
+WK079800,WC,67.67676768,Hilvarenbeek,Wijk 00 Hilvarenbeek
+WK079801,WC,0.0,Hilvarenbeek,Wijk 01 Esbeek
+WK079802,WC,0.0,Hilvarenbeek,Wijk 02 Biest-Houtakker
+WK079803,WC,36.88073394,Hilvarenbeek,Wijk 03 Diessen
+WK079804,WC,0.0,Hilvarenbeek,Wijk 04 Haghorst
+GM0809,GEM,84.83453237,Loon op Zand,
+WK080910,WC,94.03508772,Loon op Zand,Wijk 10 Kaatsheuvel-West
+WK080920,WC,80.23952096,Loon op Zand,Wijk 20 Kaatsheuvel-Oost
+WK080930,WC,87.77292576,Loon op Zand,Wijk 30 Loon op Zand
+WK080940,WC,0.0,Loon op Zand,Wijk 40 De Moer
+GM0815,GEM,73.48387097,Mill en Sint Hubert,
+WK081500,WC,93.8,Mill en Sint Hubert,Wijk 00 Mill
+WK081501,WC,0.0,Mill en Sint Hubert,Wijk 01 Langenboom
+WK081502,WC,0.0,Mill en Sint Hubert,Wijk 02 Sint Hubert
+WK081503,WC,0.0,Mill en Sint Hubert,Wijk 03 Wilbertoord
+GM0820,GEM,52.48470012,"""Nuenen"," Gerwen en Nederwetten"""
+WK082000,WC,56.67121419,"""Nuenen"," Gerwen en Nederwetten"""
+WK082001,WC,0.0,"""Nuenen"," Gerwen en Nederwetten"""
+WK082002,WC,0.0,"""Nuenen"," Gerwen en Nederwetten"""
+GM0823,GEM,87.61538462,Oirschot,
+WK082300,WC,104.566474,Oirschot,Wijk 00 Oirschot
+WK082301,WC,0.0,Oirschot,Wijk 01 Spoordonk
+WK082302,WC,71.27659574,Oirschot,Wijk 02 Middelbeers en Westelbeers
+WK082303,WC,0.0,Oirschot,Wijk 03 Oostelbeers
+GM0824,GEM,98.75283447,Oisterwijk,
+WK082401,WC,0.0,Oisterwijk,Verspr.h. westen en noorden Moerg.
+WK082402,WC,33.5,Oisterwijk,Pannenschuur
+WK082403,WC,0.0,Oisterwijk,Heukelom
+WK082404,WC,0.0,Oisterwijk,Buitengebied (Zuid)
+WK082405,WC,0.0,Oisterwijk,Omgeving Vinkenberg / Heuvelstraat
+WK082406,WC,0.0,Oisterwijk,Omgeving George Perklaan
+WK082407,WC,95.19125683,Oisterwijk,Centrum Moergestel
+WK082408,WC,41.23076923,Oisterwijk,t Westend / 't Seuverick
+WK082409,WC,50.88607595,Oisterwijk,Bunders / Levenskerk
+WK082410,WC,0.0,Oisterwijk,Buitengebied Kerkhoven
+WK082411,WC,54.69387755,Oisterwijk,Waterhoef / Klompven
+WK082412,WC,0.0,Oisterwijk,Omgeving Industrieterrein
+WK082413,WC,254.5251397,Oisterwijk,Centrum Oisterwijk
+WK082414,WC,0.0,Oisterwijk,Verspr.h. oosten en zuiden Moerg.
+WK082415,WC,0.0,Oisterwijk,Omgeving Broekzijde
+GM0826,GEM,60.06056935,Oosterhout,
+WK082600,WC,96.33986928,Oosterhout,Wijk 00 Oosterhout-Centrum
+WK082601,WC,33.36099585,Oosterhout,Wijk 01 Slotjes
+WK082602,WC,52.54901961,Oosterhout,Wijk 02 West
+WK082603,WC,43.57723577,Oosterhout,Wijk 03 Strijen
+WK082604,WC,50.56603774,Oosterhout,Wijk 04 Leijsenakkers
+WK082605,WC,84.27672956,Oosterhout,Wijk 05 Oosterheide
+WK082606,WC,42.02090592,Oosterhout,Wijk 06 Dommelbergen
+WK082607,WC,50.75757576,Oosterhout,Wijk 07 Vrachelen
+WK082608,WC,0.0,Oosterhout,Wijk 08 Industrieterrein Zuid
+WK082609,WC,0.0,Oosterhout,Wijk 09 Industrieterrein Noord
+WK082610,WC,0.0,Oosterhout,Wijk 10 Buitengebied Oosterhout
+WK082611,WC,0.0,Oosterhout,Wijk 11 Den Hout
+WK082612,WC,0.0,Oosterhout,Wijk 12 Oosteind
+WK082613,WC,52.89473684,Oosterhout,Wijk 13 Dorst
+GM0828,GEM,79.21455147,Oss,
+WK082800,WC,142.3443223,Oss,Centrum
+WK082801,WC,57.51072961,Oss,Schadewijk
+WK082802,WC,0.0,Oss,Industrieterreinen-Zuid
+WK082803,WC,96.28742515,Oss,Oss-Zuid
+WK082804,WC,60.12820513,Oss,Krinkelhoek
+WK082805,WC,0.0,Oss,Industrieterreinen-Noord
+WK082806,WC,69.79166667,Oss,Ruwaard
+WK082807,WC,89.93288591,Oss,Ussen
+WK082808,WC,0.0,Oss,Buitengebied-Noord
+WK082809,WC,0.0,Oss,Buitengebied-Zuid
+WK082810,WC,86.66666667,Oss,Berghem
+WK082811,WC,0.0,Oss,Haren
+WK082812,WC,0.0,Oss,Macharen
+WK082813,WC,72.43243243,Oss,Megen
+WK082814,WC,41.875,Oss,Ravenstein
+WK082815,WC,71.27659574,Oss,Herpen
+WK082816,WC,0.0,Oss,Overlangel
+WK082817,WC,0.0,Oss,Deursen en Dennenburg
+WK082818,WC,77.68115942,Oss,Lith
+WK082819,WC,0.0,Oss,Lithoijen
+WK082820,WC,0.0,Oss,Oijen
+WK082821,WC,0.0,Oss,Maren - Kessel
+WK082822,WC,77.52066116,Oss,Geffen
+GM0840,GEM,63.03490137,Rucphen,
+WK084000,WC,42.67515924,Rucphen,Wijk 00 Rucphen
+WK084001,WC,101.9011407,Rucphen,Wijk 01 Sint Willebrord
+WK084002,WC,27.91666667,Rucphen,Wijk 02 Sprundel
+WK084003,WC,0.0,Rucphen,Wijk 03 Schijf
+WK084004,WC,47.85714286,Rucphen,Wijk 04 Zegge
+GM0845,GEM,91.00702576,Sint-Michielsgestel,
+WK084500,WC,109.7076023,Sint-Michielsgestel,Wijk 00 Sint-Michielsgestel
+WK084501,WC,44.66666667,Sint-Michielsgestel,Wijk 01 Gemonde
+WK084502,WC,95.14792899,Sint-Michielsgestel,Wijk 02 Den Dungen
+WK084503,WC,87.77292576,Sint-Michielsgestel,Wijk 03 Berlicum
+WK084504,WC,0.0,Sint-Michielsgestel,Wijk 04 Middelrode
+GM0847,GEM,79.42638623,Someren,
+WK084700,WC,91.92612137,Someren,Wijk 00 Someren
+WK084701,WC,57.0212766,Someren,Wijk 01 Lierop
+WK084702,WC,60.90909091,Someren,Wijk 02 Someren-Eind
+WK084703,WC,0.0,Someren,Wijk 03 Somerense Heide
+WK084709,WC,0.0,Someren,Wijk 09
+GM0848,GEM,79.89778535,Son en Breugel,
+WK084800,WC,94.24175824,Son en Breugel,Wijk 00 Son
+WK084801,WC,30.45454545,Son en Breugel,Wijk 01 Breugel
+GM0851,GEM,61.52080344,Steenbergen,
+WK085100,WC,59.16883117,Steenbergen,Wijk 00 Steenbergen
+WK085101,WC,0.0,Steenbergen,Wijk 01 Kruisland
+WK085102,WC,0.0,Steenbergen,Wijk 02 De Heen
+WK085103,WC,34.14012739,Steenbergen,Wijk 03 Dinteloord
+WK085104,WC,158.6842105,Steenbergen,Wijk 04 Nieuw-Vossemeer
+GM0852,GEM,60.59130435,Waterland,
+WK085200,WC,75.49295775,Waterland,Wijk 00 Monnickendam
+WK085201,WC,0.0,Waterland,Wijk 01 Katwoude
+WK085202,WC,43.93442623,Waterland,Wijk 02 Marken
+WK085203,WC,43.69565217,Waterland,Wijk 03 Broek in Waterland
+WK085204,WC,0.0,Waterland,Wijk 04 Ilpendam
+WK085205,WC,0.0,Waterland,Wijk 05 Watergang
+GM0855,GEM,90.24769703,Tilburg,
+WK085510,WC,67.67676768,Tilburg,Binnenstad
+WK085511,WC,32.16,Tilburg,Hoogvenne
+WK085512,WC,62.3255814,Tilburg,Armhoef
+WK085513,WC,0.0,Tilburg,Jeruzalem
+WK085514,WC,127.6190476,Tilburg,Fatima
+WK085515,WC,44.66666667,Tilburg,Broekhoven
+WK085516,WC,68.97058824,Tilburg,Oerle
+WK085517,WC,208.2432432,Tilburg,Korvel
+WK085518,WC,105.0980392,Tilburg,Trouwlaan - Uitvindersbuurt
+WK085519,WC,74.44444444,Tilburg,Sint Anna
+WK085520,WC,75.49295775,Tilburg,Noordhoek
+WK085521,WC,54.69387755,Tilburg,Spoorzone Zuid
+WK085522,WC,135.3535354,Tilburg,Bouwmeester
+WK085523,WC,106.1386139,Tilburg,De Hasselt
+WK085524,WC,104.4155844,Tilburg,Het Goirke
+WK085525,WC,185.5384615,Tilburg,Groeseind-Hoefstraat
+WK085526,WC,31.52941176,Tilburg,Loven-Besterd
+WK085527,WC,272.5423729,Tilburg,Theresia
+WK085529,WC,0.0,Tilburg,Kanaalzone
+WK085531,WC,193.9473684,Tilburg,De Leij
+WK085532,WC,74.44444444,Tilburg,Groenewoud
+WK085533,WC,0.0,Tilburg,Stappegoor
+WK085534,WC,0.0,Tilburg,Bedrijventerrein Het Laar
+WK085535,WC,48.55072464,Tilburg,De Blaak
+WK085536,WC,32.95081967,Tilburg,Zorgvlied
+WK085537,WC,152.9347826,Tilburg,De Reit
+WK085538,WC,123.8655462,Tilburg,Het Zand
+WK085539,WC,58.68613139,Tilburg,Wandelbos Noord
+WK085540,WC,76.8852459,Tilburg,Wandelbos Zuid
+WK085542,WC,70.0,Tilburg,Stokhasselt
+WK085543,WC,70.35799523,Tilburg,Heikant
+WK085544,WC,47.01754386,Tilburg,Quirijnstok
+WK085545,WC,0.0,Tilburg,Ind.terrein Loven
+WK085546,WC,0.0,Tilburg,Bosscheweg
+WK085547,WC,0.0,Tilburg,Gesworen Hoek
+WK085548,WC,260.5555556,Tilburg,Huibeven
+WK085549,WC,54.69387755,Tilburg,Campenhoef
+WK085550,WC,51.53846154,Tilburg,Heyhoef
+WK085551,WC,0.0,Tilburg,Heerevelden
+WK085552,WC,0.0,Tilburg,Dongewijk
+WK085553,WC,47.01754386,Tilburg,Tuindorp De Kievit
+WK085554,WC,83.75,Tilburg,Leeuwerik
+WK085555,WC,83.75,Tilburg,Dalem Noord
+WK085556,WC,63.80952381,Tilburg,Dalem Zuid
+WK085557,WC,0.0,Tilburg,Koolhoven
+WK085558,WC,45.42372881,Tilburg,Witbrant
+WK085560,WC,0.0,Tilburg,Bedrijventerrein Vossenberg
+WK085562,WC,0.0,Tilburg,Buitengebied Tilburg Zuid-Oost
+WK085563,WC,0.0,Tilburg,Buitengebied Tilburg Zuid-West
+WK085564,WC,0.0,Tilburg,Buitengebied Tilburg Noord-Oost
+WK085566,WC,67.35449735,Tilburg,Berkel-Enschot
+WK085567,WC,57.3540856,Tilburg,Udenhout
+GM0856,GEM,79.55894826,Uden,
+WK085601,WC,80.69101678,Uden,Wijk 01 Uden
+WK085602,WC,78.16666667,Uden,Wijk 02 Volkel
+WK085603,WC,57.0212766,Uden,Wijk 03 Odiliapeel
+GM0858,GEM,65.54347826,Valkenswaard,
+WK085800,WC,71.34259259,Valkenswaard,Wijk 00 Valkenswaard
+WK085801,WC,38.1042654,Valkenswaard,Wijk 01 Kloosterakkers en Dommelen
+WK085802,WC,0.0,Valkenswaard,Wijk 02 Borkel en Schaft
+GM0861,GEM,68.74425727,Veldhoven,
+WK086100,WC,73.16481294,Veldhoven,Wijk 00 Veldhoven
+WK086101,WC,67.84810127,Veldhoven,Wijk 01 Noordelijk Woongebied
+WK086102,WC,0.0,Veldhoven,Wijk 02 Oerle
+GM0865,GEM,121.9812584,Vught,
+WK086500,WC,91.0326087,Vught,Wijk 00 Vught
+WK086501,WC,155.900277,Vught,Wijk 01 Vught-Zuid
+WK086502,WC,0.0,Vught,Wijk 02 Cromvoirt
+GM0866,GEM,68.88888889,Waalre,
+WK086600,WC,68.88888889,Waalre,Wijk 00 Waalre
+GM0867,GEM,77.79390421,Waalwijk,
+WK086700,WC,73.56297094,Waalwijk,Wijk 00 Waalwijk
+WK086701,WC,83.75,Waalwijk,Wijk 01 Sprang-Capelle
+WK086702,WC,92.4137931,Waalwijk,Wijk 02 Waspik
+GM0870,GEM,61.16182573,Werkendam,
+WK087001,WC,64.02730375,Werkendam,Wijk 01 Werkendam
+WK087002,WC,32.68292683,Werkendam,Wijk 02 Sleeuwijk
+WK087003,WC,55.83333333,Werkendam,Wijk 03 Nieuwendijk
+WK087004,WC,78.05825243,Werkendam,Wijk 04 Hank
+WK087005,WC,78.82352941,Werkendam,Wijk 05 Dussen
+GM0873,GEM,51.68044077,Woensdrecht,
+WK087300,WC,49.77142857,Woensdrecht,Wijk 00 Hoogerheide en Woensdrecht
+WK087301,WC,0.0,Woensdrecht,Wijk 01 Huijbergen
+WK087302,WC,70.52631579,Woensdrecht,Wijk 02 Ossendrecht
+WK087303,WC,49.62962963,Woensdrecht,Wijk 03 Putte
+GM0874,GEM,75.7840617,Woudrichem,
+WK087400,WC,66.44628099,Woudrichem,Wijk 00 Woudrichem
+WK087401,WC,121.8181818,Woudrichem,Wijk 01 Almkerk
+WK087402,WC,0.0,Woudrichem,Wijk 02 Rijswijk
+WK087403,WC,0.0,Woudrichem,Wijk 03 Giessen
+WK087404,WC,106.3492063,Woudrichem,Wijk 04 Andel
+WK087405,WC,0.0,Woudrichem,Wijk 05 Uitwijk en Waardhuizen
+GM0879,GEM,67.21003135,Zundert,
+WK087900,WC,77.22033898,Zundert,Wijk 00 Zundert
+WK087901,WC,91.36363636,Zundert,Wijk 01 Klein - Zundert
+WK087902,WC,59.11764706,Zundert,Wijk 02 Wernhout
+WK087903,WC,0.0,Zundert,Wijk 03 Achtmaal
+WK087904,WC,57.6344086,Zundert,Wijk 04 Rijsbergen
+GM0880,GEM,37.9245283,Wormerland,
+WK088000,WC,41.3215859,Wormerland,Wijk 00 Wormer
+WK088001,WC,0.0,Wormerland,Wijk 01 Wijdewormer
+WK088002,WC,0.0,Wormerland,Wijk 02 Jisp
+GM0881,GEM,76.57142857,Onderbanken,
+WK088100,WC,76.57142857,Onderbanken,Wijk 00 Onderbanken
+GM0882,GEM,81.77379984,Landgraaf,
+WK088200,WC,85.41832669,Landgraaf,Wijk 00 Schaesberg
+WK088201,WC,80.86206897,Landgraaf,Wijk 01 Nieuwenhagen
+WK088202,WC,77.98941799,Landgraaf,Wijk 02 Ubach over Worms
+GM0888,GEM,67.72563177,Beek,
+WK088800,WC,68.99009901,Beek,Wijk 00 Beek - Spaubeek
+WK088801,WC,55.83333333,Beek,Wijk 01 Beek-Zuid
+GM0889,GEM,74.08653846,Beesel,
+WK088900,WC,83.00884956,Beesel,Wijk 00 Reuver
+WK088901,WC,52.20779221,Beesel,Wijk 01 Beesel
+GM0893,GEM,74.82233503,Bergen (L.),
+WK089301,WC,0.0,Bergen (L.),Aijen
+WK089302,WC,0.0,Bergen (L.),Oud-Bergen
+WK089303,WC,106.8711656,Bergen (L.),Nieuw-Bergen
+WK089304,WC,46.20689655,Bergen (L.),Afferden
+WK089305,WC,51.53846154,Bergen (L.),Siebengewald
+WK089306,WC,56.61971831,Bergen (L.),Well
+WK089307,WC,0.0,Bergen (L.),Wellerlooi
+GM0899,GEM,107.4261603,Brunssum,
+WK089901,WC,151.2903226,Brunssum,Wijk 01 Brunssum-West
+WK089902,WC,50.04149378,Brunssum,Wijk 02 Brunssum-Noord
+WK089903,WC,228.5271318,Brunssum,Wijk 03 Brunssum-Oost
+WK089904,WC,81.21212121,Brunssum,Wijk 04 Brunssum-Zuid
+WK089905,WC,86.3190184,Brunssum,Wijk 05 Brunssum-Centrum
+GM0907,GEM,79.88461538,Gennep,
+WK090700,WC,55.83333333,Gennep,Wijk 00 Milsbeek
+WK090701,WC,73.09090909,Gennep,Wijk 01 Ottersum
+WK090702,WC,0.0,Gennep,Wijk 02 Ven-Zelderheide
+WK090703,WC,94.69964664,Gennep,Wijk 03 Gennep
+WK090704,WC,43.22580645,Gennep,Wijk 04 Heijen
+GM0917,GEM,97.00914077,Heerlen,
+WK091710,WC,54.14141414,Heerlen,Wijk 10 Maria Gewanden en Terschuren
+WK091711,WC,51.04761905,Heerlen,Wijk 11 Mariarade
+WK091712,WC,115.6078431,Heerlen,Wijk 12 Hoensbroek-De Dem
+WK091713,WC,47.43362832,Heerlen,Wijk 13 Nieuw Lotbroek
+WK091714,WC,0.0,Heerlen,Wijk 14 De Koumen
+WK091720,WC,38.65384615,Heerlen,Wijk 20 Vrieheide-De Stack
+WK091721,WC,120.7725322,Heerlen,Wijk 21 Heerlerheide-Passart
+WK091722,WC,60.90909091,Heerlen,Wijk 22 Heksenberg
+WK091723,WC,0.0,Heerlen,Wijk 23 De Hei
+WK091724,WC,59.55555556,Heerlen,Wijk 24 Rennemig-Beersdal
+WK091730,WC,0.0,Heerlen,Wijk 30 Zeswegen-Nieuw Husken
+WK091731,WC,43.57723577,Heerlen,Wijk 31 Schandelen-Grasbroek
+WK091732,WC,58.99371069,Heerlen,Wijk 32 Meezenbroek-Schaesbergerveld
+WK091733,WC,50.46025105,Heerlen,Wijk 33 Heerlen-Centrum
+WK091734,WC,57.42857143,Heerlen,Wijk 34 Eikenderveld
+WK091735,WC,0.0,Heerlen,Wijk 35 Woonboulevard-Ten Esschen
+WK091736,WC,146.1818182,Heerlen,Wijk 36 Welten-Benzenrade
+WK091737,WC,59.11764706,Heerlen,Wijk 37 Bekkerveld
+WK091738,WC,175.1136364,Heerlen,Wijk 38 Caumerveld-Douve Weien
+WK091739,WC,205.5681818,Heerlen,Wijk 39 Molenberg
+WK091740,WC,104.1450777,Heerlen,Wijk 40 Heerlerbaan-Centrum
+WK091741,WC,144.1772152,Heerlen,Wijk 41 Heerlerbaan-Schil
+WK091742,WC,0.0,Heerlen,Wijk 42 De Beitel
+GM0928,GEM,99.5134443,Kerkrade,
+WK092800,WC,78.11659193,Kerkrade,Wijk 00 Kerkrade-West
+WK092801,WC,86.9393512,Kerkrade,Wijk 01 Kerkrade-Oost
+WK092802,WC,144.8648649,Kerkrade,Wijk 02 Kerkrade-Noord
+GM0935,GEM,60.82428293,Maastricht,
+WK093500,WC,84.22857143,Maastricht,Wijk 00 Centrum
+WK093501,WC,92.03296703,Maastricht,Wijk 01 Buitenwijk Zuidwest
+WK093502,WC,34.16118421,Maastricht,Wijk 02 Buitenwijk West
+WK093503,WC,0.0,Maastricht,Wijk 03 Buitenwijk Noordwest
+WK093504,WC,73.58876117,Maastricht,Wijk 04 Buitenwijk Oost
+WK093505,WC,25.04672897,Maastricht,Wijk 05 Buitenwijk Noordoost
+WK093506,WC,68.26415094,Maastricht,Wijk 06 Buitenwijk Zuidoost
+GM0938,GEM,56.94050992,Meerssen,
+WK093800,WC,42.02090592,Meerssen,Wijk 00 Meerssen
+WK093801,WC,0.0,Meerssen,Wijk 01 Ulestraten
+WK093802,WC,86.17363344,Meerssen,Wijk 02 Bunde - Geulle
+GM0944,GEM,52.45551601,Mook en Middelaar,
+WK094400,WC,49.62962963,Mook en Middelaar,Wijk 00 Mook
+WK094401,WC,70.52631579,Mook en Middelaar,Wijk 01 Middelaar
+GM0946,GEM,65.30214425,Nederweert,
+WK094601,WC,91.46757679,Nederweert,Wijk 01 Nederweert
+WK094602,WC,49.62962963,Nederweert,Wijk 02 Budschop
+WK094603,WC,25.76923077,Nederweert,Wijk 03 Ospel
+WK094604,WC,0.0,Nederweert,Wijk 04 Nederweert-Eind
+WK094605,WC,0.0,Nederweert,Wijk 05 Leveroy
+GM0951,GEM,81.14186851,Nuth,
+WK095100,WC,96.86746988,Nuth,Wijk 00 Nuth
+WK095101,WC,0.0,Nuth,Wijk 01 Wijnandsrade
+WK095102,WC,95.71428571,Nuth,Wijk 02 Hulsberg
+WK095103,WC,59.82142857,Nuth,Wijk 03 Schimmert
+GM0957,GEM,91.11665627,Roermond,
+WK095700,WC,84.76885645,Roermond,Wijk 00 Centrum
+WK095701,WC,72.21556886,Roermond,Wijk 01 Roermond-Oost
+WK095702,WC,142.5531915,Roermond,Wijk 02 Roermond-Zuid
+WK095703,WC,110.7438017,Roermond,Wijk 03 Maasniel
+WK095704,WC,37.9245283,Roermond,Wijk 04 Donderberg en Roosendael
+WK095705,WC,37.22222222,Roermond,Wijk 05 Donderberg en Hoogvonderen
+WK095706,WC,0.0,Roermond,Wijk 06 Asenray
+WK095707,WC,118.9349112,Roermond,Wijk 07 Herten
+WK095708,WC,94.64684015,Roermond,Wijk 08 Swalmen
+WK095709,WC,0.0,Roermond,Wijk 09 Maasplassen
+GM0962,GEM,97.76824034,Schinnen,
+WK096200,WC,62.3255814,Schinnen,Wijk 00
+WK096201,WC,122.7888446,Schinnen,Wijk 01 Amstenrade - Oirsbeek
+GM0965,GEM,66.64921466,Simpelveld,
+WK096500,WC,49.86046512,Simpelveld,Wijk 00 Simpelveld
+WK096501,WC,88.79518072,Simpelveld,Wijk 01 Bocholtz
+GM0971,GEM,66.09865471,Stein,
+WK097100,WC,59.62529274,Stein,Wijk 00 Stein
+WK097101,WC,84.04181185,Stein,Wijk 01 Elsloo
+WK097102,WC,59.88826816,Stein,Wijk 02 Urmond
+GM0981,GEM,67.71276596,Vaals,
+WK098100,WC,0.0,Vaals,Wijk 00 Vijlen-Lemiers
+WK098101,WC,77.22033898,Vaals,Wijk 01 Vaals
+GM0983,GEM,85.69767442,Venlo,
+WK098311,WC,147.7941176,Venlo,Wijk 11 Venlo-Centrum
+WK098312,WC,95.31380753,Venlo,Wijk 12 Venlo-Zuid
+WK098313,WC,64.19161677,Venlo,Wijk 13 Venlo-Oost-Noord
+WK098314,WC,130.859375,Venlo,Wijk 14 Venlo-Noord
+WK098315,WC,202.4460432,Venlo,Wijk 15 Venlo-Oost-Zuid
+WK098316,WC,43.22580645,Venlo,Wijk 16 Het Ven
+WK098321,WC,95.71428571,Venlo,Wijk 21 Blerick-Midden
+WK098322,WC,61.46788991,Venlo,Wijk 22 Blerick-Noord
+WK098323,WC,52.75590551,Venlo,Wijk 23 Blerick-Zuid
+WK098324,WC,42.53968254,Venlo,Wijk 24 Vossener
+WK098325,WC,130.7317073,Venlo,Wijk 25 Klingerberg
+WK098326,WC,41.44329897,Venlo,Wijk 26 Hout-Blerick
+WK098327,WC,0.0,Venlo,Wijk 27 Boekend
+WK098328,WC,0.0,Venlo,Wijk 28 Trade-Port
+WK098331,WC,90.38123167,Venlo,Wijk 31 Tegelen-Centrum
+WK098332,WC,72.71317829,Venlo,Wijk 32 Op de Hei
+WK098335,WC,47.85714286,Venlo,Wijk 35 Steyl
+WK098341,WC,77.80645161,Venlo,Wijk 41 Velden
+WK098343,WC,0.0,Venlo,Wijk 43 Lomm
+WK098344,WC,58.26086957,Venlo,Wijk 44 Arcen
+WK098351,WC,47.5739645,Venlo,Wijk 51 Belfeld
+GM0984,GEM,77.63224181,Venray,
+WK098401,WC,0.0,Venray,Heide
+WK098402,WC,115.5172414,Venray,Ysselsteyn
+WK098403,WC,0.0,Venray,Merselo
+WK098404,WC,0.0,Venray,Vredepeel
+WK098405,WC,446.6666667,Venray,Smakt
+WK098406,WC,65.90163934,Venray,Oostrum
+WK098407,WC,0.0,Venray,Oirlo
+WK098408,WC,0.0,Venray,Castenray
+WK098409,WC,0.0,Venray,Veulen
+WK098410,WC,75.8490566,Venray,Leunen
+WK098411,WC,113.2394366,Venray,Centrum
+WK098412,WC,73.76146789,Venray,Oost
+WK098413,WC,60.90909091,Venray,West
+WK098414,WC,62.3255814,Venray,Vlakwater
+WK098415,WC,90.98765432,Venray,Veltum
+WK098416,WC,46.20689655,Venray,Brukske
+WK098417,WC,60.0,Venray,Landweert
+WK098418,WC,0.0,Venray,Smakterheide
+WK098419,WC,0.0,Venray,Brabander
+WK098420,WC,0.0,Venray,St. Antoniusveld
+WK098421,WC,70.52631579,Venray,Wanssum
+WK098422,WC,0.0,Venray,Geijsteren
+WK098423,WC,0.0,Venray,Blitterswijck
+GM0986,GEM,52.54901961,Voerendaal,
+WK098601,WC,98.52941176,Voerendaal,Wijk 01 Voerendaal
+WK098602,WC,24.81481481,Voerendaal,Wijk02 Kunrade
+WK098603,WC,47.85714286,Voerendaal,Wijk 03 Ubachsberg
+WK098604,WC,35.26315789,Voerendaal,Wijk 04 Klimmen
+WK098605,WC,0.0,Voerendaal,Wijk 05 Ransdaal
+WK098609,WC,0.0,Voerendaal,Wijk 09 Verspreide huizen Voerendaal
+GM0988,GEM,80.21424071,Weert,
+WK098801,WC,45.42372881,Weert,Wijk 01 Boshoven
+WK098802,WC,223.3333333,Weert,Wijk 02 Laar en Hushoven
+WK098803,WC,0.0,Weert,Wijk 03 Molenakker en Kampershoek
+WK098811,WC,140.7971014,Weert,Wijk 11 Weert-Centrum
+WK098812,WC,82.46153846,Weert,Wijk 12 Biest
+WK098813,WC,87.73809524,Weert,Wijk 13 Groenewoud
+WK098814,WC,36.71232877,Weert,Wijk 14 Fatima
+WK098821,WC,94.48717949,Weert,Wijk 21 Keent
+WK098822,WC,38.0141844,Weert,Wijk 22 Moesel
+WK098823,WC,0.0,Weert,Wijk 23 Graswinkel
+WK098824,WC,42.76595745,Weert,Wijk 24 Leuken
+WK098825,WC,57.42857143,Weert,Wijk 25 Kazernelaan
+WK098831,WC,0.0,Weert,Wijk 31 Altweerterheide
+WK098832,WC,103.0769231,Weert,Wijk 32 Tungelroy
+WK098833,WC,0.0,Weert,Wijk 33 Swartbroek
+WK098834,WC,65.90163934,Weert,Wijk 34 Stramproy
+GM0994,GEM,74.6686747,Valkenburg aan de Geul,
+WK099400,WC,102.4929178,Valkenburg aan de Geul,Wijk 00: Valkenburg
+WK099401,WC,0.0,Valkenburg aan de Geul,Wijk 01: Houthem - Sint Gerlach
+WK099402,WC,0.0,Valkenburg aan de Geul,Wijk 02: Schin op Geul - Oud-Valkenburg
+WK099403,WC,0.0,Valkenburg aan de Geul,Wijk 03: Sibbe - IJzeren
+WK099404,WC,60.12820513,Valkenburg aan de Geul,Wijk 04: Berg en Terblijt - Vilt
+WK099405,WC,0.0,Valkenburg aan de Geul,Wijk 05: Walem
+GM0995,GEM,52.36972705,Lelystad,
+WK099511,WC,64.57831325,Lelystad,Zuiderzeewijk
+WK099512,WC,29.77777778,Lelystad,Atolwijk
+WK099516,WC,160.0,Lelystad,Centrumzone Wijk1
+WK099521,WC,0.0,Lelystad,Schepenwijk Noord
+WK099522,WC,57.75862069,Lelystad,Schepenwijk Oost
+WK099523,WC,0.0,Lelystad,Schepenwijk West
+WK099524,WC,0.0,Lelystad,Schepenwijk Zuid
+WK099525,WC,0.0,Lelystad,Houtribhoogte
+WK099527,WC,0.0,Lelystad,Zuigerplaspark
+WK099531,WC,0.0,Lelystad,Landstrekenwijk
+WK099532,WC,0.0,Lelystad,Villapark Hollandse Hout
+WK099535,WC,0.0,Lelystad,Lelystad-Haven
+WK099538,WC,0.0,Lelystad,Industrieterrein Noordersluis
+WK099541,WC,123.592233,Lelystad,Boswijk
+WK099542,WC,0.0,Lelystad,Waterwijk
+WK099543,WC,0.0,Lelystad,Landerijen
+WK099551,WC,0.0,Lelystad,Warande Noord
+WK099562,WC,0.0,Lelystad,Stadscentrum Noord
+WK099563,WC,0.0,Lelystad,Stadscentrum Zuid
+WK099566,WC,96.57657658,Lelystad,"""Stadscentrum"
+WK099576,WC,0.0,Lelystad,Vogelweg
+GM1507,GEM,71.11111111,Horst aan de Maas,
+WK150700,WC,0.0,Horst aan de Maas,Wijk 00 Griendtsveen
+WK150701,WC,0.0,Horst aan de Maas,Wijk 01 America
+WK150702,WC,0.0,Horst aan de Maas,Wijk 02 Meterik
+WK150703,WC,67.0,Horst aan de Maas,Wijk 03 Hegelsom
+WK150704,WC,80.4,Horst aan de Maas,Wijk 04 Horst
+WK150705,WC,62.3255814,Horst aan de Maas,Wijk 05 Melderslo
+WK150706,WC,0.0,Horst aan de Maas,Wijk 06 Broekhuizen
+WK150707,WC,43.22580645,Horst aan de Maas,Wijk 07 Lottum
+WK150708,WC,86.70588235,Horst aan de Maas,Wijk 08 Grubbenvorst
+WK150709,WC,0.0,Horst aan de Maas,Wijk 09 Broekhuizen
+WK150710,WC,75.49295775,Horst aan de Maas,Wijk 10 Sevenum
+WK150711,WC,0.0,Horst aan de Maas,Wijk 11 Kronenberg
+WK150712,WC,0.0,Horst aan de Maas,Wijk 12 Evertsoorsd
+WK150713,WC,50.56603774,Horst aan de Maas,Wijk 13 Meerlo
+WK150714,WC,172.9032258,Horst aan de Maas,Wijk 14 Tienray
+WK150715,WC,95.71428571,Horst aan de Maas,Wijk 15 Swolgen
+GM1509,GEM,92.11830536,Oude IJsselstreek,
+WK150900,WC,54.91803279,Oude IJsselstreek,Wijk 00 Ulft-Etten
+WK150901,WC,37.05069124,Oude IJsselstreek,Wijk 01 Overig Gendringen
+WK150902,WC,125.625,Oude IJsselstreek,Wijk 02 Silvolde-Terborg
+WK150903,WC,136.1269841,Oude IJsselstreek,Wijk 03 Varsseveld
+GM1525,GEM,77.04312115,Teylingen,
+WK152500,WC,73.34736842,Teylingen,Wijk 00 Sassenheim
+WK152501,WC,81.70731707,Teylingen,Wijk 01 Voorhout
+WK152502,WC,70.94117647,Teylingen,Wijk 02 Warmond
+GM1581,GEM,90.67669173,Utrechtse Heuvelrug,
+WK158100,WC,145.0515464,Utrechtse Heuvelrug,Wijk 00 Doorn
+WK158101,WC,73.13001605,Utrechtse Heuvelrug,Wijk 01 Driebergen-Rijssenburg
+WK158102,WC,49.44649446,Utrechtse Heuvelrug,Wijk 02 Leersum
+WK158103,WC,138.206278,Utrechtse Heuvelrug,Wijk 03 Amerongen
+WK158104,WC,48.07174888,Utrechtse Heuvelrug,Wijk 04 Maarn
+GM1586,GEM,78.63849765,Oost Gelre,
+WK158601,WC,98.37974684,Oost Gelre,Wijk 01 Lichtenvoorde
+WK158602,WC,0.0,Oost Gelre,Wijk 02 Harreveld
+WK158603,WC,0.0,Oost Gelre,Wijk 03 Zieuwewnt
+WK158604,WC,0.0,Oost Gelre,Wijk 04 Lievelde
+WK158605,WC,0.0,Oost Gelre,Wijk 05 Vragender
+WK158606,WC,70.29508197,Oost Gelre,Wijk 06 Groenlo
+WK158607,WC,0.0,Oost Gelre,Wijk 07 Marienvelde
+GM1598,GEM,72.06722689,Koggenland,
+WK159800,WC,64.68965517,Koggenland,Wijk 00 Westerkoggenland
+WK159801,WC,144.8648649,Koggenland,Wijk 01 Spierdijk
+WK159802,WC,412.3076923,Koggenland,Wijk 02 Zuidermeer
+WK159803,WC,78.82352941,Koggenland,Wijk 03 Ursem
+WK159804,WC,24.58715596,Koggenland,Wijk 04 Avenhorn
+WK159805,WC,0.0,Koggenland,Wijk 05 Oudendijk
+WK159806,WC,96.33986928,Koggenland,Wijk 06 Obdam
+WK159807,WC,0.0,Koggenland,Wijk 07 Hensbroek
+GM1621,GEM,81.0483871,Lansingerland,
+WK162111,WC,103.0769231,Lansingerland,Wijk 11 Bergschenhoek
+WK162112,WC,46.20689655,Lansingerland,Wijk 12 De Ackers
+WK162113,WC,32.68292683,Lansingerland,Wijk 13 Boterdorp
+WK162115,WC,0.0,Lansingerland,Wijk 15 Oosteindsche Polder
+WK162121,WC,46.74418605,Lansingerland,Wijk 21 Berkel
+WK162122,WC,82.04081633,Lansingerland,Wijk 22 Noordpolder
+WK162123,WC,219.0384615,Lansingerland,Wijk 23 Meerpolder
+WK162124,WC,0.0,Lansingerland,Wijk 24 Noordeinde
+WK162125,WC,52.89473684,Lansingerland,Wijk 25 Zuidpolder
+WK162126,WC,0.0,Lansingerland,Wijk 26 De Wadden
+WK162127,WC,197.0588235,Lansingerland,Wijk 27 Westpolder
+WK162128,WC,0.0,Lansingerland,Wijk 28 Rodenrijs
+WK162131,WC,99.8757764,Lansingerland,Wijk 31 Bleiswijk
+WK162132,WC,65.90163934,Lansingerland,Wijk 32 Hoekeindse Zoom
+WK162133,WC,0.0,Lansingerland,Wijk 33 Bleiswijk Buiten
+GM1640,GEM,93.29852045,Leudal,
+WK164000,WC,124.6511628,Leudal,Heythuysen
+WK164001,WC,0.0,Leudal,Heibloem
+WK164002,WC,46.60869565,Leudal,Roggel
+WK164003,WC,27.62886598,Leudal,Neer
+WK164004,WC,0.0,Leudal,Nunhem
+WK164005,WC,96.28742515,Leudal,Haelen
+WK164006,WC,0.0,Leudal,Buggenum
+WK164007,WC,216.7647059,Leudal,Horn
+WK164008,WC,37.74647887,Leudal,Baexem
+WK164009,WC,229.7142857,Leudal,Kelpen-Oler
+WK164010,WC,119.1111111,Leudal,Grathem
+WK164011,WC,0.0,Leudal,Ell
+WK164012,WC,0.0,Leudal,Haler
+WK164013,WC,0.0,Leudal,Hunsel
+WK164014,WC,0.0,Leudal,Neeritter
+WK164015,WC,0.0,Leudal,Ittervoort
+GM1641,GEM,66.51331719,Maasgouw,
+WK164100,WC,77.20164609,Maasgouw,Wijk 00 Maasbracht
+WK164101,WC,55.37190083,Maasgouw,Wijk 01 Linne
+WK164102,WC,0.0,Maasgouw,Wijk 02 Stevensweert
+WK164103,WC,0.0,Maasgouw,Wijk 03 Ohé en Laak
+WK164104,WC,134.0,Maasgouw,Wijk 04 Thorn
+WK164105,WC,33.71069182,Maasgouw,Wijk 05 Heel
+WK164106,WC,0.0,Maasgouw,Wijk 06 Beegden
+WK164107,WC,77.68115942,Maasgouw,Wijk 07 Wessem
+GM1651,GEM,41.52892562,Eemsmond,
+WK165100,WC,25.04672897,Eemsmond,Wijk 00
+WK165101,WC,72.15384615,Eemsmond,Wijk 01
+WK165102,WC,0.0,Eemsmond,Wijk 02
+WK165103,WC,0.0,Eemsmond,Wijk 03
+WK165104,WC,39.41176471,Eemsmond,Wijk 04
+GM1652,GEM,65.84329349,Gemert-Bakel,
+WK165200,WC,72.43243243,Gemert-Bakel,Wijk 00 Gemert
+WK165201,WC,48.72727273,Gemert-Bakel,Wijk 01 Handel
+WK165202,WC,0.0,Gemert-Bakel,Wijk 02 De Mortel
+WK165203,WC,0.0,Gemert-Bakel,Wijk 03 Elsendorp
+WK165204,WC,69.16129032,Gemert-Bakel,Wijk 04 Bakel
+WK165205,WC,0.0,Gemert-Bakel,Wijk 05 Milheeze
+WK165206,WC,0.0,Gemert-Bakel,Wijk 06 De Rips
+GM1655,GEM,63.40694006,Halderberge,
+WK165501,WC,63.47368421,Halderberge,Wijk 01 Oud Gastel
+WK165502,WC,0.0,Halderberge,Wijk 02 Stampersgat
+WK165503,WC,68.24074074,Halderberge,Wijk 03 Oudenbosch
+WK165504,WC,59.55555556,Halderberge,Wijk 04 Hoeven
+WK165505,WC,37.74647887,Halderberge,Wijk 05 Bosschenhoofd
+GM1658,GEM,79.57854406,Heeze-Leende,
+WK165800,WC,67.19764012,Heeze-Leende,Wijk 00 Heeze
+WK165801,WC,134.0,Heeze-Leende,Wijk 01 Leende
+WK165802,WC,0.0,Heeze-Leende,Wijk 02 Leenderstrijp
+WK165803,WC,0.0,Heeze-Leende,Wijk 03 Sterksel
+GM1659,GEM,74.55950541,Laarbeek,
+WK165900,WC,58.05054152,Laarbeek,Wijk 00 Beek en Donk
+WK165901,WC,72.04301075,Laarbeek,Wijk 01 Aarle-Rixtel
+WK165902,WC,61.3740458,Laarbeek,Wijk 02 Lieshout
+WK165903,WC,176.9811321,Laarbeek,Wijk 03 Mariahout
+GM1663,GEM,57.72307692,De Marne,
+WK166300,WC,25.52380952,De Marne,Wijk 00
+WK166301,WC,112.7102804,De Marne,Wijk 01
+WK166302,WC,35.26315789,De Marne,Wijk 02
+WK166303,WC,0.0,De Marne,Wijk 03
+GM1667,GEM,47.39549839,Reusel-De Mierden,
+WK166700,WC,50.09345794,Reusel-De Mierden,Wijk 00 Reusel
+WK166701,WC,0.0,Reusel-De Mierden,Wijk 01 Hooge Mierde
+WK166702,WC,0.0,Reusel-De Mierden,Wijk 02 Lage Mierde
+WK166703,WC,0.0,Reusel-De Mierden,Wijk 03 Hulsel
+GM1669,GEM,81.26939351,Roerdalen,
+WK166901,WC,52.54901961,Roerdalen,Montfort
+WK166902,WC,102.3611111,Roerdalen,Sint Odiliënberg
+WK166903,WC,36.54545455,Roerdalen,Melick
+WK166904,WC,72.71317829,Roerdalen,Posterholt
+WK166905,WC,121.0322581,Roerdalen,Herkenbosch
+WK166906,WC,77.68115942,Roerdalen,Vlodrop
+GM1674,GEM,72.20475977,Roosendaal,
+WK167400,WC,31.60377358,Roosendaal,Wijk 00 Centrum
+WK167401,WC,50.97826087,Roosendaal,Wijk 01 Oost
+WK167402,WC,71.60305344,Roosendaal,Wijk 02 Noord
+WK167403,WC,79.15611814,Roosendaal,Wijk 03 West
+WK167404,WC,92.51046025,Roosendaal,Wijk 04 Groot Kroeven
+WK167405,WC,38.84057971,Roosendaal,Wijk 05 Langdonk
+WK167406,WC,68.71794872,Roosendaal,Wijk 06 Kortendijk
+WK167407,WC,131.372549,Roosendaal,Wijk 07 Tolberg
+WK167408,WC,0.0,Roosendaal,Wijk 08 Industriegebieden
+WK167410,WC,0.0,Roosendaal,Wijk 10 Nispen
+WK167411,WC,48.72727273,Roosendaal,Wijk 11 Wouw
+WK167412,WC,0.0,Roosendaal,Wijk 12 Heerle
+WK167413,WC,0.0,Roosendaal,Wijk 13 Moerstraten
+WK167414,WC,92.4137931,Roosendaal,Wijk 14 Wouwse Plantage
+GM1676,GEM,67.2627451,Schouwen-Duiveland,
+WK167600,WC,103.5748792,Schouwen-Duiveland,Wijk 00 Zierikzee
+WK167601,WC,0.0,Schouwen-Duiveland,Wijk 01 Brouwershaven
+WK167602,WC,0.0,Schouwen-Duiveland,Wijk 02 Zonnemaire
+WK167603,WC,0.0,Schouwen-Duiveland,Wijk 03 Dreischor
+WK167604,WC,0.0,Schouwen-Duiveland,Wijk 04 Noordgouwe
+WK167605,WC,52.34375,Schouwen-Duiveland,Wijk 05 Bruinisse
+WK167606,WC,72.43243243,Schouwen-Duiveland,Wijk 06 Nieuwerkerk
+WK167607,WC,37.22222222,Schouwen-Duiveland,Wijk 07 Oosterland
+WK167608,WC,0.0,Schouwen-Duiveland,Wijk 08 Ouwerkerk
+WK167609,WC,0.0,Schouwen-Duiveland,Wijk 09 Scharendijke
+WK167610,WC,0.0,Schouwen-Duiveland,Wijk 10 Kerkwerve
+WK167611,WC,0.0,Schouwen-Duiveland,Wijk 11 Ellemeet
+WK167612,WC,76.8852459,Schouwen-Duiveland,Wijk 12 Haamstede
+WK167613,WC,36.21621622,Schouwen-Duiveland,Wijk 13 Renesse
+WK167614,WC,0.0,Schouwen-Duiveland,Wijk 14 Noordwelle
+WK167615,WC,0.0,Schouwen-Duiveland,Wijk 15 Serooskerke
+GM1680,GEM,57.9294653,Aa en Hunze,
+WK168000,WC,45.42372881,Aa en Hunze,Wijk 00 Annen
+WK168001,WC,0.0,Aa en Hunze,Wijk 01 Eext
+WK168002,WC,0.0,Aa en Hunze,Wijk 02 Anloo
+WK168003,WC,0.0,Aa en Hunze,Wijk 03 Gasteren
+WK168004,WC,0.0,Aa en Hunze,Wijk 04 Anderen
+WK168005,WC,0.0,Aa en Hunze,Wijk 05 Schipborg
+WK168006,WC,0.0,Aa en Hunze,Wijk 06 Eexterveen
+WK168007,WC,0.0,Aa en Hunze,Wijk 07 Spijkerboor
+WK168008,WC,0.0,Aa en Hunze,Wijk 08 Nieuw-Annerveen
+WK168009,WC,0.0,Aa en Hunze,Wijk 09 Oud-Annerveen
+WK168011,WC,0.0,Aa en Hunze,Wijk 11 Annerveenschekanaal
+WK168012,WC,0.0,Aa en Hunze,Wijk 12 Eexterveenschekanaal
+WK168013,WC,0.0,Aa en Hunze,Wijk 13 Eexterzandvoort
+WK168014,WC,63.05882353,Aa en Hunze,Wijk 14 Gasselte
+WK168015,WC,58.26086957,Aa en Hunze,Wijk 15 Gasselternijveen
+WK168016,WC,0.0,Aa en Hunze,Wijk 16 Gasselternijveenschemond
+WK168017,WC,72.25490196,Aa en Hunze,Wijk 17 Gieten
+WK168018,WC,0.0,Aa en Hunze,Wijk 18 Gieterveen
+WK168019,WC,78.05825243,Aa en Hunze,Wijk 19 Rolde
+WK168020,WC,0.0,Aa en Hunze,Wijk 20 Grolloo
+WK168021,WC,0.0,Aa en Hunze,Wijk 21 Ekehaar
+GM1681,GEM,58.47272727,Borger-Odoorn,
+WK168100,WC,60.90909091,Borger-Odoorn,Wijk 00 Borger
+WK168101,WC,0.0,Borger-Odoorn,Wijk 01 Buinen
+WK168102,WC,0.0,Borger-Odoorn,Wijk 02 Bronneger
+WK168103,WC,0.0,Borger-Odoorn,Wijk 03 Drouwen
+WK168104,WC,0.0,Borger-Odoorn,Wijk 04 Bronnegerveen
+WK168105,WC,0.0,Borger-Odoorn,Wijk 05 Drouwenerveen
+WK168106,WC,0.0,Borger-Odoorn,Wijk 06 Drouwenermond
+WK168107,WC,34.35897436,Borger-Odoorn,Wijk 07 Nieuw-Buinen
+WK168108,WC,0.0,Borger-Odoorn,Wijk 08 Buinerveen
+WK168109,WC,0.0,Borger-Odoorn,Wijk 09 Ees
+WK168110,WC,116.5217391,Borger-Odoorn,Wijk 10 Odoorn
+WK168111,WC,50.25,Borger-Odoorn,Wijk 11 Exloo
+WK168112,WC,0.0,Borger-Odoorn,Wijk 12 Valthe
+WK168113,WC,0.0,Borger-Odoorn,Wijk 13 Klijndijk
+WK168114,WC,0.0,Borger-Odoorn,Wijk 14 Odoornerveen
+WK168115,WC,56.61971831,Borger-Odoorn,Wijk 15 Tweede Exloërmond
+WK168116,WC,92.4137931,Borger-Odoorn,Wijk 16 Valthermond
+GM1684,GEM,70.12729844,Cuijk,
+WK168400,WC,73.38742394,Cuijk,Wijk 00 Cuijk
+WK168401,WC,72.43243243,Cuijk,Wijk 01 Vianen
+WK168402,WC,0.0,Cuijk,Wijk 02 Sint Agatha
+WK168403,WC,0.0,Cuijk,Wijk 03 Katwijk
+WK168404,WC,94.58823529,Cuijk,Wijk 04 Haps
+WK168405,WC,0.0,Cuijk,Wijk 05 Beers
+WK168406,WC,0.0,Cuijk,Wijk 06 Linden
+GM1685,GEM,99.72093023,Landerd,
+WK168500,WC,144.0186916,Landerd,Wijk 00 Schaijk
+WK168501,WC,0.0,Landerd,Wijk 01 Reek
+WK168502,WC,69.31034483,Landerd,Wijk 02 Zeeland
+WK168509,WC,0.0,Landerd,Wijk 09 Verspreide huizen Zeeland
+GM1690,GEM,56.91119691,De Wolden,
+WK169000,WC,64.08695652,De Wolden,Wijk 00 Zuidwolde
+WK169001,WC,0.0,De Wolden,Wijk 01 Alteveer
+WK169002,WC,0.0,De Wolden,Wijk 02 Kerkenveld
+WK169003,WC,0.0,De Wolden,Wijk 03 Drogteropslagen
+WK169004,WC,0.0,De Wolden,Wijk 04 Linde
+WK169005,WC,0.0,De Wolden,Wijk 05 Fort
+WK169006,WC,0.0,De Wolden,Wijk 06 Veeningen
+WK169007,WC,0.0,De Wolden,Wijk 07 Echten
+WK169008,WC,62.1192053,De Wolden,Wijk 08 Ruinen
+WK169010,WC,0.0,De Wolden,Wijk 10 Ansen
+WK169011,WC,62.61682243,De Wolden,Wijk 11 Ruinerwold
+WK169012,WC,0.0,De Wolden,Wijk 12 Koekange
+WK169013,WC,48.28828829,De Wolden,Wijk 13 De Wijk
+GM1695,GEM,87.70909091,Noord-Beveland,
+WK169500,WC,39.41176471,Noord-Beveland,Wijk 00 Kortgene
+WK169501,WC,134.0,Noord-Beveland,Wijk 01 Colijnsplaat
+WK169502,WC,0.0,Noord-Beveland,Wijk 02 Kats
+WK169503,WC,69.61038961,Noord-Beveland,Wijk 03 Kamperland
+WK169504,WC,58.26086957,Noord-Beveland,Wijk 04 Wissenkerke
+WK169505,WC,412.3076923,Noord-Beveland,Wijk 05 Geersdijk
+GM1696,GEM,83.85481852,Wijdemeren,
+WK169600,WC,0.0,Wijdemeren,Wijk 00 's-Graveland
+WK169601,WC,67.28033473,Wijdemeren,Wijk 01 Kortenhoef
+WK169602,WC,0.0,Wijdemeren,Wijk 02 Ankeveen
+WK169603,WC,47.85714286,Wijdemeren,Wijk 03 Loosdrecht
+WK169604,WC,114.5299145,Wijdemeren,Wijk 04 Nieuw-Loosdrecht
+WK169605,WC,0.0,Wijdemeren,Wijk 05 Breukeleveen
+WK169606,WC,112.2905028,Wijdemeren,Wijk 06 Nederhorst den Berg
+GM1699,GEM,61.62207358,Noordenveld,
+WK169900,WC,63.36578581,Noordenveld,Wijk 00 Roden
+WK169901,WC,0.0,Noordenveld,Wijk 01 Roden
+WK169903,WC,53.6,Noordenveld,Wijk 03 Norg
+WK169904,WC,0.0,Noordenveld,Wijk 04 Norg
+WK169906,WC,76.37305699,Noordenveld,Wijk 06 Peize
+GM1700,GEM,74.18138987,Twenterand,
+WK170000,WC,82.71604938,Twenterand,Wijk 00 Vriezenveen (kern)
+WK170001,WC,0.0,Twenterand,Wijk 01 Vriezenveen (buitengebied)
+WK170002,WC,76.57142857,Twenterand,Wijk 02 Westerhaar-Vriezenveensewijk
+WK170003,WC,87.73809524,Twenterand,Wijk 03 Kloosterhaar
+WK170004,WC,52.66375546,Twenterand,Wijk 04 Bruinehaar
+GM1701,GEM,52.2311828,Westerveld,
+WK170100,WC,67.0,Westerveld,Wijk 00 Diever
+WK170101,WC,0.0,Westerveld,Wijk 01 Wapse
+WK170102,WC,0.0,Westerveld,Wijk 02 Zorgvlied
+WK170103,WC,99.25925926,Westerveld,Wijk 03 Dwingeloo
+WK170104,WC,0.0,Westerveld,Wijk 04 Lhee
+WK170105,WC,0.0,Westerveld,Wijk 05 Eemster
+WK170106,WC,0.0,Westerveld,Wijk 06 Geeuwenbrug
+WK170107,WC,0.0,Westerveld,Wijk 07 Dieverbrug
+WK170108,WC,47.37373737,Westerveld,Wijk 08 Havelte
+WK170109,WC,0.0,Westerveld,Wijk 09 Uffelte
+WK170110,WC,0.0,Westerveld,Wijk 10 Wapserveen
+WK170111,WC,26.2745098,Westerveld,Wijk 11 Vledder
+WK170112,WC,0.0,Westerveld,Wijk 12 Frederiksoord
+WK170113,WC,0.0,Westerveld,Wijk 13 Nijensleek
+WK170114,WC,0.0,Westerveld,Wijk 14 Vledderveen
+WK170115,WC,144.8648649,Westerveld,Wijk 15 Wilhelminaoord
+WK170116,WC,0.0,Westerveld,Wijk 16 Doldersum
+WK170117,WC,0.0,Westerveld,Wijk 17 Boschoord
+GM1702,GEM,73.31306991,Sint Anthonis,
+WK170200,WC,100.5,Sint Anthonis,Wijk 00 Sint Anthonis
+WK170201,WC,0.0,Sint Anthonis,Wijk 01 Oploo
+WK170202,WC,0.0,Sint Anthonis,Wijk 02 Westerbeek
+WK170203,WC,0.0,Sint Anthonis,Wijk 03 Stevensbeek
+WK170204,WC,70.52631579,Sint Anthonis,Wijk 04 Wanroij
+WK170205,WC,0.0,Sint Anthonis,Wijk 05 Landhorst
+GM1705,GEM,69.21711057,Lingewaard,
+WK170500,WC,80.14953271,Lingewaard,Wijk 00 Bemmel
+WK170501,WC,63.507109,Lingewaard,Wijk 01 Gendt
+WK170502,WC,57.07910751,Lingewaard,Wijk 02 Huissen
+GM1706,GEM,82.58859784,Cranendonck,
+WK170600,WC,97.29372937,Cranendonck,Wijk 00 Budel
+WK170601,WC,42.53968254,Cranendonck,Wijk 01 Schoot
+WK170602,WC,0.0,Cranendonck,Wijk 02 Dorplein
+WK170603,WC,104.2222222,Cranendonck,Wijk 03 Maarheeze
+WK170604,WC,0.0,Cranendonck,Wijk 04 Soerendonk
+WK170605,WC,0.0,Cranendonck,Wijk 05 Gastel
+GM1708,GEM,62.13911743,Steenwijkerland,
+WK170800,WC,72.9015544,Steenwijkerland,Wijk 00 Stad-Steenwijk
+WK170802,WC,27.91666667,Steenwijkerland,Wijk 02 Oldemarkt
+WK170803,WC,0.0,Steenwijkerland,Wijk 03 Kalenberg
+WK170804,WC,0.0,Steenwijkerland,Wijk 04 Kuinre
+WK170805,WC,0.0,Steenwijkerland,Wijk 05 Blankenham
+WK170806,WC,0.0,Steenwijkerland,Wijk 06 Scheerwolde
+WK170807,WC,66.44628099,Steenwijkerland,Wijk 07 Vollenhove
+WK170808,WC,0.0,Steenwijkerland,Wijk 08 Sint Jansklooster
+WK170809,WC,0.0,Steenwijkerland,Wijk 09 Heetveld
+WK170810,WC,0.0,Steenwijkerland,Wijk 10 Belt-Schutsloot
+WK170811,WC,0.0,Steenwijkerland,Wijk 11 Wanneperveen
+WK170812,WC,0.0,Steenwijkerland,Wijk 12 Dinxterveen
+WK170813,WC,49.62962963,Steenwijkerland,Wijk 13 Giethoorn-Zuid
+WK170814,WC,0.0,Steenwijkerland,Wijk 14 Giethoorn-Noord
+WK170815,WC,0.0,Steenwijkerland,Wijk 15 Dwarsgracht
+WK170816,WC,82.04081633,Steenwijkerland,Wijk 16 Blokzijl
+GM1709,GEM,64.87895717,Moerdijk,
+WK170900,WC,69.76138829,Moerdijk,Wijk 00 Zevenbergen
+WK170901,WC,62.3255814,Moerdijk,Wijk 01 Zevenbergschen Hoek
+WK170902,WC,0.0,Moerdijk,Wijk 02 Langeweg
+WK170903,WC,67.42138365,Moerdijk,Wijk 03 Klundert
+WK170904,WC,0.0,Moerdijk,Wijk 04 Moerdijk
+WK170905,WC,0.0,Moerdijk,Wijk 05 Noordhoek
+WK170906,WC,0.0,Moerdijk,Wijk 06 Standdaarbuiten
+WK170907,WC,86.91891892,Moerdijk,Wijk 07 Fijnaart
+WK170908,WC,0.0,Moerdijk,Wijk 08 Heijningen
+WK170909,WC,38.28571429,Moerdijk,Wijk 09 Willemstad
+WK170910,WC,0.0,Moerdijk,Wijk 10 Helwijk
+GM1711,GEM,90.52331113,Echt-Susteren,
+WK171101,WC,125.2336449,Echt-Susteren,Wijk 01 Susteren
+WK171102,WC,0.0,Echt-Susteren,Wijk 02 Dieteren
+WK171103,WC,0.0,Echt-Susteren,Wijk 03 Heide
+WK171104,WC,0.0,Echt-Susteren,Wijk 04 Roosteren
+WK171105,WC,107.2,Echt-Susteren,Wijk 05 Echt
+WK171106,WC,0.0,Echt-Susteren,Wijk 06 Maria Hoop
+WK171107,WC,92.65957447,Echt-Susteren,Wijk 07 Peij
+WK171108,WC,0.0,Echt-Susteren,Wijk 08 Slek
+WK171109,WC,65.04854369,Echt-Susteren,Wijk 09 Nieuwstadt
+WK171110,WC,116.5217391,Echt-Susteren,Wijk 10 Sint Joost
+WK171111,WC,52.54901961,Echt-Susteren,Wijk 11 Koningsbosch
+GM1714,GEM,64.29661941,Sluis,
+WK171400,WC,78.82352941,Sluis,Wijk 00 Sluis
+WK171401,WC,0.0,Sluis,Wijk 01 Retranchement
+WK171402,WC,74.44444444,Sluis,Wijk 02 Aardenburg
+WK171403,WC,0.0,Sluis,Wijk 03 Eede
+WK171404,WC,0.0,Sluis,Wijk 04 Sint Kruis
+WK171405,WC,65.68627451,Sluis,Wijk 05 Oostburg
+WK171406,WC,0.0,Sluis,Wijk 06 Zuidzande
+WK171407,WC,0.0,Sluis,Wijk 07 Cadzand
+WK171408,WC,0.0,Sluis,Wijk 08 Nieuwvliet
+WK171409,WC,0.0,Sluis,Wijk 09 Groede
+WK171410,WC,62.16494845,Sluis,Wijk 10 Breskens
+WK171411,WC,81.21212121,Sluis,Wijk 11 Hoofdplaat
+WK171412,WC,106.5909091,Sluis,Wijk 12 IJzendijke
+WK171413,WC,0.0,Sluis,Wijk 13 Schoondijke
+WK171414,WC,0.0,Sluis,Wijk 14 Waterlandkerkje
+GM1719,GEM,73.30788804,Drimmelen,
+WK171900,WC,75.01272265,Drimmelen,Wijk 00 Made
+WK171901,WC,0.0,Drimmelen,Wijk 01 Drimmelen
+WK171902,WC,101.2790698,Drimmelen,Wijk 02 Terheijden
+WK171903,WC,51.53846154,Drimmelen,Wijk 03 Wagenberg
+WK171904,WC,56.77966102,Drimmelen,Wijk 04 Lage Zwaluwe
+WK171905,WC,0.0,Drimmelen,Wijk 05 Hooge Zwaluwe
+GM1721,GEM,92.90246769,Bernheze,
+WK172101,WC,85.01510574,Bernheze,Kern Heesch
+WK172102,WC,148.8888889,Bernheze,Kern Heeswijk-Dinther
+WK172103,WC,85.35031847,Bernheze,Kern Nistelrode
+WK172104,WC,107.2,Bernheze,Buitengebied Heesch
+WK172105,WC,41.23076923,Bernheze,Buitengebied Heeswijk-Dinther
+WK172106,WC,41.23076923,Bernheze,Buitengebied Nistelrode
+GM1722,GEM,63.26180258,Ferwerderadiel,
+WK172200,WC,82.46153846,Ferwerderadiel,Wijk 00 Bouwstreek
+WK172201,WC,45.42372881,Ferwerderadiel,Wijk 01 Zuidwest
+WK172202,WC,0.0,Ferwerderadiel,Wijk 02
+GM1723,GEM,65.25974026,Alphen-Chaam,
+WK172300,WC,70.52631579,Alphen-Chaam,Wijk 00 Alphen
+WK172301,WC,54.32432432,Alphen-Chaam,Wijk 01 Chaam
+WK172302,WC,86.4516129,Alphen-Chaam,Wijk 02 Galder
+WK172308,WC,0.0,Alphen-Chaam,Wijk 08 Verspreide huizen
+GM1724,GEM,48.46292948,Bergeijk,
+WK172400,WC,57.37003058,Bergeijk,Wijk 00 Bergeijk
+WK172401,WC,0.0,Bergeijk,Wijk 01 Weebosch
+WK172402,WC,32.68292683,Bergeijk,Wijk 02 Luyksgestel
+WK172403,WC,36.71232877,Bergeijk,Wijk 03 Riethoven
+WK172404,WC,0.0,Bergeijk,Wijk 04 Westerhoven
+GM1728,GEM,78.29716194,Bladel,
+WK172800,WC,84.5045045,Bladel,Wijk 00 Bladel
+WK172801,WC,0.0,Bladel,Wijk 01 Netersel
+WK172802,WC,59.74522293,Bladel,Wijk 02 Hapert
+WK172803,WC,111.6666667,Bladel,Wijk 03 Hoogeloon
+WK172804,WC,0.0,Bladel,Wijk 04 Casteren
+GM1729,GEM,74.44444444,Gulpen-Wittem,
+WK172900,WC,127.6190476,Gulpen-Wittem,Wijk 00 Gulpen
+WK172901,WC,49.02439024,Gulpen-Wittem,Wijk 01 Wijlre
+WK172902,WC,47.01754386,Gulpen-Wittem,Wijk 02 Eys
+WK172903,WC,0.0,Gulpen-Wittem,Wijk 03 Wittem
+WK172904,WC,0.0,Gulpen-Wittem,Wijk 04 Mechelen
+WK172905,WC,121.8181818,Gulpen-Wittem,Wijk 05 Epen
+WK172906,WC,0.0,Gulpen-Wittem,Wijk 06 Slenaken
+GM1730,GEM,85.43231441,Tynaarlo,
+WK173000,WC,65.98484848,Tynaarlo,Wijk 00 Zuidlaren
+WK173001,WC,0.0,Tynaarlo,Wijk 01 De Groeve
+WK173002,WC,0.0,Tynaarlo,Wijk 02 Zuidlaarderveen
+WK173003,WC,0.0,Tynaarlo,Wijk 03 Midlaren
+WK173004,WC,265.0549451,Tynaarlo,Wijk 04 Westlaren
+WK173005,WC,0.0,Tynaarlo,Wijk 05 Schuilingsoord
+WK173006,WC,42.13836478,Tynaarlo,Wijk 06 Paterswolde
+WK173007,WC,99.62825279,Tynaarlo,Wijk 07 Eelde
+WK173008,WC,0.0,Tynaarlo,Wijk 08 Eelderwolde
+WK173009,WC,84.71264368,Tynaarlo,Wijk 09 Vries
+WK173010,WC,157.6470588,Tynaarlo,Wijk 10 Donderen
+WK173011,WC,0.0,Tynaarlo,Wijk 11 Bunne
+WK173012,WC,0.0,Tynaarlo,Wijk 12 Yde
+WK173013,WC,0.0,Tynaarlo,Wijk 13 Tynaarlo
+WK173014,WC,0.0,Tynaarlo,Wijk 14 Zeegse
+WK173015,WC,0.0,Tynaarlo,Wijk 15 Zeijen
+GM1731,GEM,58.3172147,Midden-Drenthe,
+WK173100,WC,61.56756757,Midden-Drenthe,Wijk 00 Beilen
+WK173101,WC,0.0,Midden-Drenthe,Wijk 01 Hijken
+WK173102,WC,0.0,Midden-Drenthe,Wijk 02 Hooghalen
+WK173103,WC,0.0,Midden-Drenthe,Wijk 03 Wijster
+WK173104,WC,0.0,Midden-Drenthe,Wijk 04 Spier
+WK173105,WC,0.0,Midden-Drenthe,Wijk 05 Drijber
+WK173106,WC,73.93103448,Midden-Drenthe,Wijk 06 Smilde
+WK173107,WC,33.92405063,Midden-Drenthe,Wijk 07 Bovensmilde
+WK173108,WC,0.0,Midden-Drenthe,Wijk 08 Hoogersmilde
+WK173109,WC,63.80952381,Midden-Drenthe,Wijk 09 Westerbork
+WK173110,WC,0.0,Midden-Drenthe,Wijk 10 Elp
+WK173111,WC,0.0,Midden-Drenthe,Wijk 11 Witteveen
+WK173112,WC,0.0,Midden-Drenthe,Wijk 12 Nieuw-Balinge
+WK173113,WC,0.0,Midden-Drenthe,Wijk 13 Nieuweroord
+WK173114,WC,0.0,Midden-Drenthe,Wijk 14 Zwiggelte
+WK173115,WC,0.0,Midden-Drenthe,Wijk 15 Orvelte
+WK173116,WC,0.0,Midden-Drenthe,Wijk 16 De Broekstreek
+GM1734,GEM,74.56810631,Overbetuwe,
+WK173400,WC,67.11985689,Overbetuwe,Wijk 00 Elst
+WK173401,WC,96.86746988,Overbetuwe,Wijk 01 Driel
+WK173402,WC,80.82539683,Overbetuwe,Wijk 02 Zetten
+WK173403,WC,36.21621622,Overbetuwe,Wijk 03 Oosterhout
+WK173404,WC,0.0,Overbetuwe,Wijk 04 Hemmen
+GM1735,GEM,68.77305533,Hof van Twente,
+WK173500,WC,95.12345679,Hof van Twente,Wijk 00 Goor
+WK173501,WC,26.01941748,Hof van Twente,Wijk 01 De Whee II
+WK173502,WC,58.51528384,Hof van Twente,Wijk 02 Markelo
+WK173503,WC,0.0,Hof van Twente,Wijk 03 Verspreide huizen Kerspel en omgeving
+WK173504,WC,0.0,Hof van Twente,Wijk 04 Elsen
+WK173505,WC,29.45054945,Hof van Twente,Wijk 05 Diepenheim
+WK173506,WC,84.25149701,Hof van Twente,Wijk 06 Delden
+WK173507,WC,0.0,Hof van Twente,Wijk 07 Overig Delden
+WK173508,WC,47.85714286,Hof van Twente,Wijk 08 Hengevelde
+WK173509,WC,0.0,Hof van Twente,Wijk 09 Bentelo
+GM1740,GEM,69.73977695,Neder-Betuwe,
+WK174000,WC,77.20164609,Neder-Betuwe,Wijk 00 Kesteren
+WK174001,WC,57.94594595,Neder-Betuwe,Wijk 01 Echteld
+WK174002,WC,73.09090909,Neder-Betuwe,Wijk 02 Dodewaard
+GM1742,GEM,87.01298701,Rijssen-Holten,
+WK174200,WC,100.9589041,Rijssen-Holten,Wijk 00 Stad Rijssen
+WK174201,WC,94.03508772,Rijssen-Holten,Wijk 01 Stadsrand
+WK174202,WC,0.0,Rijssen-Holten,Wijk 02 Buitengebied Rijssen
+WK174203,WC,75.28089888,Rijssen-Holten,Wijk 03 Holten
+WK174205,WC,57.42857143,Rijssen-Holten,Wijk 05 Buitengebied Holten
+WK174207,WC,0.0,Rijssen-Holten,Wijk 07 Bedrijventerrein Rijssen
+WK174208,WC,0.0,Rijssen-Holten,Wijk 08 Recreatiegebied De Borkeld
+GM1771,GEM,80.97021277,Geldrop-Mierlo,
+WK177100,WC,77.27797001,Geldrop-Mierlo,Wijk 00 Geldrop
+WK177101,WC,87.01298701,Geldrop-Mierlo,Wijk 01 Mierlo
+GM1773,GEM,68.18003914,Olst-Wijhe,
+WK177301,WC,78.82352941,Olst-Wijhe,Wijk 01 Olst
+WK177302,WC,64.49197861,Olst-Wijhe,Wijk 02 Wijhe
+WK177303,WC,0.0,Olst-Wijhe,Wijk 03 Wesepe
+WK177304,WC,181.0810811,Olst-Wijhe,Wijk 04 Boskamp
+WK177305,WC,0.0,Olst-Wijhe,Wijk 05 Boerhaar
+WK177306,WC,0.0,Olst-Wijhe,Wijk 06 Welsum
+WK177307,WC,0.0,Olst-Wijhe,Wijk 07 Den Nul
+WK177308,WC,0.0,Olst-Wijhe,Wijk 08 Eikelhof
+WK177309,WC,0.0,Olst-Wijhe,Wijk 09 Elshof
+WK177311,WC,0.0,Olst-Wijhe,Wijk 11 Middel
+WK177312,WC,0.0,Olst-Wijhe,Wijk 12 Herxen
+GM1774,GEM,102.8132992,Dinkelland,
+WK177410,WC,110.8633094,Dinkelland,Wijk 10 Denekamp
+WK177411,WC,0.0,Dinkelland,Wijk 11 Lattrop-Breklenkamp
+WK177412,WC,0.0,Dinkelland,Wijk 12 Tilligte
+WK177413,WC,251.25,Dinkelland,Wijk 13 Agelo
+WK177414,WC,206.1538462,Dinkelland,Wijk 14 Noord Deurningen
+WK177415,WC,102.4705882,Dinkelland,Wijk 15 Ootmarsum
+WK177416,WC,141.8823529,Dinkelland,Wijk 16 Weerselo
+WK177417,WC,0.0,Dinkelland,Wijk 17 Rossum
+WK177418,WC,0.0,Dinkelland,Wijk 18 Saasveld
+WK177419,WC,55.83333333,Dinkelland,Wijk 19 Deurningen
+WK177420,WC,0.0,Dinkelland,Wijk 20 Nutter
+WK177421,WC,0.0,Dinkelland,Wijk 21 Oud Ootmarsum
+GM1783,GEM,63.87762362,Westland,
+WK178301,WC,74.56628478,Westland,Wijk 01 Naaldwijk
+WK178302,WC,33.71069182,Westland,Wijk 02 Honselersdijk
+WK178303,WC,27.91666667,Westland,Wijk 03 Maasdijk
+WK178304,WC,76.84587814,Westland,Wijk 04 's-Gravenzande
+WK178305,WC,52.20779221,Westland,Wijk 05 Monster
+WK178306,WC,68.07486631,Westland,Wijk 06 Wateringen
+WK178307,WC,55.50295858,Westland,Wijk 07 De Lier
+WK178308,WC,51.53846154,Westland,Wijk 08 Kwintsheul
+WK178309,WC,71.36094675,Westland,Wijk 09 Poeldijk
+WK178310,WC,0.0,Westland,Wijk 10 Ter Heijde
+GM1842,GEM,58.7473904,Midden-Delfland,
+WK184200,WC,74.18685121,Midden-Delfland,Wijk 00 Schipluiden
+WK184201,WC,28.21052632,Midden-Delfland,Wijk 01 Maasland
+GM1859,GEM,62.68474576,Berkelland,
+WK185900,WC,57.42857143,Berkelland,Wijk 00 Borculo
+WK185901,WC,63.96984925,Berkelland,Wijk 01 Eibergen
+WK185902,WC,68.71794872,Berkelland,Wijk 02 Beltrum
+WK185903,WC,61.78674352,Berkelland,Wijk 03 Neede
+WK185904,WC,62.1192053,Berkelland,Wijk 04 Ruurlo
+GM1876,GEM,58.77192982,Bronckhorst,
+WK187600,WC,69.22509225,Bronckhorst,Wijk 00 Hengelo
+WK187601,WC,56.94050992,Bronckhorst,Wijk 01 Zelhem
+WK187602,WC,66.17283951,Bronckhorst,Wijk 02 Vorden
+WK187603,WC,39.7037037,Bronckhorst,Wijk 03 Steenderen
+WK187604,WC,54.85380117,Bronckhorst,Wijk 04 Hummelo en Keppel
+GM1883,GEM,94.35983827,Sittard-Geleen,
+WK188300,WC,229.9408284,Sittard-Geleen,Wijk 00 Limbrichterveld
+WK188301,WC,98.76494024,Sittard-Geleen,Wijk 01 Sittard
+WK188302,WC,56.65961945,Sittard-Geleen,Wijk 02 Overhoven
+WK188303,WC,44.17582418,Sittard-Geleen,Wijk 03 Munstergeleen
+WK188304,WC,49.9378882,Sittard-Geleen,Wijk 04 Guttecoven
+WK188305,WC,106.5481759,Sittard-Geleen,Wijk 05 Geleen
+WK188306,WC,96.0754717,Sittard-Geleen,Wijk 06 Holtum-Born
+WK188307,WC,55.06849315,Sittard-Geleen,Wijk 07 Obbicht en Papenhoven
+GM1884,GEM,59.22651934,Kaag en Braassem,
+WK188400,WC,70.09230769,Kaag en Braassem,Wijk 00 Roelofarendsveen
+WK188401,WC,0.0,Kaag en Braassem,Wijk 01 Overig Alkemade
+WK188402,WC,92.125,Kaag en Braassem,Wijk 02 Woubrugge
+WK188403,WC,0.0,Kaag en Braassem,Wijk 03 Rijnsaterwoude
+WK188404,WC,22.5210084,Kaag en Braassem,Wijk 04 Leimuiden
+GM1891,GEM,83.4519573,Dantumadiel,
+WK189100,WC,34.18367347,Dantumadiel,Wijk 00 Centrum
+WK189101,WC,0.0,Dantumadiel,Wijk 01 Oost
+WK189102,WC,127.8289474,Dantumadiel,Wijk 02 Zuid
+WK189103,WC,0.0,Dantumadiel,Wijk 03 West
+GM1892,GEM,69.83284169,Zuidplas,
+WK189201,WC,141.7307692,Zuidplas,Moerkapelle wijk 01
+WK189202,WC,82.55924171,Zuidplas,Zevenhuizen wijk 02
+WK189203,WC,61.84615385,Zuidplas,Moordrecht wijk 03
+WK189204,WC,55.50295858,Zuidplas,Nieuwerkerk aan den IJssel wijk 04
+GM1894,GEM,72.95436349,Peel en Maas,
+WK189400,WC,38.84057971,Peel en Maas,Wijk 00 Grashoek-Koningslust
+WK189401,WC,81.93293886,Peel en Maas,Wijk 01 Panningen
+WK189402,WC,67.0,Peel en Maas,Wijk 02 Kessel
+WK189403,WC,51.53846154,Peel en Maas,Wijk 03 Maasbree
+WK189404,WC,74.03314917,Peel en Maas,Wijk 04 Baarlo
+WK189405,WC,92.16931217,Peel en Maas,Wijk 05 Meijel
+GM1895,GEM,55.12658228,Oldambt,
+WK189500,WC,59.55555556,Oldambt,Wijk 00 Winschoten
+WK189501,WC,38.28571429,Oldambt,Wijk 01 Finsterwolde
+WK189502,WC,0.0,Oldambt,Wijk 02 Drieborg
+WK189503,WC,83.75,Oldambt,Wijk 03 Beerta
+WK189504,WC,0.0,Oldambt,Wijk 04 Nieuw-Beerta
+WK189505,WC,0.0,Oldambt,Wijk 05 Nieuweschans
+WK189506,WC,52.80788177,Oldambt,Wijk 06 Scheemda-Heiligerlee
+WK189507,WC,0.0,Oldambt,Wijk 01 Westerlee
+WK189508,WC,0.0,Oldambt,Wijk 02 Noord
+WK189509,WC,28.5106383,Oldambt,Wijk 03 Midwolda
+WK189510,WC,58.26086957,Oldambt,Wijk 04 Nieuwolda
+GM1896,GEM,64.96969697,Zwartewaterland,
+WK189600,WC,58.9010989,Zwartewaterland,Wijk 00 Genemuiden
+WK189601,WC,0.0,Zwartewaterland,Wijk 01 Kamperzeedijk
+WK189602,WC,84.27672956,Zwartewaterland,Wijk 02 Hasselt
+WK189603,WC,0.0,Zwartewaterland,Wijk 03 Landelijk gebied Hasselt
+WK189604,WC,61.3740458,Zwartewaterland,Wijk 04 Zwartsluis
+WK189605,WC,0.0,Zwartewaterland,Wijk 05 Mastenbroek
+GM1900,GEM,73.31781141,Súdwest-Fryslân,
+WK190000,WC,92.94797688,Súdwest-Fryslân,Wijk 00 Bolsward
+WK190001,WC,85.26115859,Súdwest-Fryslân,Wijk 01 Sneek
+WK190002,WC,75.97938144,Súdwest-Fryslân,Wijk 02 Nijefurd
+WK190003,WC,71.06060606,Súdwest-Fryslân,Wijk 03 Koudum
+WK190004,WC,38.28571429,Súdwest-Fryslân,Wijk 04 Hemelum
+WK190005,WC,41.02040816,Súdwest-Fryslân,Wijk 05 IJlst
+WK190006,WC,43.22580645,Súdwest-Fryslân,Wijk 06 Zuid IJlst
+WK190007,WC,0.0,Súdwest-Fryslân,Wijk 07 Oost IJlst
+WK190008,WC,0.0,Súdwest-Fryslân,Wijk 08 West IJlst
+WK190009,WC,93.48837209,Súdwest-Fryslân,Wijk 09 Oosthem
+WK190010,WC,0.0,Súdwest-Fryslân,Wijk 10 Noordwest IJlst
+WK190011,WC,0.0,Súdwest-Fryslân,Wijk 11 Zuidoost IJLst
+WK190012,WC,0.0,Súdwest-Fryslân,Wijk 12 Woudsend
+WK190013,WC,93.8,Súdwest-Fryslân,Wijk 13 Bouwhoek
+WK190014,WC,0.0,Súdwest-Fryslân,Wijk 14 Weidestreek Oost
+WK190015,WC,0.0,Súdwest-Fryslân,Wijk 15 Weidestreek West
+WK190016,WC,0.0,Súdwest-Fryslân,Wijk 16 Weidestreek Zuid
+WK190017,WC,83.00884956,Súdwest-Fryslân,Wijk 17 Makkum
+WK190018,WC,0.0,Súdwest-Fryslân,Wijk 18 Weidestreek Zuidwest
+WK190019,WC,0.0,Súdwest-Fryslân,Wijk 19 Boarnsterhim
+GM1901,GEM,58.26086957,Bodegraven-Reeuwijk,
+WK190101,WC,75.49295775,Bodegraven-Reeuwijk,Wijk 01 Bodegraven Noord
+WK190102,WC,45.42372881,Bodegraven-Reeuwijk,Wijk 02 Bodegraven Centrum
+WK190103,WC,68.87850467,Bodegraven-Reeuwijk,Wijk 03 Bodegraven Zuid
+WK190104,WC,0.0,Bodegraven-Reeuwijk,Wijk 04 Nieuwerbrug Noord
+WK190105,WC,0.0,Bodegraven-Reeuwijk,Wijk 05 Nieuwerbrug Zuid
+WK190106,WC,0.0,Bodegraven-Reeuwijk,Wijk 06 Reeuwijk Dorp
+WK190107,WC,57.84172662,Bodegraven-Reeuwijk,Wijk 07 Reeuwijk Brug
+WK190108,WC,0.0,Bodegraven-Reeuwijk,Wijk 08 Driebruggen
+WK190109,WC,0.0,Bodegraven-Reeuwijk,Wijk 09 Waarder
+GM1903,GEM,45.23864959,Eijsden-Margraten,
+WK190300,WC,60.2247191,Eijsden-Margraten,Wijk 00 Eijsden
+WK190301,WC,25.52380952,Eijsden-Margraten,Wijk 01 Gronsveld
+WK190302,WC,68.28025478,Eijsden-Margraten,Wijk 02 Margraten
+WK190303,WC,30.45454545,Eijsden-Margraten,Wijk 03 Cadier en Keer
+WK190304,WC,0.0,Eijsden-Margraten,Wijk 04 Sint Geertruid
+WK190305,WC,26.8,Eijsden-Margraten,Wijk 05 Mheer - Noorbeek
+GM1904,GEM,68.05604203,Stichtse Vecht,
+WK190401,WC,103.0769231,Stichtse Vecht,Wijk 01 Maarssen
+WK190402,WC,70.52631579,Stichtse Vecht,Wijk 02 Breukelen
+WK190403,WC,74.44444444,Stichtse Vecht,Wijk 03 Loenen aan de Vecht
+WK190404,WC,0.0,Stichtse Vecht,Wijk 04 Nieuwer Ter Aa
+WK190405,WC,77.90697674,Stichtse Vecht,Wijk 05 Kockengen
+WK190406,WC,0.0,Stichtse Vecht,Wijk 06 Vreeland
+WK190407,WC,0.0,Stichtse Vecht,Wijk 07 Tienhoven
+WK190408,WC,0.0,Stichtse Vecht,Wijk 08 Nigtevecht
+WK190409,WC,0.0,Stichtse Vecht,Wijk 09 Nieuwersluis
+WK190410,WC,0.0,Stichtse Vecht,Wijk 10 Loenersloot
+WK190411,WC,0.0,Stichtse Vecht,Wijk 11 Oud Zuilen
+WK190412,WC,40.13824885,Stichtse Vecht,Wijk 12 Maarssenbroek
+GM1908,GEM,68.25737265,Menameradiel,
+WK190800,WC,86.4516129,Menameradiel,Wijk 00 Bouwhoek West
+WK190801,WC,70.52631579,Menameradiel,Wijk 01 Greidhoek
+WK190802,WC,0.0,Menameradiel,Wijk 02 Tuinbouwgebied
+WK190803,WC,48.72727273,Menameradiel,Wijk 03 Bouwhoek Noord
+GM1911,GEM,47.26993865,Hollands Kroon,
+WK191100,WC,28.8172043,Hollands Kroon,Wijk 00 Winkel
+WK191101,WC,62.61682243,Hollands Kroon,Wijk 01 Nieuwe-Niedorp
+WK191102,WC,0.0,Hollands Kroon,Wijk 02 Oude-Niedorp
+WK191103,WC,0.0,Hollands Kroon,Wijk 03 Barsingerhorn en omgeving
+WK191104,WC,67.72563177,Hollands Kroon,Wijk 04 Wieringen
+WK191105,WC,31.43695015,Hollands Kroon,Wijk 05 Wieringermeer
+WK191106,WC,59.36708861,Hollands Kroon,Wijk 06
+WK191107,WC,51.53846154,Hollands Kroon,Wijk 07 Wieringerwaard en omgeving
+GM1916,GEM,84.70636215,Leidschendam-Voorburg,
+WK191601,WC,64.51851852,Leidschendam-Voorburg,Wijk 01 Park Veursehout
+WK191602,WC,160.8,Leidschendam-Voorburg,Wijk 02 Prinsenhof
+WK191603,WC,90.62801932,Leidschendam-Voorburg,Wijk 03 't Lien en omgeving
+WK191604,WC,63.80952381,Leidschendam-Voorburg,Wijk 04 Stompwijk
+WK191605,WC,64.14893617,Leidschendam-Voorburg,Wijk 05 Leidschendam-Centrum
+WK191606,WC,73.62637363,Leidschendam-Voorburg,Wijk 06 De Heuvel en omgeving
+WK191607,WC,62.03703704,Leidschendam-Voorburg,Wijk 07 Damsigt en omgeving
+WK191608,WC,138.962963,Leidschendam-Voorburg,Wijk 08 Essesteijn
+WK191609,WC,80.49469965,Leidschendam-Voorburg,Wijk 09 Voorburg Midden
+WK191610,WC,84.81012658,Leidschendam-Voorburg,Wijk 10 Bovenveen
+WK191611,WC,53.6,Leidschendam-Voorburg,Wijk 11 Voorburg Noord
+WK191612,WC,32.68292683,Leidschendam-Voorburg,Wijk 12 Voorburg West
+GM1924,GEM,72.45722108,Goeree-Overflakkee,
+WK192400,WC,45.42372881,Goeree-Overflakkee,Goedereede
+WK192401,WC,80.4,Goeree-Overflakkee,Ouddorp
+WK192402,WC,37.22222222,Goeree-Overflakkee,Stellendam
+WK192403,WC,43.8317757,Goeree-Overflakkee,Middelharnis
+WK192404,WC,32.68292683,Goeree-Overflakkee,Ooltgensplaat
+WK192405,WC,0.0,Goeree-Overflakkee,Den Bommel
+WK192406,WC,104.4155844,Goeree-Overflakkee,Oude-Tonge
+WK192407,WC,91.78082192,Goeree-Overflakkee,Dirksland
+WK192408,WC,0.0,Goeree-Overflakkee,Melissant
+WK192409,WC,0.0,Goeree-Overflakkee,Herkingen
+WK192410,WC,137.295082,Goeree-Overflakkee,Sommelsdijk
+WK192411,WC,40.0,Goeree-Overflakkee,Nieuwe-Tonge
+WK192412,WC,0.0,Goeree-Overflakkee,Stad aan 't Haringvliet
+WK192413,WC,0.0,Goeree-Overflakkee,Achthuizen
+GM1926,GEM,70.46125461,Pijnacker-Nootdorp,
+WK192601,WC,63.37837838,Pijnacker-Nootdorp,Pijnacker
+WK192602,WC,92.4137931,Pijnacker-Nootdorp,Nootdorp
+WK192603,WC,55.44827586,Pijnacker-Nootdorp,Delfgauw
+GM1927,GEM,61.43266476,Molenwaard,
+WK192700,WC,56.88679245,Molenwaard,Wijk 00 Nieuw-Lekkerland
+WK192701,WC,120.2564103,Molenwaard,Wijk 01 Bleskensgraaf
+WK192702,WC,0.0,Molenwaard,Wijk 02 Brandwijk
+WK192703,WC,0.0,Molenwaard,Wijk 03 Goudriaan
+WK192704,WC,0.0,Molenwaard,Wijk 04 Molenaarsgraaf
+WK192705,WC,0.0,Molenwaard,Wijk 05 Ottoland
+WK192706,WC,0.0,Molenwaard,Wijk 06 Oud-Alblas
+WK192707,WC,0.0,Molenwaard,Wijk 07 Wijngaarden
+WK192708,WC,65.68627451,Molenwaard,Wijk 08 Groot-Ammers
+WK192709,WC,0.0,Molenwaard,Wijk 09 Langerak
+WK192710,WC,67.0,Molenwaard,Wijk 10 Nieuwpoort
+WK192711,WC,65.90163934,Molenwaard,Wijk 11 Streefkerk
+GM1930,GEM,74.82233503,Nissewaard,
+WK193001,WC,82.95238095,Nissewaard,Centrum
+WK193002,WC,80.4,Nissewaard,Schiekamp
+WK193003,WC,91.06796117,Nissewaard,Hoogwerf
+WK193004,WC,0.0,Nissewaard,Vierambachten
+WK193005,WC,74.44444444,Nissewaard,De Hoek
+WK193006,WC,0.0,Nissewaard,Gildenwijk
+WK193007,WC,166.3448276,Nissewaard,Groenewoud
+WK193008,WC,53.95973154,Nissewaard,Sterrenkwartier
+WK193009,WC,53.24503311,Nissewaard,Schenkel
+WK193010,WC,126.9473684,Nissewaard,De Elementen
+WK193011,WC,42.20472441,Nissewaard,Vogelenzang
+WK193012,WC,56.61971831,Nissewaard,De Akkers
+WK193013,WC,0.0,Nissewaard,Vriesland
+WK193014,WC,35.26315789,Nissewaard,Waterland
+WK193015,WC,108.8034188,Nissewaard,Maaswijk
+WK193017,WC,0.0,Nissewaard,Buitengebied
+WK193025,WC,0.0,Nissewaard,Heenvliet
+WK193027,WC,0.0,Nissewaard,Geervliet
+WK193029,WC,0.0,Nissewaard,Abbenbroek
+WK193031,WC,75.70621469,Nissewaard,Zuidland
+WK193033,WC,0.0,Nissewaard,Simonshaven
+WK193035,WC,0.0,Nissewaard,Oudenhoorn
+WK193050,WC,108.6486486,Nissewaard,Hekelingen
+GM1931,GEM,76.38166047,Krimpenerwaard,
+WK193100,WC,84.45378151,Krimpenerwaard,Wijk 00 Lekkerkerk
+WK193101,WC,60.0,Krimpenerwaard,Wijk 01 Krimpen aan de Lek
+WK193102,WC,34.14012739,Krimpenerwaard,Wijk 02 Ouderkerk aan den IJssel
+WK193103,WC,121.8181818,Krimpenerwaard,Wijk 03 Gouderak
+WK193104,WC,85.8974359,Krimpenerwaard,Wijk 04 Bergambacht
+WK193105,WC,115.5172414,Krimpenerwaard,Wijk 05 Bergstoep
+WK193106,WC,0.0,Krimpenerwaard,Wijk 06 Ammerstol
+WK193107,WC,0.0,Krimpenerwaard,Wijk 07 Berkenwoude
+WK193108,WC,66.05633803,Krimpenerwaard,Wijk 08 Haastrecht
+WK193110,WC,92.4137931,Krimpenerwaard,Wijk 10 Stolwijk
+WK193111,WC,0.0,Krimpenerwaard,Wijk 11 Vlist
+WK193112,WC,91.10481586,Krimpenerwaard,Wijk 12 Schoonhoven
+GM1940,GEM,66.78864353,De Fryske Marren,
+WK194001,WC,0.0,De Fryske Marren,Wijk 01 Akmarijp
+WK194002,WC,76.57142857,De Fryske Marren,Wijk 02 Bakhuizen
+WK194003,WC,92.4137931,De Fryske Marren,Wijk 03 Balk
+WK194004,WC,0.0,De Fryske Marren,Wijk 04 Bantega
+WK194005,WC,0.0,De Fryske Marren,Wijk 05 Boornzwaag
+WK194006,WC,0.0,De Fryske Marren,Wijk 06 Broek
+WK194007,WC,0.0,De Fryske Marren,Wijk 07 Delfstrahuizen
+WK194008,WC,0.0,De Fryske Marren,Wijk 08 Dijken
+WK194010,WC,0.0,De Fryske Marren,Wijk 10 Echten
+WK194011,WC,0.0,De Fryske Marren,Wijk 11 Echtenerbrug
+WK194012,WC,893.3333333,De Fryske Marren,Wijk 12 Eesterga
+WK194013,WC,0.0,De Fryske Marren,Wijk 13 Elahuizen
+WK194014,WC,0.0,De Fryske Marren,Wijk 14 Follega
+WK194015,WC,0.0,De Fryske Marren,Wijk 15 Goingarijp
+WK194016,WC,0.0,De Fryske Marren,Wijk 16 Harich
+WK194017,WC,0.0,De Fryske Marren,Wijk 17 Haskerhorne
+WK194018,WC,0.0,De Fryske Marren,Wijk 18 Idskenhuizen
+WK194019,WC,75.0862069,De Fryske Marren,Wijk 19 Joure
+WK194021,WC,0.0,De Fryske Marren,Wijk 21 Langweer
+WK194023,WC,57.72307692,De Fryske Marren,Wijk 23 Lemmer
+WK194024,WC,0.0,De Fryske Marren,Wijk 24 Mirns
+WK194026,WC,0.0,De Fryske Marren,Wijk 26 Nijemirdum
+WK194028,WC,0.0,De Fryske Marren,Wijk 28 Oosterzee
+WK194029,WC,0.0,De Fryske Marren,Wijk 29 Oudega
+WK194030,WC,0.0,De Fryske Marren,Wijk 30 Oudehaske
+WK194031,WC,77.30769231,De Fryske Marren,Wijk 31 Oudemirdum
+WK194032,WC,0.0,De Fryske Marren,Wijk 32 Ouwsterhaule
+WK194034,WC,0.0,De Fryske Marren,Wijk 34 Rijs
+WK194035,WC,0.0,De Fryske Marren,Wijk 35 Rohel
+WK194036,WC,0.0,De Fryske Marren,Wijk 36 Rotstergaast
+WK194037,WC,0.0,De Fryske Marren,Wijk 37 Rotsterhaule
+WK194038,WC,0.0,De Fryske Marren,Wijk 38 Rottum
+WK194040,WC,178.6666667,De Fryske Marren,Wijk 40 Scharsterbrug
+WK194041,WC,102.0952381,De Fryske Marren,Wijk 41 Sint Nicolaasga
+WK194042,WC,0.0,De Fryske Marren,Wijk 42 Sinjohannesga
+WK194043,WC,0.0,De Fryske Marren,Wijk 43 Sloten
+WK194044,WC,0.0,De Fryske Marren,Wijk 44 Snikzwaag
+WK194045,WC,0.0,De Fryske Marren,Wijk 45 Sondel
+WK194046,WC,0.0,De Fryske Marren,Wijk 46 Terherne
+WK194047,WC,0.0,De Fryske Marren,Wijk 47 Terkaple
+WK194049,WC,0.0,De Fryske Marren,Wijk 49 Tjerkgaast
+WK194050,WC,0.0,De Fryske Marren,Wijk 50 Vegelinsoord
+WK194051,WC,0.0,De Fryske Marren,Wijk 51 Wijckel
+GM1942,GEM,96.5698324,Gooise Meren,
+WK194200,WC,60.90909091,Gooise Meren,Bussum Centrum
+WK194201,WC,48.72727273,Gooise Meren,Brediuskwartier
+WK194202,WC,148.8888889,Gooise Meren,Eng
+WK194203,WC,112.2513089,Gooise Meren,Spiegel
+WK194204,WC,46.66666667,Gooise Meren,Muiden
+WK194205,WC,89.63979417,Gooise Meren,Naarden
+GM1945,GEM,108.9619377,Berg en Dal,
+WK194500,WC,175.5862069,Berg en Dal,Beek
+WK194501,WC,213.4513274,Berg en Dal,Berg en Dal
+WK194502,WC,72.43243243,Berg en Dal,Breedeweg
+WK194503,WC,0.0,Berg en Dal,De Horst
+WK194504,WC,0.0,Berg en Dal,Erlecom
+WK194505,WC,108.8167053,Berg en Dal,Groesbeek
+WK194506,WC,0.0,Berg en Dal,Heilig Landstichting
+WK194507,WC,0.0,Berg en Dal,Kekerdom
+WK194508,WC,55.83333333,Berg en Dal,Leuth
+WK194509,WC,88.79518072,Berg en Dal,Millingen aan de Rijn
+WK194510,WC,61.6091954,Berg en Dal,Ooij
+WK194511,WC,0.0,Berg en Dal,Persingen
+WK194512,WC,0.0,Berg en Dal,Ubbergen
+GM1948,GEM,80.31350853,Meierijstad,
+WK194801,WC,70.52631579,Meierijstad,Erp
+WK194802,WC,87.43550835,Meierijstad,Schijndel
+WK194803,WC,68.13559322,Meierijstad,Sint-Oedenrode
+WK194804,WC,84.57920792,Meierijstad,Veghel
+GM1955,GEM,63.07282416,Montferland,
+WK195500,WC,67.0,Montferland,Wijk 00 's-Heerenberg
+WK195501,WC,35.89285714,Montferland,Wijk 01 Brakel
+WK195502,WC,65.24344569,Montferland,Wijk 02 Didam
+GM1987,GEM,50.88607595,Menterwolde,
+WK198700,WC,44.17582418,Menterwolde,Wijk 00 Zuidbroek
+WK198701,WC,151.6981132,Menterwolde,Wijk 01 Noordbroek
+WK198702,WC,0.0,Menterwolde,Wijk 02
+WK198703,WC,30.22556391,Menterwolde,Wijk 03
